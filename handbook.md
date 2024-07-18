@@ -1,492 +1,603 @@
-Handbook for
+---
+title: Handbook for Graduate Students in English
+subtitle: 30^th^ Edition, 2023-2024
+author: Loyola University Chicago
+---
+---
+colorlinks: true
+linkcolor: blue
+---
 
-Graduate Students
+\newpage
 
-in English
+# General Information
 
-Loyola University Chicago
+## People and Places
 
-30^th^ Edition
+### Department Office and Personnel
 
-2023-2024
+- Department Chair: Dr. David Chinitz, 415 Crown Center, 508-2240
+- Office Coordinator: Ms. Brenda Jervier, 401 Crown Center, 508-2240
+- Assistant Chair: Dr. Jeffrey Glover, 427 Crown Center, 508-2250
+- Director of Graduate Programs (GPD): Dr. Suzanne Bost, 423 Crown Center, 508-2241
+- Graduate Program Assistant: Ms. Almudena Rincón, 402 Crown Center, 508-2241
+- Director of Writing Programs: Dr. Melissa Bradshaw 206 Loyola Hall, 508-8466
+- Director of the Writing Center: Dr. Amy Kessel, 204 Loyola Hall, 508-2682
+- Director of Undergraduate Programs: Dr. Jack Cragwall, 461 Crown Center, 508-2791
+- Director of the Literacy Center: Dr. Jackie Heckman, 434 Crown Center, 508-8494
 
-<div>
+The English Department and the offices of all graduate faculty are located on the fourth floor of the Crown Center for the Humanities on the Lake Shore Campus.
+The Department can be reached by telephone at (773) 508-2240, or by post at:
 
-# []{#anchor}I. GENERAL INFORMATION
+> | Crown Center 402
+> | Loyola University Chicago
+> | 1032 West Sheridan Road
+> | Chicago, IL 60660
 
-## []{#anchor-1}Department Office and Personnel
+The Department maintains a website at <https://www.luc.edu/english>.
 
-Department Chair Dr. David Chinitz 415 Crown 508-2240
+### Graduate School Offices
 
-Office Coordinator Ms. Brenda Jervier 401 Crown 508-2240
+The main office of the Graduate School is on the fourth floor of the Granada Center on the Lake Shore Campus.
+This office handles admissions and financial aid, and houses the permanent files of all students throughout their graduate careers.
+The phone number for the Graduate School is (773) 508-3396.
+Dr. Emily Barman, Dean, Dr. Susan Grossman, Associate Dean, and Heather Sevener, Assistant Dean, are your primary contacts for policy inquiries.
+Tamika Toler is the contact for issues relating to financial awards.
 
-Assistant Chair Dr. Jeffrey Glover 427 Crown 508-2250
+### Director of Graduate Programs
 
-Director of Graduate Programs (GPD) Dr. Suzanne Bost 423 Crown 508-2241
+Whether you are in the M.A. or Ph.D. program, your main adviser will be the Director of Graduate Programs (abbreviated GPD).
+The current director is **Dr. Suzanne Bost**.
+You are expected to confer with the GPD regularly about your course of study in pursuit of your degree.
+You are encouraged to meet with the GPD at other times as well to discuss your progress in the program and your future plans.
 
-Graduate Program Assistant Ms. Almudena Rincón 402 Crown 508-2241
+### Committee on Graduate Programs
 
-Director of Writing Programs Dr. Melissa Bradshaw 206 LH 508-8466
-
-Director of the Writing Center Dr. Amy Kessel 204 LH 508-2682
-
-Director of Undergraduate Programs Dr. Jack Cragwall 461 Crown 508-2791
-
-Director of the Literacy Center Dr. Jackie Heckman 434 Crown 508-8494
-
-The English Department and the offices of all graduate faculty are located on the fourth floor of the Crown Center for the Humanities on the Lake Shore Campus. The Department can be reached by telephone at (773) 508-2240, or by post at:
-
-> Crown Center 402
-
-> Loyola University Chicago
-
-> 1032 West Sheridan Road
-
-> Chicago, IL 60660
-
-The Department maintains a Web site at *www.luc.edu/english*.
-
-## []{#anchor-2}Graduate School Offices
-
-The main office of the Graduate School is on the fourth floor of the Granada Center on the Lake Shore Campus. This office handles admissions and financial aid, and houses the permanent files of all students throughout their graduate careers. The phone number for the Graduate School is (773) 508-3396. **Dr. Emily Barman, **Dean, **Dr. Susan Grossman**, Associate Dean, and **Heather Sevener**, Assistant Dean, are your primary contacts for policy inquiries. **Tamika Toler** is the contact for issues relating to financial awards.
-
-## []{#anchor-3}Director of Graduate Programs
-
-Whether you are in the M.A. or Ph.D. program, your main adviser will be the Director of Graduate Programs (abbreviated GPD). The current director is **Dr. Suzanne Bost**. You are expected to confer with him regularly about your course of study in pursuit of your degree. You are encouraged to meet with the Director at other times as well to discuss your progress in the program and your future plans.
-
-## Committee on Graduate Programs
-
-The Director is advised on all matters of policy, admissions, and student status by the Committee on Graduate Programs. One student, chosen by election, sits on the Committee.\
+The Director is advised on all matters of policy, admissions, and student status by the Committee on Graduate Programs.
+One student, chosen by election, sits on the Committee.
 The faculty members of the Committee also serve as jury for the Clayes Award (see below).
 
-## English Graduate Student Association (EGSA)
+### English Graduate Student Association
 
-The English Graduate Student Association is made up of all graduate students in the Department. A board (normally comprising five members) is elected from among the students as positions become available. EGSA sponsors social events for students and faculty, and publishes an occasional newsletter with information about the Department, student achievements, and upcoming events.
+The English Graduate Student Association (EGSA) is made up of all graduate students in the Department.
+A board (normally comprising five members) is elected from among the students as positions become available.
+EGSA sponsors social events for students and faculty, and publishes an occasional newsletter with information about the Department, student achievements, and upcoming events.
 
-> In addition, EGSA usually organizes a series of workshops each semester on topics of interest to English graduate students at Loyola. Recent topics have included writing for publication, the academic job search, Ph.D. exam preparation, and careers in community college teaching. EGSA also serves as a forum for any special concerns graduate students may have and conveys those concerns to the Committee on Graduate Programs through the student representative.
+In addition, EGSA organizes workshops on topics of interest to English graduate students at Loyola.
+Recent topics have included writing for publication, the academic job search, Ph.D. exam preparation, and careers in community college teaching.
+EGSA also serves as a forum for any special concerns graduate students may have and conveys those concerns to the Committee on Graduate Programs through the student representative.
 
-Students in all phases of their graduate careers are warmly encouraged to participate actively in EGSA. The board members for 2022-23 are Tori O'Dea, Courtney Walton, Nicole Salama, and Samantha Lepak, and Joe Hansen. A representative for the MA students will be elected fall semester.
+Students in all phases of their graduate careers are warmly encouraged to participate actively in EGSA.
+The board members for 2022--23 are Tori O'Dea, Courtney Walton, Nicole Salama, and Samantha Lepak, and Joe Hansen.
+A representative for the MA students will be elected fall semester.
 
-## Student ID Cards
+## University and Department Resources
+
+### Student ID Cards
 
 Student ID cards, giving access to library borrowing and other privileges, are available from the Campus Card Office, Sullivan Center, Room 198.
 
-## Computer Services
+### Computer Services
 
-The University maintains several Computer Centers which are available for your use in Sullivan Center, Information Commons, and at 25 E. Pearson. There are also personal computers available for the use of Graduate Assistants in the Fishbowl (Graduate Student office space in Crown Center 418).
+The University maintains several Computer Centers which are available for your use in Sullivan Center, Information Commons, and at 25 E. Pearson.
+There are also personal computers available for the use of Graduate Assistants in the Fishbowl (Graduate Student office space in Crown Center 418).
 
-An account on the student email system is created automatically for each new student. Both the Director of Graduate Programs and the Graduate School will use this account to communicate with you. ***It is therefore crucial that you check your Loyola e-mailbox on a regular basis, or have your e-mail forwarded*** to an account you check regularly. If you find that you are not receiving regular and frequent communiqués from the Department, please notify the Secretary.
+An account on the student email system is created automatically for each new student.
+Both the Director of Graduate Programs and the Graduate School will use this account to communicate with you.
+**It is therefore crucial that you check your Loyola e-mail on a regular basis**, or have your e-mail forwarded to an account you check regularly.
+If you find that you are not receiving regular and frequent communiqués from the Department, please notify the Graduate Program Assistant.
 
-## 
+### Mail
 
-## Mail
+Each graduate student in the English Department is assigned a mailbox in the Department workroom in Crown Center.
+Memos from faculty, EGSA, and University agencies are likely to be relayed to you through this mail system; therefore, these mailboxes should be checked frequently.
+Since the boxes are not locked, please be careful about what you leave in your box.
 
-Each graduate student in the English Department is assigned a mailbox in the Department workroom in Crown Center. Memos from faculty, EGSA, and University agencies are likely to be relayed to you through this mail system; therefore, these mailboxes should be checked frequently. Since the boxes are not locked, please be careful about what you leave in your box.
+If your home address, email addres, or phone number change, inform the Administrative Assistant to the Graduate Program and update your records through [LOCUS](https://locus.luc.edu).
 
-***It is important to keep the Administrative Assistant to the Graduate Program informed of your current home address and phone number, as well as of your e-mail address***. The Graduate School and the University should be notified of any changes as well through LOCUS (*locus.luc.edu*).
+### Bulletin Boards and Information
 
-## Bulletin Boards and Information
+The bulletin board outside the GPD office (Crown 423) features information regarding the graduate programs---e.g., calls for papers, job offerings, fellowship opportunities.
+The board in the English main office has departmental notices.
 
-The bulletin board outside the GPD office (Crown 423) features information regarding the graduate programs---e.g., calls for papers, job offerings, fellowship opportunities. The board in the English main office has departmental notices.
+### The Fishbowl
 
-## The "Fishbowl" 
+All graduate students in English have access to a common space in Crown Center 418, better known as the *Fishbowl*. This is your space for studying, meetings, lunch, and socializing; however, the department is responsible for its security.
+You may use the room up to the start of evening classes (7 p.m.).
+After that, you must vacate the room and lock the door.
 
-> All graduate students in English have access to a common space in Crown Center 418, better known as the "Fishbowl." This is your space for studying, meetings, lunch, and socializing; however, the department is responsible for its security. You may use the room up to the start of evening classes (7 p.m.). After that, you must vacate the room and *lock the door*.
+## Teaching and Service
 
-## Teaching Opportunities
+### Teaching Opportunities
 
-In addition to teaching assignments for Graduate Assistants in the PhD program, a number of teaching opportunities are available to experienced graduate students. The University requires that you have the M.A. degree; the Department requires that you have taken English 402 or its equivalent. All PhD students who do not already have teaching experience are strongly encouraged to take English 402 and to teach at least one writing course at Loyola.
+In addition to teaching assignments for Graduate Assistants in the PhD program, a number of teaching opportunities are available to experienced graduate students.
+The University requires that instructors of undergraduate courses have the M.A. degree; the Department requires that you have taken English 402 or its equivalent.
+All PhD students who do not already have teaching experience are strongly encouraged to take English 402 and teach at least one writing course at Loyola.
 
-> The Department Chair, in consultation with the Director of Graduate Programs, assigns all classes. Funded students will be assigned classes routinely; unfunded students should apply directly to the department chair. The chairperson will invite applications for a limited number of summer teaching opportunities. The criteria used to assign summer classes to graduate students include: experience and proven success in the classroom; good progress toward the degree; preparedness to teach the courses available; and previous summer teaching (in an effort to distribute summer courses fairly). Contact the Department Chair or Ms. Jervier for further information.
+The Department Chair, in consultation with the Director of Graduate Programs, assigns all classes.
+Funded students will be assigned classes routinely; unfunded students should apply directly to the department chair.
+The chairperson will invite applications for a limited number of summer teaching opportunities.
+The criteria used to assign summer classes to graduate students include: experience and proven success in the classroom; good progress toward the degree; preparedness to teach the courses available; and previous summer teaching (in an effort to distribute summer courses fairly).
+Contact the Department Chair or Ms. Jervier for further information.
 
-## 
+### Service Opportunities
 
-## 
-
-## Service Opportunities
-
-Students should take advantage of departmental and University service opportunities to build their resumes/curricula vitae and to gain experience in the day-to-day operations of an academic institution. Opportunities available include but are not limited to the following: EGSA representative, Writing Programs committee, Graduate Programs committee, Undergraduate Program committee, department meeting representative, GSAC representative, Literacy Center tutor or staff person. Calls for volunteers for these positions go out annually in the fall term.
+Students should take advantage of departmental and University service opportunities to build their resumes/curricula vitae and to gain experience in the day-to-day operations of an academic institution.
+Opportunities available include but are not limited to the following: EGSA representative, Writing Programs committee, Graduate Programs committee, Undergraduate Program committee, department meeting representative, GSAC representative, Literacy Center tutor or staff person.
+Calls for volunteers for these positions go out annually in the fall term.
 
 ## Summer Sessions
 
-Two six-week summer sessions are offered through the Department each year, running from May to August. At least two graduate-level courses are offered over the two summer terms. When enrollment permits, we offer four courses.
+Two six-week summer sessions are offered through the Department each year, running from May to August.
+At least two graduate-level courses are offered over the two summer terms.
+When enrollment permits, we offer four courses.
 
-## 
+## Housing and Transportation
 
-## 
+### Housing
 
-## Housing
+Most graduate students choose to find their own off-campus apartments using the ads in publicly available sources.
+Loyola's Department of Residence Life also offers single- and double-occupancy apartments for graduate students on the Lakeshore Campus and the Water Tower Campus.
+For additional information, see <http://www.luc.edu/reslife>.
 
-> Most graduate students choose to find their own off-campus apartments using the ads in the *Reader*, the *Tribune*, and other publicly available sources. Loyola's Department of Residence Life also offers single- and double-occupancy apartments for graduate students on the Lakeshore Campus and the Water Tower Campus. For additional information, please see [*http://www.luc.edu/reslife*](http://www.luc.edu/reslife).
+### Transportation
 
-## Transportation
+If you plan to commute to Loyola, there are several parking lots that you may use.
+The main parking structure, adjacent to Sheridan Road and to the Halas Sports Center, houses the Parking Office, where you may purchase a sticker for annual parking.
+The fee for one-day parking on campus is \$7.00.
+At peak class times, available parking can sometimes be scarce.
+Street parking in the community immediately surrounding campus is scarce.
+It is also restricted to residents during certain hours, so be sure to read the signs carefully to avoid being ticketed by the police.
 
-If you plan to commute to Loyola, there are several parking lots that you may use. The main parking structure, adjacent to Sheridan Road and to the Halas Sports Center, houses the Parking Office, where you may purchase a sticker for annual parking. The fee for one-day parking on campus is \$7.00. At peak class times, available parking can sometimes be scarce. Street parking in the community immediately surrounding campus is scarce. It is also restricted to residents during certain hours, so be sure to read the signs carefully to avoid being ticketed by the police.
+Parking is also available near the Water Tower Campus, although it is more expensive.
+You can have your parking stub stamped at the information desk at the 25 E. Pearson building to receive a modest discount.
+If you teach or take classes at the Water Tower Campus, you will probably want to acquaint yourself with the University's inter-campus shuttle bus service.
+Public buses and the "El" run frequently between campuses and to other points in the city.
 
-Parking is also available near the Water Tower Campus, although it is more expensive. You can have your parking stub stamped at the information desk at the 25 E. Pearson building to receive a modest discount. If you teach or take classes at the Water Tower Campus, you will probably want to acquaint yourself with the University's inter-campus shuttle bus service. Public buses and the "El" run frequently between campuses and to other points in the city.
+Further information:
 
-Further information on parking is available at [**http://www.luc.edu/campustransportation/generalinformation/lakeshorecampus/**](http://www.luc.edu/campustransportation/generalinformation/lakeshorecampus/)
+- [Parking](http://www.luc.edu/campustransportation/generalinformation/lakeshorecampus/)
+- [Inter-campus shuttle](http://www.luc.edu/campustransportation/services/intercampusshuttle/)
 
-For information on the shuttle, see [**http://www.luc.edu/campustransportation/services/intercampusshuttle/**](http://www.luc.edu/campustransportation/services/intercampusshuttle/)
+## Professional Development
 
-## Publication
+### Publication
 
-> PhD students are encouraged to pursue the publication of one or more journal articles during their graduate careers, generally after the first couple of years in the program. In the current job market, publication is an important means of demonstrating to prospective employers a high level of motivation and professional competence.
+PhD students are encouraged to pursue the publication of one or more journal articles during their graduate careers, generally after the first couple of years in the program.
+In the current job market, publication is an important means of demonstrating to prospective employers a high level of motivation and professional competence.
 
-> Three ways to prepare for this goal are 1) to read journals in your fields of interest regularly in order to become familiar with both current scholarship and the requirements of scholarly publication; 2) to review the *MLA Directory of Periodicals* in order to learn what different journals expect or demand; and 3) to approach seminar papers, especially those in your field(s) of interest, as potential publications, possibly even as publications targeted to a particular journal. In developing a paper for publication, students are of course well advised to work closely with their seminar instructors or faculty mentors. Current periodicals are located in Cudahy Library. The *MLA Directory* is available in the reference section.
+Three ways to prepare for this goal are 1) to read journals in your fields of interest regularly in order to become familiar with both current scholarship and the requirements of scholarly publication; 2) to review the *MLA Directory of Periodicals* in order to learn what different journals expect or demand; and 3) to approach seminar papers, especially those in your field(s) of interest, as potential publications, possibly even as publications targeted to a particular journal.
+In developing a paper for publication, students are of course well advised to work closely with their seminar instructors or faculty mentors.
+Current periodicals are located in Cudahy Library.
+The *MLA Directory* is available in the reference section.
 
-## 
-
-## Conference Presentations and Travel Funding
+### Conference Presentations and Travel Funding
 
 Presentation of conference papers is an important part of students' professional development, and Ph.D. students in particular should aim to give at least two papers during their graduate careers---preferably including professional and not just graduate-student conferences.
 
-Each semester the Graduate School has funds to support graduate student travel for the purpose of presenting papers or chairing sessions at conferences. *Since funds are limited, students should apply immediately upon acceptance of their papers or sessions. (*information is available at [**https://www.luc.edu/gradschool/currentstudents/graduateresearch/**](https://www.luc.edu/gradschool/currentstudents/graduateresearch/)).The Department also has funding for attending summer seminars or conducting dissertation research at a research library outside Chicago. These are competitive awards offered each semester. The current subvention from the Graduate School for travel is a maximum of \$500. Departmental travel support, which is funded primarily from the EGSA Student Activities budget, is likely to provide a much lower level of sponsorship. Check for current policies due to the pandemic, as travel has been restricted.
+Each semester the Graduate School has funds to support graduate student travel for the purpose of presenting papers or chairing sessions at conferences.
+Funds are limited, so students should apply promptly upon acceptance of their papers or sessions.
+Information is available at <https://www.luc.edu/gradschool/currentstudents/graduateresearch/>.
 
-After you return, you will be asked to supply all **original receipts as well as boarding passes** for your trip, and proof of attendance (conference registration receipt and program copy with your session). Ask the Graduate Program Assistant for the travel expense form, fill it out, and return it with the receipts to the Graduate School (for their funding) or to the Director of Graduate Programs (for EGSA funding).
+The Department also has funding for attending summer seminars or conducting dissertation research at a research library outside Chicago.
+These are competitive awards offered each semester.
 
-## 
+The current subvention from the Graduate School for travel is a maximum of \$500.
+Departmental travel support, which is funded primarily from the EGSA Student Activities budget, is likely to provide a much lower level of sponsorship.
 
-## 
+After you return from supported travel, you will be asked to supply all original receipts as well as boarding passes for your trip, and proof of attendance (conference registration receipt and program copy with your session).
+Ask the Graduate Program Assistant for the travel expense form, fill it out, and return it with the receipts to the Graduate School (for their funding) or to the Director of Graduate Programs (for EGSA funding).
 
-## Placement Officer
+### Placement Officer
 
-Each year a member of the faculty is appointed to advise students in their process of finding employment post-graduation. The Placement Officer offers advice on all aspects of the job search and will arrange for mock interviews before the MLA meetings in December, where some interviewing takes place. All students who are entering the job market should contact the Placement Officer early in the fall semester, before they begin to apply for positions.
+Each year a member of the faculty is appointed to advise students in their process of finding employment post-graduation.
+The Placement Officer offers advice on all aspects of the job search and will arrange for mock interviews.
+All students who are entering the job market should contact the Placement Officer early in the fall semester, before they begin to apply for positions.
 
-For the benefit of graduate students on the job market, the Department has established an informative Web site at
+The department has two collections of advice and information for students entering the job market:
 
-[**https://www.luc.edu/english/graduate/resourcesandpolicies/theacademicjobsearch/**](https://www.luc.edu/english/graduate/resourcesandpolicies/theacademicjobsearch/)
+- [The Academic Job Search](https://www.luc.edu/english/graduate/resourcesandpolicies/theacademicjobsearch/)
+- A Sakai site
 
-## Career Center
+Contact the placement officer for access to the Sakai site.
 
-The University's Career Center, where each student entering the job market should establish a dossier containing letters of recommendation, is located in Sullivan Center, Room 255 (phone: 773-508-7716), with a very helpful website: https://www.luc.edu/career/index.shtml
+### Career Center
 
-## Clayes Essay Awards
+Each student entering the job market should establish a dossier containing letters of recommendation.
+This dossier is maintained by the university's Career Center, located in Sullivan Center, Room 255 (phone: 773-508-7716).
+There is a helpful website: <https://www.luc.edu/career/index.shtml>.
 
-Each year the Department sponsors a competition among graduate students for the Stanley Clayes Memorial Award. Cash prizes are awarded to outstanding essays written for a graduate class (excluding ENGL 501 and ENGL 502) the preceding academic year. The Call for Papers comes out at the beginning of fall term, the deadline for submissions is in September, and the Clayes presentations and reception is held in November. You are strongly encouraged to discuss your submission with the professor for whom you wrote the paper.
+## Awards
 
-Gravett-Tuma Book Award
+### Clayes Essay Awards
 
-Twice a year two students are selected to receive the Gravett-Tuma Book Award, made possible by a generous donation from alumna Amber Gravett and her husband. In the fall, students eligible for this award are those who have taken ENGL 502 (Independent Study for Doctoral Qualification) the previous year; in the spring those eligible are students entering their fourth semester in our program.
+Each year the Department sponsors a competition among graduate students for the Stanley Clayes Memorial Award.
+Cash prizes are awarded to outstanding essays written for a graduate class (excluding ENGL 501 and ENGL 502) the preceding academic year.
+The Call for Papers comes out at the beginning of fall term, the deadline for submissions is in September, and the Clayes presentations and reception is held in November.
+You are strongly encouraged to discuss your submission with the professor for whom you wrote the paper.
 
-# II. REGULATIONS AND PROCEDURES
+### Gravett-Tuma Book Award
+
+Twice a year two students are selected to receive the Gravett-Tuma Book Award, made possible by a generous donation from alumna Amber Gravett and her husband.
+In the fall, students eligible for this award are those who have taken ENGL 502 (Independent Study for Doctoral Qualification) the previous year; in the spring those eligible are students entering their fourth semester in our program.
+
+# Regulations and Procedures
 
 ## Course Loads
 
-A full-time student will usually carry three courses per semester, or, for Graduate Assistants entering the classroom as instructors, two courses and one teaching assignment. Course loads for part-time students are worked out on an individual basis. All students funded by the Department or the Graduate School are considered full time.
+A full-time student will usually carry three courses per semester, or, for Graduate Assistants entering the classroom as instructors, two courses and one teaching assignment.
+Course loads for part-time students are worked out on an individual basis.
+All students funded by the Department or the Graduate School are considered full time.
 
 ## Registration
 
-Both new and continuing students must complete the process of registration before every semester in which they are either attending classes or writing their dissertations. A schedule of courses for the upcoming term is available a few months before classes are scheduled to begin. ***In order to register for graduate courses you must first consult with the Director of Graduate Programs***. Once your selections are approved, they will be entered into the system by the Administrative Assistant to the program, completing the registration process. Graduate students do *not *register for courses themselves. ***It is your responsibility to check LOCUS to verify your registration each semester. Students must maintain continual registration throughout their years in the program*** or risk having to apply for reinstatement and pay both a penalty and back fees.
+Both new and continuing students must complete the process of registration before every semester in which they are either attending classes or writing their dissertations.
+A schedule of courses for the upcoming term is available a few months before classes are scheduled to begin.
+
+To register for graduate courses you must first consult with the Director of Graduate Programs.
+Once your selections are approved, they will be entered into the system by the Administrative Assistant to the program, completing the registration process.
+Graduate students do *not* register for courses themselves, but you must check LOCUS to verify your registration each semester.
+
+Students must maintain continual registration throughout their years in the program or risk having to apply for reinstatement and pay both a penalty and back fees.
 
 ## Grades
 
-The grading system used in the Graduate School is as follows:
+The grading system used in the Graduate School is as follows.
+Letter grades:
 
-+------------+--------------------------+
-| > A 4.00   | >                        |
-|            |                          |
-| > A-- 3.67 | > I Incomplete           |
-|            |                          |
-| > B+ 3.33  | > W Withdrawal           |
-|            |                          |
-| > B 3.00   | > WF Withdrawal, Failure |
-|            |                          |
-| > B-- 2.67 | > CR Credit              |
-|            |                          |
-| > C+ 2.33  | > NC No Credit           |
-|            |                          |
-| > C 2.00   | > AU Audit               |
-|            |                          |
-| > D 1.00   |                          |
-|            |                          |
-| > F 0.00   |                          |
-+------------+--------------------------+
+--- -----
+A    4.00
+A-   3.67
+B+   3.33
+B    3.00
+B-   2.67
+C+   2.33
+C    2.00
+D    1.00
+F    0.00
+--- -----
 
-For further information on Loyola's grading policy, consult the *Graduate School Catalog.*
+Other grades:
 
-Graduate students in the English Department are expected to maintain an average of not less than *B* (3.0). Those who fail to meet this requirement may be dismissed. No more than two grades below *B* and no grades of *D* or *F* may be counted as fulfilling degree requirements. In any case, Ph.D. students who find themselves receiving primarily *B*'s (or below) should consider seriously whether pursuing a doctorate in English remains the most gainful use of their time.
+--- ---------------------
+I   Incomplete
+W   Withdrawal
+WF  Withdrawal, Failure
+CR  Credit
+NC  No Credit
+AU  Audit
+--- ---------------------
 
-## 
+For further information on Loyola's grading policy, consult the [Graduate School Catalog](https://catalog.luc.edu/graduate-professional/).
+
+Graduate students in the English Department are expected to maintain an average of not less than *B* (3.0).
+Those who fail to meet this requirement may be dismissed.
+No more than two grades below *B* and no grades of *D* or *F* may be counted as fulfilling degree requirements.
+In any case, Ph.D. students who find themselves receiving primarily *B*'s (or below) should consider seriously whether pursuing a doctorate in English remains the most gainful use of their time.
 
 ## Withdrawal
 
-Withdrawal from graduate seminars is uncommon; however, *students who do withdraw from a course must first consult with the Graduate Program Director before dropping through LOCUS.* Students should check the academic calendar for deadlines on withdrawing for full or partial refunds, and with a W or F grade. ***Students are responsible for withdrawing themselves from classes**.*
-
-## 
-
-## 
+Withdrawal from graduate seminars is uncommon; students must consult with the Graduate Program Director before dropping through LOCUS.
+Students should check the academic calendar for deadlines on withdrawing for full or partial refunds, and with a W or F grade.
+Students are responsible for withdrawing themselves from classes.
 
 ## Incompletes
 
-Faculty may assign the grade of I to a student who has not completed the assigned work by the end of the term. This grade is not assigned automatically; rather, it is up to the student to work out with the instructor a plan, including a deadline, for completing the work for the course. ***The Graduate Program Director must sign off on incompletes before they will be awarded**.* Students need to download the change-of-grade form from the Graduate School website and give it to the Graduate Program Director when the incomplete is approved.
+Faculty may assign the grade of I to a student who has not completed the assigned work by the end of the term.
+This grade is not assigned automatically; rather, it is up to the student to work out with the instructor a plan, including a deadline, for completing the work for the course.
+Incompletes require the approval of the Graduate Program Director.
+Students need to download the change-of-grade form from the Graduate School website and give it to the Graduate Program Director when the incomplete is approved.
 
-***Under the Graduate School regulations, a student has one semester to complete the course*****.** If the student does not turn in the work by the deadline, the I will automatically become an F.  Please read the policy on the Graduate School web page at [**http://www.luc.edu/gradschool/academics_policies.shtml**](http://www.luc.edu/gradschool/academics_policies.shtml).
+The student must complete and submit all outstanding work to the instructor by the last day of the semester following the term in which the I grade was assigned.
+If the student does not turn in the work by the deadline, the *I* will automatically become an *F*.
+Students contemplating an incomplete should read the policy on the Graduate School webpage: <http://www.luc.edu/gradschool/academics_policies.shtml>.
 
-Although it is not uncommon for graduate students to take an occasional Incomplete, it is of course better *not* to take an incomplete when possible. Making up an incomplete course often proves harder than students expect, particularly if much time has elapsed since the end of the course. In any case, faculty members have various policies regarding Incompletes, so it is advisable to discuss the matter with your instructor as early as possible if you anticipate the need for an Incomplete. You must also complete a form (available on our Web site at [**www.luc.edu/english/links.shtml**](http://www.luc.edu/english/links.shtml)) and have it signed by the GPD. ***No more than one ****I**** can be requested in a semester, unless there are extenuating circumstances (e.g., a serious illness)***.
+Although it is not uncommon for graduate students to take an occasional Incomplete, it is of course better *not* to take an incomplete when possible.
+Making up an incomplete course often proves harder than students expect, particularly if much time has elapsed since the end of the course.
+In any case, faculty members have various policies regarding Incompletes, so it is advisable to discuss the matter with your instructor as early as possible if you anticipate the need for an Incomplete.
+You must also complete a form (available at <http://www.luc.edu/english/links.shtml>) and have it signed by the GPD.
 
-## 
+No more than one *I* can be requested in a semester, unless there are extenuating circumstances (e.g., a serious illness).
 
 ## Leaves of Absence
 
-Official leaves of absence are intended for students who wish to discontinue temporarily their graduate studies due to special circumstances (e.g., medical, personal, or professional reasons). A leave of absence postpones all deadlines concerning completion of degree requirements for the duration of the leave. A student requesting a leave must complete a Leave of Absence form and contact the Graduate Program Director, who then makes a recommendation on the student's behalf to the Graduate School. Decisions regarding the approval of leaves of absence rest with the Graduate School.
+Official leaves of absence are intended for students who wish to discontinue temporarily their graduate studies due to special circumstances (e.g., medical, personal, or professional reasons).
+A leave of absence postpones all deadlines concerning completion of degree requirements for the duration of the leave.
+A student requesting a leave must complete a Leave of Absence form and contact the Graduate Program Director, who then makes a recommendation on the student's behalf to the Graduate School.
+Decisions regarding the approval of leaves of absence rest with the Graduate School.
+Leaves of absence may be requested for a semester or for a full academic year.
 
-> Leaves of absence may be requested for a semester or for a full academic year. ***In order to be reinstated to active status, the student must notify the Graduate School in writing upon returning from a leave****.*** Unless the student is granted a renewal of a leave, he or she must return to active status in the semester following its expiration. Failure to do so may result in withdrawal from the program.
-
-## 
-
-## 
+To be reinstated to active status, the student must notify the Graduate School in writing upon returning from a leave.
+Unless the student is granted a renewal of a leave, he or she must return to active status in the semester following its expiration.
+Failure to do so may result in withdrawal from the program.
 
 ## Advanced Standing/Transfer Credits
 
-It is ordinarily expected that all work for the Master's degree will be completed at Loyola. Upon the recommendation of the Director of Graduate Programs, however, and with the approval of the Dean, up to six hours of credit for graduate work at another university may be counted toward the M.A. degree.
+It is ordinarily expected that all work for the Master's degree will be completed at Loyola.
+Upon the recommendation of the Director of Graduate Programs, however, and with the approval of the Dean, up to six hours of credit for graduate work at another university may be counted toward the M.A. degree.
 
-For students entering the Ph.D. program with prior graduate work, up to thirty hours of credit may, with the Department's recommendation and the Dean's approval, be counted toward a Loyola PhD. The precise number of hours credited toward advanced standing is worked out by the Director of Graduate Programs during a student's first semester in the program.
+For students entering the Ph.D. program with prior graduate work, up to thirty hours of credit may, with the Department's recommendation and the Dean's approval, be counted toward a Loyola PhD.
+The precise number of hours credited toward advanced standing is worked out by the Director of Graduate Programs during a student's first semester in the program.
 
 ## Academic Honesty
 
-Although academic dishonesty can take many forms, in our field it manifests primarily as plagiarism. The *Graduate School Catalog* defines plagiarism as "the appropriation for gain of ideas, language or work of another without sufficient public acknowledgement that the material is not one's own." As a graduate student, you very likely have a good understanding of the boundaries of what is acceptable and what is not. If you are ever uncertain, it is of course best to consult the Director of Graduate Programs or another faculty member.
+Although academic dishonesty can take many forms, in our field it manifests primarily as plagiarism.
+The [Graduate School Catalog](https://catalog.luc.edu/academic-standards-regulations/graduate-professional/graduate-school/) defines plagiarism as "the appropriation for gain of ideas, language or work of another without sufficient public acknowledgement that the material is not one's own."
+As a graduate student, you very likely have a good understanding of the boundaries of what is acceptable and what is not.
+If you are ever uncertain, it is of course best to consult the Director of Graduate Programs or another faculty member.
 
-The penalty for an instance of plagiarism is, at a minimum, failure on the assignment, which may well be tantamount to failure in the course. A serious breach or a pattern of dishonesty can lead to expulsion from Loyola. Although extremely rare in our department, cases have occurred in the past and have resulted in dismissal.
+The penalty for an instance of plagiarism is, at a minimum, failure on the assignment, which may well be tantamount to failure in the course.
+A serious breach or a pattern of dishonesty can lead to expulsion from Loyola.
+Although extremely rare in our department, cases have occurred in the past and have resulted in dismissal.
 
 ## Grievance Procedure
 
-Students, faculty, and administrators are strongly encouraged to resolve any problems they encounter in the academic process through informal discussion. If you are unable to resolve a problem with a member of the staff or faculty, or if you wish to lodge a formal complaint, you should first meet with the Director of Graduate Programs to discuss the matter. If the problem cannot be satisfactorily resolved by the GPD, it will be taken up by the Department Chair who, if necessary, will refer it to a departmental grievance committee. The decision of that committee can be appealed to the Graduate School. Students wishing to initiate a grievance must do so in writing to the Dean. Further information can be obtained from the Graduate School office.
+Students, faculty, and administrators are strongly encouraged to resolve any problems they encounter in the academic process through informal discussion.
+If you are unable to resolve a problem with a member of the staff or faculty, or if you wish to lodge a formal complaint, you should first meet with the Director of Graduate Programs to discuss the matter.
+If the problem cannot be satisfactorily resolved by the GPD, it will be taken up by the Department Chair who, if necessary, will refer it to a departmental grievance committee.
+The decision of that committee can be appealed to the Graduate School.
+Students wishing to initiate a grievance must do so in writing to the Dean.
+Further information can be obtained from the Graduate School office.
 
-# 
+# The Master of Arts program
+Students in the M.A. program complete course requirements and a qualifying exam.
 
-# 
+## Course Requirements
 
-# 
-
-# III. THE MASTER OF ARTS PROGRAM
-
-## Course and Examination Requirements
-
- English 400 (Introduction to Graduate Study).
-
--    English 402 (Teaching College Composition) (required for the teaching track only)
-
->  At least *three *courses in literary studies. At least *one* course must be in literature before 1800, *one* in literature after 1800.
-
->  At least *one* course in critical theory (courses numbered 410-429).
-
->  One course in textual studies or digital humanities, or (for the teaching track) pedagogy.
-
- Four elective courses, for a total of thirty hours.
-
- M.A. Qualifying Examination (see below).
-
-## 
+- English 400 (Introduction to Graduate Study).
+- English 402 (Teaching College Composition) (required for the teaching track only)
+- At least *three* courses in literary studies. At least *one* course must be in literature before 1800, *one* in literature after 1800.
+- At least *one* course in critical theory (courses numbered 410--429).
+- One course in textual studies or digital humanities, or (for the teaching track) pedagogy.
+- Four elective courses, for a total of thirty hours.
+- M.A. Qualifying Examination (see below).
 
 ## M.A. Qualifying Examination
 
-All students will take a four-hour written examination at the end of their course work. The exam is given during the last week of second summer term in August, and the first day of exam week in December and May. The exam will be prepared and graded by a four-member M.A. examining committee using a standard set of questions, each testing a particular skill. Faculty teaching graduate seminars in any one year will submit a short list of required readings (literary, critical, and theoretical) from their courses. From that list, the examining committee will form a master list of major texts to be used by students in answering the exam questions. The short lists will be shared with students prior to the exam, the master list will not.
+All students will take a four-hour written examination at the end of their course work.
+The exam is given during the last week of second summer term in August, and the first day of exam week in December and May.
+The exam will be prepared and graded by a four-member M.A. examining committee using a standard set of questions, each testing a particular skill.
+Faculty teaching graduate seminars in any one year will submit a short list of required readings (literary, critical, and theoretical) from their courses.
+From that list, the examining committee will form a master list of major texts to be used by students in answering the exam questions.
+The short lists will be shared with students prior to the exam, the master list will not.
 
-> The exam will be graded as High Pass, Pass, Low Pass or Fail. The minimum requirements for the M.A. degree will be a Low Pass on the exam and a B average in all course work. M.A. students who fail the exam may retake it once, at the conclusion of the Fall semester in the same year. ***Ph.D. students who fail the exam may also retake it once, but only to complete the M.A. degree: they will not be allowed to continue in the program***. Ph.D. students who receive a Low Pass will have their exams forwarded to the Committee on Graduate Programs, which will review their exams and their performance in course work in order to determine whether or not they should be permitted to continue, and if so under what probationary conditions, if any.
+The exam will be graded as High Pass, Pass, Low Pass or Fail.
+The minimum requirements for the M.A. degree will be a Low Pass on the exam and a B average in all course work.
+M.A. students who fail the exam may retake it once, at the conclusion of the Fall semester in the same year.
 
-Portfolio Review
+Ph.D. students who fail the exam may also retake it once, but only to complete the M.A. degree: they will not be allowed to continue in the program.
+Ph.D. students who receive a Low Pass will have their exams forwarded to the Committee on Graduate Programs, which will review their exams and their performance in course work in order to determine whether or not they should be permitted to continue, and if so under what probationary conditions.
 
-** **Because first-year Ph.D. students must register for fall classes before taking the M.A. exam, however, the department has instituted a portfolio review for all first-year Ph.D. students whose GPA for the fall and spring semesters is below 3.5. Those students must submit a portfolio of three essays (totaling at least 30 pages) to the Director of Graduate Programs the week after spring semester final exams. The portfolio must contain a letter to the GPD explaining the challenges the student faced the first year and how the student has responded to those challenges. Members of the Graduate Programs Committee will review the portfolio and make a recommendation to the GPD. Even if the student is advised not to continue for the Ph.D., he or she will take the M.A. exam in August to complete the M.A. degree.
+## Portfolio Review
 
-## 
+Because first-year Ph.D. students must register for fall classes before taking the M.A. exam, the department has instituted a portfolio review for all first-year Ph.D. students whose GPA for the fall and spring semesters is below 3.5.
+Those students must submit a portfolio of three essays (totaling at least 30 pages) to the Director of Graduate Programs the week after spring semester final exams.
+The portfolio must contain a letter to the GPD explaining the challenges the student faced the first year and how the student has responded to those challenges.
+Members of the Graduate Programs Committee will review the portfolio and make a recommendation to the GPD.
+Even if the student is advised not to continue for the Ph.D., he or she will take the M.A. exam in August to complete the M.A. degree.
 
 ## Time and Residence Requirements
 
 Normally it takes one year of full-time study to earn a master's degree in English from Loyola. Students who attend part time should complete the program within two years due to the nature of the M.A. exam. After five years, the student may continue only by special action of the Dean of the Graduate School.
+After five years, the student may continue only by special action of the Dean of the Graduate School.
 
 ## Application for Degree
 
-***It is the exclusive responsibility of all graduate students to inform the Graduate School office of their intention to graduate with an M.A. degree**.* Once you have determined when you will receive your degree (e.g., August, December or May), you must apply for graduation through LOCUS. The Graduate School sets the deadlines (typically December 1 for a May degree, February 1 for an August degree, and August 1 for a December degree). Check the academic calendar for the Graduate School available through the main page of the Loyola website.
+It is the exclusive responsibility of all graduate students to inform the Graduate School office of their intention to graduate with an M.A. degree.
+Once you have determined when you will receive your degree (e.g., August, December or May), you must apply for graduation through LOCUS.
+The Graduate School sets the deadlines (typically December 1 for a May degree, February 1 for an August degree, and August 1 for a December degree).
+Check the academic calendar for the Graduate School available through the main page of the Loyola website.
 
-After completing the summer courses and passing the exams, you\'ll be certified for an August degree. Because we have only one ceremony per year when students \"walk,\" however, August degree students walk in the May ceremony the following year.
+After completing the summer courses and passing the exams, you will be certified for an August degree.
+As we have only one ceremony per year when students "walk," August degree students walk in the May ceremony the following year.
 
-# IV. THE DOCTOR OF PHILOSOPHY PROGRAM
+# The Doctor of Philosophy Program
 
-## []{#anchor-4}Course and Examination Requirements
+## Course and Examination Requirements
 
 Doctoral students in English who have completed the M.A. degree must enter one of the following three specialized fields and meet *both* the program requirements and the course requirements defined for that specialization.
 
-Program requirements include:
+### General course requirements
 
- English 400: Introduction to Graduate Study.
+- English 400: Introduction to Graduate Study
+- English 402: Teaching College Composition
+- English 502: Independent Study for Doctoral Qualification
+- Two courses in critical theory or textual studies; at least one of these two courses must be in critical theory
 
- English 402: Teaching College Composition
+### Field-specific course requirements
 
- English 502: Independent Study for Doctoral Qualification
+Medieval and Renaissance Literature:
 
- Two courses in critical theory, textual studies;
+- At least *six* courses in Medieval and Renaissance Literature (numbered 440--459)
+- At least *one* course in Nineteenth-Century Studies (ENGL 460--478 and 490--493)
+- At least *one* course in Modern Literature and Culture (480--489 and 494--499)
+- *Seven* electives to fulfill the 60-hour requirement
 
-at least one of these two courses must be in critical theory
+Nineteenth-Century Studies:
 
-In addition, students in all three fields must complete the **research tool** requirements (see below).
+- At least *six *courses in Nineteenth-Century Literature (numbered 470--479, 490--493)
+- At least *one* courses in Medieval or Renaissance Literature (440--459)
+- At least *one* course in Modern Literature and Culture (480--489 and 494--499)
+- *Seven *electives to fulfill the 60-hour requirement
 
-**Field-specific requirements include**:
+Modern Literature and Culture (including postmodern and contemporary literatures):
 
-1\. Medieval and Renaissance Literature
+- At least *six* courses in Modern Literature (numbered 480--489 and 494--499)
+- At least *one* course in Medieval or Renaissance Literature (440--459)
+- At least *one* course in Nineteenth-Century Literature (470--479, 490--493)
+- *Seven* electives to fulfill the 60-hour requirement
 
- At least *six* courses in Medieval and Renaissance Literature (numbered 440--459).
+**Note**: Other courses not listed above may, at the discretion of the Graduate Program Director, count toward one period requirement or another, depending on their specific content in a given semester.
+Also, with approval of the Graduate Program Director, students may take a graduate course in another department for elective credit as long as the course is taught by a professor with a terminal degree (that is, a Ph.D. not an MA).
 
- At least *one* course in Nineteenth-Century Studies (ENGL 460-478 and 490-493).
+Students are free to change their field at any time, provided that they are able to fulfill the course requirements for the new field.
 
- At least *one* course in Modern Literature and Culture (480--489 and 494--499).
+### Other program requirements
 
- *Seven* electives to fulfill the 60-hour requirement.
+Students in all three fields must complete the research tool requirements (see below).
+The M.A. Qualifying Examination, research tool, and Ph.D. Qualifying Examination requirements remain the same in all fields.
 
-2\. Nineteenth-Century Studies
+#### Research Tool Requirement
 
- At least *six *courses in Nineteenth-Century Literature (numbered 470--479, 490--493).
+Prior to taking the Ph.D. examination, students pursuing a Ph.D. must demonstrate a reading knowledge of a language other than English, by passing a translation examination, by taking a graduate-level course in a foreign language and receiving a grade of *B* or higher, or by showing proof that one passed a graduate-level course or an exam as a graduate student another institution.
+The Department of Modern Languages and Literatures offers reading courses specifically designed for graduate students in other disciplines.
+Students are encouraged to discuss completion of this requirement with the Director of Graduate Programs soon after entering the program.
 
- At least *one* courses in Medieval or Renaissance Literature (440--459).
+#### Responsible Conduct in Research and Scholarship
 
- At least *one* course in Modern Literature and Culture (480--489 and 494--499).
+The Graduate School requires all Ph.D. students to attend one of its workshops on *Responsible Conduct in Research and Scholarship* (RCRS) prior to completing the dissertation or thesis.
+Ph.D. students are encouraged to wait until their third or fourth year to fulfill this requirement.
+Workshops are offered throughout the year.
 
- *Seven *electives to fulfill the 60-hour requirement.
+### M.A. Qualifying Examination
 
-3\. Modern Literature and Culture
+For information on this exam, see above.
 
-Includes postmodern and contemporary literatures as well as the modernist period
+### Ph.D. Qualifying Examination
 
- At least *six* courses in Modern Literature (numbered 480--489 and 494-499).
+The Ph.D. examination includes a written and an oral component.
+The written exam consists of three three-hour papers covering fields to be chosen by the student in consultation with his or her examining committee and the Director of Graduate Programs.
+With the approval of their examiners, students must define three fields.
+Fields may be of the following kinds:
 
- At least *one* course in Medieval or Renaissance Literature (440--459).
+1. An area of critical, cultural, or literary theory
+2. An author
+3. The literature of an historical period and/or genre, which may be additionally focused
+4. Textual studies/digital humanities
 
- At least *one* course in Nineteenth-Century Literature (470--479, 490--493).
+Students may include up to three fields of the third type, but only one field of any other type.
+Examples of literary fields might include:
 
- *Seven* electives to fulfill the 60-hour requirement.
+- 17th-Century British poetry
+- Early Modern women's writing
+- Postcolonial drama
+- Medieval drama
+- African-American literature, 1914--1959
+- Contemporary working-class fiction of the U.S.
+- Modernist poetry
+- Modernist manifestos
 
-**Note**: Other courses not listed above may, at the discretion of the Graduate Program Director, count toward one period requirement or another, depending on their specific content in a given semester. Also, with approval of the Graduate Program Director, *students may take a graduate course in another department for elective credit* as long as the course is taught by a professor with a terminal degree (that is, a Ph.D. not an MA).
+Any or all of the exam fields may be related to the student's dissertation topic; however, some breadth across fields is expected.
+And although the selection of texts within each field will be influenced to some extent by the student's particular interests and approach, he or she will also be expected to demonstrate a general mastery of the field.
 
-The M.A. Qualifying Examination, research tool, and Ph.D. Qualifying Examination requirements remain the same in all fields. Students will be free to change their field at any time, provided that they are able to fulfill the course requirements for the new field.
+Exams are given in November, February, and April each year.
+Field descriptions and reading lists are worked out by the student in consultation with his or her examining committee and must be approved by the examiners and by the Director of Graduate Programs well before the written examination is scheduled.
+The Director of Graduate Programs will provide a packet of materials detailing all exam-related procedures.
 
-## Research Tool Requirement
+Reading lists are due several months before the exam date, and field statements are due one month prior to the exam.
+Students cannot schedule their exam times until the field statements have been submitted.
+The written examination is followed by a two-hour oral examination that is based on, but not limited to, the written portion.
+Students who fail the exam may retake it once, within one year.
 
-*Prior to taking the Ph.D. examination*, students pursuing a Ph.D. must demonstrate a reading knowledge of a language other than English, by passing a translation examination, by taking a graduate-level course in a foreign language and receiving a grade of *B* or higher, or by showing proof that one passed a graduate-level course or an exam as a graduate student another institution. The Department of Modern Languages and Literatures offers reading courses specifically designed for graduate students in other disciplines. Students are encouraged to discuss completion of this requirement with the Director of Graduate Programs soon after entering the program.
+### English 501, "Directed Readings"
 
-****Responsible Conduct in Research and Scholarship****
+English 501 is an elective "independent study" course which may be taken at most twice in the Ph.D. program.
+If you are interested in this option, you must first find a faculty member willing to direct it.
+You must then fill out a departmental form (available at <http://www.luc.edu/english/links.shtml>) and submit the form to the Director of Graduate Programs for approval in the semester prior to the course.
 
-The Graduate School requires all Ph.D. students to attend one of its workshops on ****Responsible Conduct in Research and Scholarship**** (RCRS) prior to completing the dissertation or thesis. Ph.D. students are encouraged to wait until their third or fourth year to fulfill this requirement. Workshops are offered throughout the year.
+Proposals for 501 courses will not be approved if the material to be covered is regularly offered in existing graduate seminars.
+501 requires a minimum of 12 contact hours between faculty and student (approximately 1 hour every week) and a minimum of 25 pages of writing.
 
-## M.A. Qualifying Examination
+### English 502, "Independent Study for Doctoral Qualification"
 
-For information on this exam, please see section III, above.
+In English 502, students prepare for the Ph.D. Qualifying Examination and write a draft their dissertation proposals, or at least a literature review, under the supervision of their eventual dissertation directors.
+Graduate School and English Department forms must be approved by the Director of Graduate Programs in the semester prior to the course.
 
-## Ph.D. Qualifying Examination
+English 502 explicitly couples the drafting of a dissertation proposal---and thus the earliest stages of dissertation research, the formation of a core bibliography, and the definition of the project itself---with the student's preparation for the Ph.D. Exam.
+The Department believes that these tasks are closely related, that they can and should be accomplished together, and that neither should supercede or delay the other.
+502 requires a minimum of 7 contact hours between faculty and student (approximately 1 hour every two weeks) and the submission of a draft of the proposal or substantial progress toward that proposal, such as a literature review.
 
-The Ph.D. examination includes a written and an oral component. The written exam consists of three three-hour papers covering fields to be chosen by the student in consultation with his or her examining committee and the Director of Graduate Programs. With the approval of their examiners, students must define three fields. Fields may be of the following kinds:
+The draft proposal is usually completed after taking the exams, which often means that it is necessary to take a temporary "I" grade for the course.
+If a student takes an Incomplete in English 502, the course must be completed the next semester after the semester of registration.
+(See Incompletes above.)
+A student who does not complete English 502 within the specified time will have to retake the course at his or her own expense.
 
-> 1\) An area of **critical, cultural, or literary theory**;
+### Registration for Advanced Students
 
-> 2\) An **author**;
+Students who have completed their course work should register for ENGL 610.
+After two semesters in ENGL 610, or once you have gained ABD status (see below), you should register for ENGL 600.
+Students must maintain continuous registration in English 600 until they complete their degree.
+Both courses require a minimum of one contact hour monthly with the dissertation director and substantial writing (preferably a chapter draft) every 3 months.
 
-> 3\) The literature of an **historical period and/or genre**, which may be additionally focused on a particular **subgroup**.
+Students do not need to register for 600 or 610 during the summer months.
+However, those on government loans who must show they are registered for classes over the summer can register for a "dummy" course, either GSSM S61 (if they are in 610) or S60 (for 600).
+Students must register for these courses themselves and will pay a nominal fee.
 
-> 4\) Textual Studies/digital humanities
+### Advancement to Candidacy and Dissertation
 
-Students may include up to three fields of the third type, but only one field of any other type. Examples of literary fields might include:
+You become a Ph.D. candidate when you complete all course requirements (including English 502), fulfill the research tool requirement, pass the Ph.D. Examination, establish a dissertation committee, and have your dissertation proposal approved (ideally within 6 months of completing the comprehensive exams).
 
-17th-Century British poetry Early Modern women's writing
+The selection of dissertation topic, director, and committee (two additional faculty "readers") is made in consultation with the Graduate Program Director.
+Once these decisions have been made, you must obtain a copy of the Graduate School's forms regarding the dissertation (available on line), and then prepare a proposal for the approval of your committee.
+After your proposal and committee are approved, you are considered ABD.
+Your progress now will be monitored by your dissertation director, who will report on your work to the GPD.
+(Note: You do *not* need to have the proposal approved by the entire committee to complete 502.)
 
-Postcolonial drama Medieval drama
+When your dissertation is completed, you will give a "Final Public Presentation and Defense" of your project, followed by a question-and-answer session led by your dissertation committee.
+Reader's copies are due to the committee one month prior to the defense, with a reader's ballot for each member (available at <https://www.luc.edu/english/links.shtml>).
+Once these ballots are submitted, the Graduate Programs secretary will announce the defense publicly.
+At the defense, students present the chair of the committee with the Graduate School ballot for approval of the dissertation (available at <http://www.luc.edu/gradschool/servicesandresources_forms.shtml>).
 
-African-American literature, 1914-1959 Contemporary working-class fiction of the U.S.
+*Note*: Students should check the Graduate School calendar for deadlines on format check and submission of the dissertation (now done electronically) for a December or May degree.
 
-Modernist poetry Modernist manifestos
+Additional information:
 
-> 
-
-> Any or all of the exam fields may be related to the student's dissertation topic; however, some breadth across fields is expected. And although the selection of texts within each field will be influenced to some extent by the student's particular interests and approach, he or she will also be expected to demonstrate a general mastery of the field.
-
-Field descriptions and reading lists are worked out by the student in consultation with his or her examining committee and must be approved by the examiners and by the Director of Graduate Programs well before the written examination is scheduled. (Exams are given in November, February, and April each year.) The Director of Graduate Programs will provide you with a packet of materials detailing all exam-related procedures. ***Reading**** ****lists**** are due several months before the exam date, and ****field statements**** are due one month prior to the exam***. ***Students cannot schedule their exam times until the field statements have been submitted***. The written examination is followed by a two-hour oral examination that is based on, but not limited to, the written portion. Students who fail the exam may retake it once, within one year.
-
-## English 501, "Directed Readings"
-
-English 501 is an elective "independent study" course which may be taken at most twice in the Ph.D. program. If you are interested in this option, you must first find a faculty member willing to direct it. You must then fill out a departmental form (available on our Web site at [**http://www.luc.edu/english/links.shtml**](http://www.luc.edu/english/links.shtml)) and submit the form to the Director of Graduate Programs for approval *in the semester prior to the course*. Proposals for 501 courses will not be approved if the material to be covered is regularly offered in existing graduate seminars. 501 requires a minimum of 12 contact hours between faculty and student (approximately 1 hour every week) and a minimum of 25 pages of writing.
-
-## 
-
-## English 502, "Independent Study for Doctoral Qualification"
-
-In English 502, students prepare for the Ph.D. Qualifying Examination and write a draft their dissertation proposals, or at least a literature review, under the supervision of their eventual dissertation directors. Graduate School and English Department forms must be approved by the Director of Graduate Programs *in the semester prior to the course*.
-
-> English 502 explicitly couples the drafting of a dissertation proposal---and thus the earliest stages of dissertation research, the formation of a core bibliography, and the definition of the project itself---with the student's preparation for the Ph.D. Exam. The Department believes that these tasks are closely related, that they can and should be accomplished together, and that neither should supercede or delay the other. 502 requires a minimum of 7 contact hours between faculty and student (approximately 1 hour every two weeks) and the submission of a draft of the proposal or substantial progress toward that proposal, such as a literature review. The draft proposal is usually completed after taking the exams, which often means that it is necessary to take a temporary "I" grade for the course.
-
-> ***If a student takes an Incomplete in English 502, the course must be completed the ****next semester ****after the semester of registration***. (See Incompletes above) A student who does not complete English 502 within the specified time will have to retake the course at his or her own expense.
-
-## 
-
-## Registration for Advanced Students
-
-Students who have completed their course work should register for ENGL 610. After two semesters in ENGL 610, or once you have gained ABD status (see below), you should register for ENGL 600. ***You must maintain continuous registration in English 600 until you complete your degree****.*** Both courses require a minimum of one contact hour monthly with the dissertation director and substantial writing (preferably a chapter draft) every 3 months.
-
-> Students do not need to register for 600 or 610 during the summer months. However, those on government loans who must show they are registered for classes over the summer can register for a "dummy" course, either GSSM S61 (if they are in 610) or S60 (for 600). Students must register for these courses themselves and will pay a nominal fee.
-
-## 
-
-## Advancement to Candidacy and Dissertation
-
-You become a Ph.D. candidate when you complete all course requirements (including English 502), fulfill the Foreign Language requirement, pass the Ph.D. Examination, establish a dissertation committee, and have your dissertation proposal approved (ideally within 6 months of completing the comprehensive exams).
-
-The selection of dissertation topic, director, and committee (two additional faculty "readers") is made in consultation with the Graduate Program Director. Once these decisions have been made, you must obtain a copy of the Graduate School's forms regarding the dissertation (available on line), and then prepare a proposal for the approval of your committee. After your proposal and committee are approved, you are considered "ABD." Your progress now will be monitored by your dissertation director, who will report on your work to the GPD. (Note: You do *not* need to have the proposal approved by the entire committee to complete 502.)
-
-When your dissertation is completed, you will give a "Final Public Presentation and Defense" of your project, followed by a question-and-answer session led by your dissertation committee. Reader's copies are due to the committee one month prior to the defense, with a reader's ballot for each member (available at https://www.luc.edu/english/links.shtml). Once these ballots are submitted, the Graduate Programs secretary will announce the defense publicly. At the defense, students need to present the chair of the committee with the Graduate School ballot for approval of the dissertation (available at [**http://www.luc.edu/gradschool/servicesandresources_forms.shtml**](http://www.luc.edu/gradschool/servicesandresources_forms.shtml)).
-
-> *Students should check the Graduate School calendar for deadlines on format check and submission of the dissertation (now done electronically) for a December or May degree*.
-
-> 
-
-See the ETD/Proquest link for electronic submission: [*****http://www.etdadmin.com/luc*****](http://www.etdadmin.com/luc).
-
-Also see the formatting website: [**http://www.luc.edu/gradschool/formatting.shtml**](http://www.luc.edu/gradschool/formatting.shtml)  
-
-> 
+- [ETD/Proquest link for electronic submission](http://www.etdadmin.com/luc)
+- [Dissertation/Thesis Formatting](http://www.luc.edu/gradschool/formatting.shtml)  
 
 ## Time and Residence Requirements
 
 According to Graduate School regulations, work on the Ph.D. must be completed eight years from the time you have begun course work applicable to the degree; if you entered with an MA, you will have six years from the time of beginning course work for the PhD.
 
-> Students who are beyond the eight-year (or six-year) limit will be surveyed on their progress annually by the Graduate Program Director and must apply to the Graduate School for an extension of their time limit. The Graduate Program Director and dissertation director will issue a recommendation to the Graduate School as to whether each such student should be permitted to continue toward the degree. Extensions are not routine; students must demonstrate that they are making progress toward the degree.
+Students who are beyond the eight-year (or six-year) limit will be surveyed on their progress annually by the Graduate Program Director and must apply to the Graduate School for an extension of their time limit.
+The Graduate Program Director and dissertation director will issue a recommendation to the Graduate School as to whether each such student should be permitted to continue toward the degree.
+Extensions are not routine; students must demonstrate that they are making progress toward the degree.
 
-> 
-
-> Students requesting extensions must fill out the request form in GSPS. The GPD will review the request before it is sent on to the graduate school.
-
-## 
+Students requesting extensions must fill out the request form in GSPS.
+The GPD will review the request before it is sent on to the graduate school.
 
 ## Application for Degree
 
-***It is the exclusive responsibility of all graduate students to inform the Graduate School office of their intention to graduate with an M.A. or Ph.D. degree***. Once you have determined when you will receive your degree, you must file the "Application for Graduation" with the Graduate School several months before the graduation date.
+It is the exclusive responsibility of all graduate students to inform the Graduate School office of their intention to graduate with an M.A. or Ph.D. degree.
+Once you have determined when you will receive your degree, you must file the "Application for Graduation" with the Graduate School several months before the graduation date.
 
-# 
+## Assistantship and Fellowship Support
 
-# 
+### Graduate Assistantships
 
-# V. ASSISTANTSHIP AND FELLOWSHIP SUPPORT
+Each year the Department of English offers a number of Graduate Assistantships for new and continuing students.
+Unlike many other universities, however, Loyola concentrates on developing assistants' skills before allowing them to assume sole responsibility for a composition course.
+Rather than being immediately assigned to teach a class during their first semester of graduate school, assistants first gain experience tutoring undergraduates in the Writing Center.
+In the first semester they tutor for two shifts.
+During their second semester, assistants work with a faculty member in a mentorship program that allows them to assume some grading and instructional duties within the mentor's composition class, and tutor for one shift.
 
-## Graduate Assistantships
-
-Each year the Department of English offers a number of Graduate Assistantships for new and continuing students. Unlike many other universities, however, Loyola concentrates on developing assistants' skills before allowing them to assume sole responsibility for a composition course. Rather than being immediately assigned to teach a class during their first semester of graduate school, assistants first gain experience tutoring undergraduates in the Writing Center. In the first semester they tutor for two shifts. During their second semester, assistants work with a faculty member in a Mentorship Program that allows them to assume some grading and instructional duties within the mentor's composition class, and tutor for one shift.
-
-In the second year (or first year post-MA), assistants teach one composition course each semester, receiving informal support and guidance from the mentor of the previous year. In the third, fourth and fifth years, assistants normally work as teaching assistants in a literature course, teach one literature course per term, or serve as research assistants for one semester. In addition, one student each year is assigned as the assistant director of the Writing Center, and fifth-year students may be asked to cover a shift in the Writing Center each term. Graduate instructors at Loyola never teach more than one class per term.
+In the second year (or first year post-MA), assistants teach one composition course each semester, receiving informal support and guidance from the mentor of the previous year.
+In the third, fourth and fifth years, assistants normally work as teaching assistants in a literature course, teach one literature course per term, or serve as research assistants for one semester.
+In addition, one student each year is assigned as the assistant director of the Writing Center, and fifth-year students may be asked to cover a shift in the Writing Center each term.
+Graduate instructors at Loyola never teach more than one class per term.
 
 Typically students are expected to work between 10 and 15 hours per week, but no more than 20, as stipulated by the Graduate School.
 
-> The broad terms of the assistantships and their monetary value are determined by The Graduate School.
+The broad terms of the assistantships and their monetary value are determined by The Graduate School.
 
-Policy on Graduate Student Substitutes
+### Policy on Graduate Student Substitutes
+<!--Does this policy remain in effect?-->
 
-> All third, fourth, and fifth-year graduate assistants who are not serving as instructors-of-record also take courses for faculty who must miss a class because of professional conferences, previously scheduled speaking engagements, or for other occasions as approved by the chair. Students serving as substitutes in a given semester cannot turn down a request to take a faculty member\'s class unless they are in class themselves or attending a professional conference. In turn, the department makes every effort to distribute the workload equitably among the students serving in this capacity. Students should be called upon to cover a class no more than 5 times in the course of a semester.
+All third, fourth, and fifth-year graduate assistants who are not serving as instructors-of-record also take courses for faculty who must miss a class because of professional conferences, previously scheduled speaking engagements, or for other occasions as approved by the chair.
+Students serving as substitutes in a given semester cannot turn down a request to take a faculty member's class unless they are in class themselves or attending a professional conference.
+In turn, the department makes every effort to distribute the workload equitably among the students serving in this capacity.
+Students should be called upon to cover a class no more than 5 times in the course of a semester.
 
-> Because the students are not necessarily trained in the content area of the faculty member\'s course, faculty members must devise assignments with this in mind. Substitutes may show a film, conduct a writing workshop prepared by the faculty member, or proctor an exam. Substitutes must not be asked to prepare the course themselves.
+Because the students are not necessarily trained in the content area of the faculty member's course, faculty members must devise assignments with this in mind.
+Substitutes may show a film, conduct a writing workshop prepared by the faculty member, or proctor an exam.
+Substitutes must not be asked to prepare the course themselves.
 
-> 
+### Funding for Advanced Students
 
-## 
+Students who have completed course work, passed the Ph.D. exam, and received approval of their dissertation proposals are eligible to apply for one of three fellowships:
 
-## Funding for Advanced Students
+- the Arthur J. Schmitt Dissertation Fellowship (university-wide competition; no teaching requirement)
+- Teaching Scholars Awards (university wide competition; service requirement includes the teaching of one course)
+- the Crown Fellowship (competitive with the other humanities departments; no teaching requirement)
 
-Students who have completed course work, passed the Ph.D. exam, and received approval of their dissertation proposals are eligible to apply for one of three fellowships: the Arthur J. Schmitt Dissertation Fellowship (university-wide competition; requires no teaching), Teaching Scholars Awards (university wide competition; service requirement includes the teaching of one course), and the Crown Fellowship (competitive with the other humanities departments; no teaching requirement).
-
-For further information on these awards, administered by the Graduate School, please see [**http://www.luc.edu/gradschool/FundingGrad.Education.shtml**](http://www.luc.edu/gradschool/FundingGrad.Education.shtml)
-
-</div>
+For further information on these awards, administered by the Graduate School, see <http://www.luc.edu/gradschool/FundingGrad.Education.shtml>
