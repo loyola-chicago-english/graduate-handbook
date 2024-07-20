@@ -36,6 +36,12 @@ secnumdepth: 3
 
 Contact information is posted on the [department website](https://www.luc.edu/english).
 
+Whether you are in the M.A. or Ph.D. program, your main adviser will be the Director of Graduate Programs (abbreviated GPD).
+You are expected to confer with the GPD regularly about your course of study in pursuit of your degree.
+You are encouraged to meet with the GPD at other times as well to discuss your progress in the program and your future plans.
+
+For the role of the Placement Officer, see [Placement Officer].
+
 ### Department Offices
 
 The English Department and the offices of most graduate faculty are located on the fourth floor of the Crown Center for the Humanities on the Lake Shore Campus.
@@ -58,12 +64,6 @@ Primary contacts for policy inquiries are:
 - Dr. Susan Grossman, Associate Dean
 - Heather Sevener, Assistant Dean
 - Tamika Toler, Awards & Budget Manager
-
-### Director of Graduate Programs
-
-Whether you are in the M.A. or Ph.D. program, your main adviser will be the Director of Graduate Programs (abbreviated GPD).
-You are expected to confer with the GPD regularly about your course of study in pursuit of your degree.
-You are encouraged to meet with the GPD at other times as well to discuss your progress in the program and your future plans.
 
 ## Committees
 
@@ -98,6 +98,12 @@ Student ID cards, giving access to library borrowing and other privileges, are a
 The University maintains several Computer Centers which are available for your use in Sullivan Center, Information Commons, and at 25 E. Pearson.
 There are also personal computers available for the use of Graduate Assistants in the Fishbowl (Graduate Student office space in Crown Center 418).
 
+### The Fishbowl
+
+All graduate students in English have access to a common space in Crown Center 418, better known as the *Fishbowl*. This is your space for studying, meetings, lunch, and socializing; however, the department is responsible for its security.
+You may use the room up to the start of evening classes (7 p.m.).
+After that, you must vacate the room and lock the door.
+
 ## Communications
 
 ### Email
@@ -120,12 +126,6 @@ If your home address, email address, or phone number change, inform the Administ
 
 The bulletin board outside the GPD office (Crown 423) features information regarding the graduate programs---e.g., calls for papers, job offerings, fellowship opportunities.
 The board in the English main office has departmental notices.
-
-### The Fishbowl
-
-All graduate students in English have access to a common space in Crown Center 418, better known as the *Fishbowl*. This is your space for studying, meetings, lunch, and socializing; however, the department is responsible for its security.
-You may use the room up to the start of evening classes (7 p.m.).
-After that, you must vacate the room and lock the door.
 
 ## Teaching and Service
 
@@ -181,6 +181,12 @@ Further information:
 - [Inter-campus shuttle](http://www.luc.edu/campustransportation/services/intercampusshuttle/)
 
 ## Professional Development
+
+### Research and Writing
+
+Be deliberate about your choice of tools and methods for academic research and writing.
+Cultivate a sense of curiosity regarding the technical details of your own scholarly practice (search and discovery, reference management, file management, reading, annotation, note-taking, drafting, revision, fact-checking, proofreading, etc.) and ask your peers and professors about their ways of working.
+Do not assume that the particular set of tools and practices which you learned as an undergraduate, or earlier, will suffice for your present and future endeavors.
 
 ### Publication
 
@@ -389,14 +395,6 @@ M.A. students who fail the exam may retake it once.
 Ph.D. students who fail the exam may also retake it once, but only to complete the M.A. degree: they will not be allowed to continue in the program.
 Ph.D. students who receive a Low Pass will have their exams forwarded to the Committee on Graduate Programs, which will review their exams and their performance in course work in order to determine whether or not they should be permitted to continue, and if so under what probationary conditions.
 
-## Portfolio Review
-
-Because first-year Ph.D. students must register for fall classes before taking the M.A. exam, the department has instituted a portfolio review for all first-year Ph.D. students whose GPA for the fall and spring semesters is below 3.5.
-Those students must submit a portfolio of three essays (totaling at least 30 pages) to the Director of Graduate Programs the week after spring semester final exams.
-The portfolio must contain a letter to the GPD explaining the challenges the student faced the first year and how the student has responded to those challenges.
-Members of the Graduate Programs Committee will review the portfolio and make a recommendation to the GPD.
-Even if the student is advised not to continue for the Ph.D., he or she will take the M.A. exam in August to complete the M.A. degree.
-
 ## Time and Residence Requirements
 
 The M.A. is designed so that a full-time student can complete requirements in a year and a half of study --- Fall, Spring, one summer course, and the following Fall with a degree conferral in December.
@@ -455,27 +453,6 @@ Also, with approval of the Graduate Program Director, students may take a gradua
 
 Students are free to change their field at any time, provided that they are able to fulfill the course requirements for the new field.
 
-### Other program requirements
-
-Students in all three fields must complete the research tool requirements (see below).
-The M.A. Qualifying Examination, research tool, and Ph.D. Qualifying Examination requirements remain the same in all fields.
-
-#### Research Tool Requirement
-
-Prior to taking the Ph.D. examination, students pursuing a Ph.D. must demonstrate a reading knowledge of a language other than English, by passing a translation examination, by taking a graduate-level course in a foreign language and receiving a grade of *B* or higher, or by showing proof that one passed a graduate-level course or an exam as a graduate student another institution.
-The Department of Modern Languages and Literatures offers reading courses specifically designed for graduate students in other disciplines.
-Students are encouraged to discuss completion of this requirement with the Director of Graduate Programs soon after entering the program.
-
-#### Responsible Conduct in Research and Scholarship
-
-The Graduate School requires all Ph.D. students to attend one of its workshops on *Responsible Conduct in Research and Scholarship* (RCRS) prior to completing the dissertation or thesis.
-Ph.D. students are encouraged to wait until their third or fourth year to fulfill this requirement.
-Workshops are offered throughout the year.
-
-### M.A. Qualifying Examination
-
-For information on this exam, see above.
-
 ### Ph.D. Qualifying Examination
 
 The Ph.D. examination includes a written and an oral component.
@@ -512,7 +489,45 @@ Students cannot schedule their exam times until the field statements have been s
 The written examination is followed by a two-hour oral examination that is based on, but not limited to, the written portion.
 Students who fail the exam may retake it once, within one year.
 
+### Research Tool
 
+Ph.D.-level research in literary studies presupposes skills (or 'research tools') not taught in ordinary graduate-level coursework in a Department of English.
+In view of the multilingual character of humanist study, scholars of literature must often read text in a language other than their principal one.
+For these reasons, as fulfilment of the discipline's research tool, Ph.D. students in the Department of English are required to demonstrate reading proficiency in a language other than English.
+Under special circumstances priority may be given to another research tool: for instance, a computer language, statistical analysis, or protocols for research with human subjects.
+Students are encouraged to discuss completion of this requirement with the Director of Graduate Programs soon after entering the program.
+
+### Responsible Conduct in Research and Scholarship
+
+The Graduate School requires all Ph.D. students to attend one of its workshops on *Responsible Conduct in Research and Scholarship* (RCRS) prior to completing the dissertation or thesis.
+Ph.D. students are encouraged to wait until their third or fourth year to fulfill this requirement.
+Workshops are offered throughout the year by the Office of Research Services.
+Details are posted on the [RCRS webpage](https://www.luc.edu/ors/RCRHome.shtml).
+
+### Advancement to Candidacy
+
+You become a Ph.D. candidate when you complete all course requirements (including [English 502]), fulfill the research tool requirement, pass the Ph.D. Examination, establish a dissertation committee, and have your dissertation proposal approved (ideally within 6 months of completing the comprehensive exams).
+
+The selection of dissertation topic, director, and committee (two additional faculty "readers") is made in consultation with the Graduate Program Director.
+Once these decisions have been made, you must obtain a copy of the Graduate School's forms regarding the dissertation (available on line), and then prepare a proposal for the approval of your committee.
+After your proposal and committee are approved, you are considered ABD.
+Your progress now will be monitored by your dissertation director, who will report on your work to the GPD.
+(Note: You do *not* need to have the proposal approved by the entire committee to complete 502.)
+
+### Dissertation
+
+When your dissertation is completed, you will give a "Final Public Presentation and Defense" of your project, followed by a question-and-answer session led by your dissertation committee.
+Reader's copies are due to the committee one month prior to the defense, with a reader's ballot for each member (see [Department Links and Forms]).
+Once these ballots are submitted, the Graduate Programs secretary will announce the defense publicly.
+At the defense, students present the chair of the committee with the Graduate School ballot for approval of the dissertation.
+See the Graduate School's [list of downloadable forms](http://www.luc.edu/gradschool/servicesandresources_forms.shtml).
+
+Students should check the Graduate School's calendar of [Key Dates and Deadlines] for deadlines on format check and submission of the dissertation (now done electronically).
+
+Additional information:
+
+- [ETD/Proquest link for electronic submission](http://www.etdadmin.com/luc)
+- [Dissertation/Thesis Formatting](http://www.luc.edu/gradschool/formatting.shtml)  
 
 ## Policies on Special Courses
 
@@ -550,29 +565,15 @@ Students do not need to register for 600 or 610 during the summer months.
 However, those on government loans who must show they are registered for classes over the summer can register for a "dummy" course, either GSSM S61 (if they are in 610) or S60 (for 600).
 Students must register for these courses themselves and will pay a nominal fee.
 
-### Advancement to Candidacy and Dissertation
-
-You become a Ph.D. candidate when you complete all course requirements (including English 502), fulfill the research tool requirement, pass the Ph.D. Examination, establish a dissertation committee, and have your dissertation proposal approved (ideally within 6 months of completing the comprehensive exams).
-
-The selection of dissertation topic, director, and committee (two additional faculty "readers") is made in consultation with the Graduate Program Director.
-Once these decisions have been made, you must obtain a copy of the Graduate School's forms regarding the dissertation (available on line), and then prepare a proposal for the approval of your committee.
-After your proposal and committee are approved, you are considered ABD.
-Your progress now will be monitored by your dissertation director, who will report on your work to the GPD.
-(Note: You do *not* need to have the proposal approved by the entire committee to complete 502.)
-
-When your dissertation is completed, you will give a "Final Public Presentation and Defense" of your project, followed by a question-and-answer session led by your dissertation committee.
-Reader's copies are due to the committee one month prior to the defense, with a reader's ballot for each member (available at <https://www.luc.edu/english/links.shtml>).
-Once these ballots are submitted, the Graduate Programs secretary will announce the defense publicly.
-At the defense, students present the chair of the committee with the Graduate School ballot for approval of the dissertation (available at <http://www.luc.edu/gradschool/servicesandresources_forms.shtml>).
-
-*Note*: Students should check the Graduate School calendar for deadlines on format check and submission of the dissertation (now done electronically) for a December or May degree.
-
-Additional information:
-
-- [ETD/Proquest link for electronic submission](http://www.etdadmin.com/luc)
-- [Dissertation/Thesis Formatting](http://www.luc.edu/gradschool/formatting.shtml)  
-
 ## Other Policies Governing Progress to Degree
+
+### Portfolio Review
+
+Because first-year Ph.D. students must register for fall classes before taking the M.A. exam, the department has instituted a portfolio review for all first-year Ph.D. students whose GPA for the fall and spring semesters is below 3.5.
+Those students must submit a portfolio of three essays (totaling at least 30 pages) to the Director of Graduate Programs the week after spring semester final exams.
+The portfolio must contain a letter to the GPD explaining the challenges the student faced the first year and how the student has responded to those challenges.
+Members of the Graduate Programs Committee will review the portfolio and make a recommendation to the GPD.
+Even if the student is advised not to continue for the Ph.D., he or she will take the M.A. exam in August to complete the M.A. degree.
 
 ### Time and Residence Requirements
 
