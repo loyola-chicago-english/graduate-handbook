@@ -2,9 +2,6 @@
 title: Handbook for Graduate Students in English
 subtitle: AY 2024--2025
 author: Loyola University Chicago
-colorlinks: true
-linkcolor: blue
-secnumdepth: 3
 ---
 
 [Department Links and Forms]: http://www.luc.edu/english/links.shtml
