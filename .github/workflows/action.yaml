@@ -21,12 +21,16 @@ jobs:
       - name: Install Pandoc
         uses: r-lib/actions/setup-pandoc@v2
 
+      - name: Install XeLaTeX
+        run: sudo apt-get install -y texlive-xetex
+
       - name: Verify dependencies
         run: |
           pandoc --version
+          xetex --version
 
       - name: Build
-        run: pandoc --metadata-file ./config/default.yaml --toc --number-sections handbook.md -o graduate-handbook.pdf
+        run: pandoc --metadata-file=./config/default.yaml --pdf-engine=xelatex --toc --number-sections handbook.md -o graduate-handbook.pdf
 
       - name: Verify build
         run: ls graduate-handbook.pdf
