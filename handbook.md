@@ -29,7 +29,7 @@ author: Loyola University Chicago
 - Director of the Writing Center: Dr. Amy Kessel
 - Director of Undergraduate Programs: Dr. Jack Cragwall
 - Director of the Literacy Center: Dr. Jackie Heckman
-- Placement Officer: TBD
+- Placement Officer: Dr. Frederick Staidum
 
 Contact information is posted on the [department website](https://www.luc.edu/english).
 
@@ -629,3 +629,9 @@ Students who have completed course work, passed the Ph.D. exam, and received app
 - Crown Fellowship (competitive with the other humanities departments; no teaching requirement)
 
 For further information on these awards see the Graduate School's page on [Financial Assistance and Funding](http://www.luc.edu/gradschool/FundingGrad.Education.shtml), under "Fellowships & Scholarships."
+
+# Version Information
+
+Last updated \today.
+
+[View the file history on GitHub](https://github.com/loyola-chicago-english/graduate-handbook/commits/main/handbook.md).
