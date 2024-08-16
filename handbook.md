@@ -21,12 +21,12 @@ author: Loyola University Chicago
 ### Department Personnel
 
 - Department Chair: Dr. Suzanne Bost
-- Office Coordinator: Ms. Brenda Jervier
 - Assistant Chair: Dr. Jeffrey Glover
+- Office Coordinator: Ms. Brenda Jervier
 - Director of Graduate Programs: Dr. Ian Cornelius
-- Graduate Program Assistant: Ms. Almudena Rincón
+- Graduate Program Assistant: TBD
+- Director of the Writing Center: Dr. Brandiann Molby
 - Director of Writing Programs: Dr. Melissa Bradshaw
-- Director of the Writing Center: Dr. Amy Kessel
 - Director of Undergraduate Programs: Dr. Jack Cragwall
 - Director of the Literacy Center: Dr. Jackie Heckman
 - Placement Officer: Dr. Frederick Staidum
@@ -55,12 +55,15 @@ The postal address is:
 The main office of the Graduate School is on the fourth floor of the Granada Center on the Lake Shore Campus.
 This office handles admissions and financial aid, and houses the permanent files of all students throughout their graduate careers.
 The phone number for the Graduate School is (773) 508-3396.
+For more information see the [Graduate School website](https://www.luc.edu/gradschool/index.shtml).
+
 Primary contacts for policy inquiries are:
 
-- Dr. Emily Barman, Dean
-- Dr. Susan Grossman, Associate Dean
-- Heather Sevener, Assistant Dean
-- Tamika Toler, Awards & Budget Manager
+- Dr. [Emily Barman](https://www.luc.edu/gradschool/gradschool/emilybarman.shtml), Dean
+- Dr. [Kate Phillippo](https://www.luc.edu/gradschool/gradschool/katephillippo.shtml), Associate Dean for Academics
+- [Heather Sevener](https://www.luc.edu/gradschool/gradschool/heathersevener.shtml), Assistant Dean for Student Academic Services
+- [Tamika Toler](https://www.luc.edu/gradschool/gradschool/tamikatoler.shtml), Awards & Budget Manager
+- [Emily Forestieri](https://www.luc.edu/gradschool/gradschool/emilyforestieri.shtml), Communications & Records Coordinator
 
 ## Committees
 
@@ -154,9 +157,8 @@ When enrollment permits, we offer four courses.
 
 ### Housing
 
-Most graduate students choose to find their own off-campus apartments using the ads in publicly available sources.
-Loyola's Department of Residence Life also offers single- and double-occupancy apartments for graduate students on the Lakeshore Campus and the Water Tower Campus.
-For additional information, see the [Residence Life webpage](http://www.luc.edu/reslife).
+Most graduate students find off-campus apartments using the ads in publicly available sources.
+Residence Life provides a list of [suggested resources for locating housing](https://www.luc.edu/reslife/futureresidents/graduatestudents/).
 
 ### Transportation
 
