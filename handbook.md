@@ -206,7 +206,7 @@ Information is available from the Graduate School's page on [Graduate Research](
 The Department also has funding for attending summer seminars or conducting dissertation research at a research library outside Chicago.
 These are competitive awards offered each semester.
 
-The current subvention from the Graduate School for travel is a maximum of \$500.
+The current subvention from the Graduate School for travel is a maximum of \$750.
 Departmental travel support, which is funded primarily from the EGSA Student Activities budget, is likely to provide a much lower level of sponsorship.
 
 After you return from supported travel, you will be asked to supply all original receipts as well as boarding passes for your trip, and proof of attendance (conference registration receipt and program copy with your session).
