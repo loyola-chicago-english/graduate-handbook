@@ -33,12 +33,6 @@ author: Loyola University Chicago
 
 Contact information is posted on the [department website](https://www.luc.edu/english).
 
-Whether you are in the M.A. or Ph.D. program, your main adviser will be the Director of Graduate Programs (abbreviated GPD).
-You are expected to confer with the GPD regularly about your course of study in pursuit of your degree.
-You are encouraged to meet with the GPD at other times as well to discuss your progress in the program and your future plans.
-
-For the role of the Placement Officer, see [Placement Officer].
-
 ### Department Offices
 
 The English Department and the offices of most graduate faculty are located on the fourth floor of the Crown Center for the Humanities on the Lake Shore Campus.
@@ -247,6 +241,14 @@ In the fall, students eligible for this award are those who have taken ENGL 502 
 
 # Regulations and Procedures
 
+## Advising
+
+The Director of Graduate Programs (abbreviated GPD) serves as faculty advisor for all M.A. students and for Ph.D. students prior to [Advancement to Candidacy].
+Students meet individually with the GPD prior to [Registration] each semester.
+Students are encouraged to meet with the GPD at other times and must do so when plans change (for instance, when contemplating [Withdrawal] from a course, [Leaves of Absence], or an [Incomplete]).
+
+Ph.D. students applying for faculty jobs are advised by the [Placement Officer].
+
 ## Course Loads
 
 A full-time student will usually carry three courses per semester, or, for Graduate Assistants entering the classroom as instructors, two courses and one teaching assignment.
@@ -363,6 +365,17 @@ The decision of that committee can be appealed to the Graduate School.
 Students wishing to initiate a grievance must do so in writing to the Dean.
 Further information can be obtained from the Graduate School office.
 
+## Graduation and Application for Degree
+
+Loyola confers degrees three times each year: May, August, and December.
+A student graduates when they have completed all degree requirements and submitted an application for the degree.
+Applications for degree are due approximately six months before degree conferral: typically December 1 for a May degree, February 1 for an August degree, and August 1 for a December degree.
+These dates are set by the Graduate School: see the list of [Key Dates and Deadlines].
+Applications for degree are submitted through [LOCUS].
+Late applications are not accepted: students who miss a deadline must apply for a subsequent graduation date.
+
+As students "walk" only at the May graduation, August and December degree students may walk in the May ceremony the following year.
+
 # The Master of Arts program
 
 ## Program Requirements
@@ -399,16 +412,6 @@ Ph.D. students who receive a Low Pass will have their exams forwarded to the Com
 The M.A. is designed so that a full-time student can complete requirements in a year and a half of study --- Fall, Spring, one summer course, and the following Fall with a degree conferral in December.
 Part-time students must complete all requirements for the degree within four years.
 After five years, the student may continue only by special action of the Dean of the Graduate School.
-
-## Application for Degree
-
-It is the exclusive responsibility of all graduate students to inform the Graduate School office of their intention to graduate with an M.A. degree.
-Once you have determined when you will receive your degree (e.g., August, December or May), you must apply for graduation through [LOCUS].
-The Graduate School sets the deadlines (typically December 1 for a May degree, February 1 for an August degree, and August 1 for a December degree).
-Check the Graduate School's list of [Key Dates and Deadlines].
-
-After completing courses and passing the exam, you will be certified for a degree.
-As we have only one ceremony per year when students "walk," August and December degree students walk in the May ceremony the following year.
 
 # The Doctor of Philosophy Program
 
@@ -584,12 +587,6 @@ Extensions are not routine; students must demonstrate that they are making progr
 
 Students requesting extensions must fill out the request form in [GSPS].
 The GPD will review the request before it is sent on to the Graduate School.
-
-### Application for Degree
-
-It is the exclusive responsibility of all graduate students to inform the Graduate School office of their intention to graduate with an M.A. or Ph.D. degree.
-Once you have determined when you will receive your degree, you must file the "Application for Graduation" with the Graduate School several months before the graduation date.
-See the [Key Dates and Deadlines].
 
 ## Assistantship and Fellowship Support
 
