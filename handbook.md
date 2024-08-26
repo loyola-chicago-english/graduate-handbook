@@ -449,17 +449,23 @@ Proposals for 501 courses will not be approved if the material to be covered is 
 
 ### ENGL 502
 
-In ENGL 502 ("Independent Study for Doctoral Qualification") students prepare for the [Ph.D. Qualifying Examination] and write a draft their dissertation proposals, or at least a literature review, under the supervision of their eventual dissertation directors.
-Graduate School and English Department forms must be approved by the Director of Graduate Programs in the semester prior to the course.
+ENGL 502 ("Independent Study for Doctoral Qualification") is the capstone of the [course requirements](#general-course-requirements) for the Ph.D. and serves as preparation for the [Ph.D. Qualifying Examination].
+This course is a 'full-time equivalent'.
+Except in special circumstances, it is taken in the semester after completing the last of the 400-level course requirements.
 
-ENGL 502 explicitly couples the drafting of a dissertation proposal---and thus the earliest stages of dissertation research, the formation of a core bibliography, and the definition of the project itself---with the student's preparation for the Ph.D. Exam.
-The Department believes that these tasks are closely related, that they can and should be accomplished together, and that neither should supercede or delay the other.
-502 requires a minimum of 7 contact hours between faculty and student (approximately 1 hour every two weeks) and the submission of a draft of the proposal or substantial progress toward that proposal, such as a literature review.
+The director of ENGL 502 must be identified in the semester before a student enrolls in this course.
+This is done in consultation with the GPD, who must approve Graduate School and English Department forms.
+Usually the faculty director of English 502 will also serve as director of the student's dissertation.
 
-The draft proposal is usually completed after taking the exams, which often means that it is necessary to take a temporary *I* grade for the course.
-If a student takes an Incomplete in ENGL 502, the course must be completed the next semester after the semester of registration.
-(See [Incompletes], above.)
-A student who does not complete ENGL 502 within the specified time will have to retake the course at his or her own expense.
+The student and their faculty director should meet for a minimum of 7 hours, approximately 1 hour every two weeks.
+The written component of English 502 is set by the faculty director, but usually includes drafts of field lists and field statements and may include a literature review or a draft of the dissertation proposal.
+
+Field lists and field statements are usually finalized in the semester after 502, in consultation with the student's faculty director and other members of the examining committee.
+The qualifying exam follows, as described in the section [Ph.D. Qualifying Examination].
+The dissertation proposal is usually completed after the qualifying exam, but the English Department has usually required that students complete each of these items (field statements, qualifying exam, and the dissertation proposal) before receiving a passing grade for 502.
+This means that students are usually assigned a temporary incomplete (*I*) for 502.
+The *I* is subject to the usual policies on [Incompletes] and converted to a *P* when the dissertation proposal is completed.
+A student who does not complete the dissertation proposal within the specified time must retake the course at their own expense.
 
 ### ENGL 610 and 600
 
