@@ -26,13 +26,23 @@ jobs:
       - name: Install XeLaTeX
         run: sudo apt-get update && sudo apt-get install -y texlive-xetex
 
+      - name: Download lua-filter
+        run: wget https://raw.githubusercontent.com/pandoc/lua-filters/master/include-files/include-files.lua
+
       - name: Verify dependencies
         run: |
           pandoc --version
           xetex --version
+          ls include-files.lua
 
       - name: Build
-        run: pandoc --metadata-file=./config/default.yaml --pdf-engine=xelatex --toc --number-sections handbook.md -o graduate-handbook.pdf
+        run: >-
+          pandoc
+          --lua-filter=include-files.lua
+          --metadata-file=./config/default.yaml
+          --pdf-engine=xelatex
+          --toc --number-sections
+          handbook.md -o graduate-handbook.pdf
 
       - name: Verify build
         run: ls graduate-handbook.pdf

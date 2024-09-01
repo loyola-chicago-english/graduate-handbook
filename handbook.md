@@ -230,9 +230,9 @@ See the [Career Services website](https://www.luc.edu/career/index.shtml).
 ### Clayes Essay Awards
 
 Each year the Department sponsors a competition among graduate students for the Stanley Clayes Memorial Award.
-Cash prizes are awarded to outstanding essays written for a graduate class (excluding ENGL 501 and ENGL 502) the preceding academic year.
-The Call for Papers comes out at the beginning of fall term, the deadline for submissions is in September, and the Clayes presentations and reception is held in November.
-You are strongly encouraged to discuss your submission with the professor for whom you wrote the paper.
+Cash prizes are awarded to essays written for 400-level graduate seminars in the preceding academic year.
+The call for papers comes out at the beginning of fall term.
+For details see the [Stanley Clayes Essay Competition Submission Guidelines].
 
 ### Gravett-Tuma Book Award
 
@@ -634,3 +634,13 @@ For further information on these awards see the Graduate School's page on [Finan
 Last updated \today.
 
 [View the file history on GitHub](https://github.com/loyola-chicago-english/graduate-handbook/commits/main/handbook.md).
+
+\newpage
+
+# Appendix
+
+## Stanley Clayes Essay Competition Submission Guidelines
+
+``` {.include}
+appendices/clayes-prize-submission-guidelines.md
+```
