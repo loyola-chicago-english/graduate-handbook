@@ -245,7 +245,7 @@ In the fall, students eligible for this award are those who have taken ENGL 502 
 
 The Director of Graduate Programs (abbreviated GPD) serves as faculty advisor for all M.A. students and for Ph.D. students prior to [Advancement to Candidacy].
 Students meet individually with the GPD prior to [Registration] each semester.
-Students are encouraged to meet with the GPD at other times and must do so when plans change (for instance, when contemplating [Withdrawal] from a course, [Leaves of Absence], or an [Incomplete]).
+Students are encouraged to confer with the GPD at other times and must do so when contemplating [Withdrawal] from a course or another significant change in their studies.
 
 Ph.D. students applying for faculty jobs are advised by the [Placement Officer].
 
@@ -316,7 +316,7 @@ Students need to download the change-of-grade form from the Graduate School webs
 
 The student must complete and submit all outstanding work to the instructor by the last day of the semester following the term in which the I grade was assigned.
 If the student does not turn in the work by the deadline, the *I* will automatically become an *F*.
-Students contemplating an incomplete should read the policy on the [Graduate School webpage](http://www.luc.edu/gradschool/academics_policies.shtml).
+Students contemplating an incomplete should read the [Graduate School Academic Policies](http://www.luc.edu/gradschool/academics_policies.shtml), under the section "Grades."
 
 Although it is not uncommon for graduate students to take an occasional incomplete, it is of course better *not* to take an incomplete when possible.
 Making up an incomplete course often proves harder than students expect, particularly if much time has elapsed since the end of the course.
