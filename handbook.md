@@ -343,40 +343,17 @@ See the [Graduate School Academic Policies], under "Degree Conferral/Graduation.
 
 As students "walk" only at the May graduation, August and December degree students may walk in the May ceremony the following year.
 
-# The Master of Arts program
+# The Master of Arts Program
 
 ## Program Requirements
 
 Students in the M.A. program complete course requirements and a qualifying exam.
-
-### Course Requirements
-
-- English 400 (Introduction to Graduate Study).
-- English 402 (Teaching College Composition) (required for the teaching track only)
-- At least *three* courses in literary studies. At least *one* course must be in literature before 1800, *one* in literature after 1800.
-- At least *one* course in critical theory (courses numbered 410--429).
-- One course in textual studies or digital humanities, or (for the teaching track) pedagogy.
-- Four elective courses, for a total of thirty hours.
-
-### M.A. Qualifying Examination
-
-All students will take a four-hour written examination at the end of their course work.
-The exam is given during the last week of second summer term in August, and the first day of exam week in December and May.
-The exam will be prepared and graded by a four-member M.A. examining committee using a standard set of questions, each testing a particular skill.
-Faculty teaching graduate seminars in any one year will submit a short list of required readings (literary, critical, and theoretical) from their courses.
-From that list, the examining committee will form a master list of major texts to be used by students in answering the exam questions.
-The short lists will be shared with students prior to the exam, the master list will not.
-
-The exam will be graded as High Pass, Pass, Low Pass or Fail.
-The minimum requirements for the M.A. degree will be a Low Pass on the exam and a B average in all course work.
-M.A. students who fail the exam may retake it once.
-
-Ph.D. students who fail the exam may also retake it once, but only to complete the M.A. degree: they will not be allowed to continue in the program.
-Ph.D. students who receive a Low Pass will have their exams forwarded to the Committee on Graduate Programs, which will review their exams and their performance in course work in order to determine whether or not they should be permitted to continue, and if so under what probationary conditions.
+The authoritative statement of program requirements is the university's [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-ma/#curriculumtext)
 
 ## Time Limits
 
 The M.A. is designed so that a full-time student can complete requirements in a year and a half of study --- Fall, Spring, one summer course, and the following Fall with a degree conferral in December.
+
 Part-time students must complete all requirements for the degree within four years.
 After five years, the student may continue only by special action of the Dean of the Graduate School.
 See the [Graduate School Academic Policies], under "Time Limit for Completion of Degree Requirements."
@@ -385,43 +362,11 @@ See the [Graduate School Academic Policies], under "Time Limit for Completion of
 
 ## Program Requirements
 
-Doctoral students in English who have completed the M.A. degree enter one of three specialized fields.
-Students must meet general course requirements and course requirements of their specialization, pass a Ph.D. qualifying exam, and meet other program requirements, as detailed in the following sections.
+Ph.D. students complete general course requirements and course requirements of their specialization, pass a Ph.D. qualifying exam, and meet other program requirements, as detailed in the following sections and in the university's [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-phd/#curriculumtext).
 
-### General Course Requirements
+### Course Requirements
 
-- English 400: Introduction to Graduate Study
-- English 402: Teaching College Composition
-- English 502: Independent Study for Doctoral Qualification (see [English 502])
-- Two courses in critical theory or textual studies; at least one of these two courses must be in critical theory
-
-### Field-Specific Course Requirements
-
-Medieval and Renaissance Literature:
-
-- At least *six* courses in Medieval and Renaissance Literature (numbered 440--459)
-- At least *one* course in Nineteenth-Century Studies (ENGL 460--478 and 490--493)
-- At least *one* course in Modern Literature and Culture (480--489 and 494--499)
-- *Seven* electives to fulfill the 60-hour requirement
-
-Nineteenth-Century Studies:
-
-- At least *six *courses in Nineteenth-Century Literature (numbered 470--479, 490--493)
-- At least *one* courses in Medieval or Renaissance Literature (440--459)
-- At least *one* course in Modern Literature and Culture (480--489 and 494--499)
-- *Seven *electives to fulfill the 60-hour requirement
-
-Modern Literature and Culture (including postmodern and contemporary literatures):
-
-- At least *six* courses in Modern Literature (numbered 480--489 and 494--499)
-- At least *one* course in Medieval or Renaissance Literature (440--459)
-- At least *one* course in Nineteenth-Century Literature (470--479, 490--493)
-- *Seven* electives to fulfill the 60-hour requirement
-
-Other courses not listed above may, at the discretion of the Graduate Program Director, count toward one period requirement or another, depending on their specific content in a given semester.
-Also, with approval of the Graduate Program Director, students may take a graduate course in another department for elective credit as long as the course is taught by a professor with a terminal degree (that is, a Ph.D. not an M.A.).
-
-Students are free to change their field at any time, provided that they are able to fulfill the course requirements for the new field.
+For course requirements, including field-specific requirements, see the [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-phd/#curriculumtext).
 
 ### Ph.D. Qualifying Examination
 
