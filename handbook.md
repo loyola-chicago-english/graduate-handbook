@@ -12,6 +12,8 @@ author: Loyola University Chicago
 
 [LOCUS]: https://locus.luc.edu
 
+[Graduate School Academic Policies]: https://catalog.luc.edu/academic-standards-regulations/graduate-professional/graduate-school/
+
 \newpage
 
 # General Information
@@ -44,14 +46,11 @@ The postal address is:
 > | 1032 West Sheridan Road
 > | Chicago, IL 60660
 
-### Graduate School Offices and Personnel
+### The Graduate School
 
-The main office of the Graduate School is on the fourth floor of the Granada Center on the Lake Shore Campus.
-This office handles admissions and financial aid, and houses the permanent files of all students throughout their graduate careers.
-The phone number for the Graduate School is (773) 508-3396.
+The Graduate School handles admissions and financial aid, and maintains permanent files of all students throughout their graduate careers.
 For more information see the [Graduate School website](https://www.luc.edu/gradschool/index.shtml).
-
-Primary contacts for policy inquiries are:
+Primary personnel are:
 
 - Dr. [Emily Barman](https://www.luc.edu/gradschool/gradschool/emilybarman.shtml), Dean
 - Dr. [Kate Phillippo](https://www.luc.edu/gradschool/gradschool/katephillippo.shtml), Associate Dean for Academics
@@ -83,14 +82,14 @@ A representative for the M.A. students will be elected fall semester.
 
 ## University and Department Resources
 
-### Student ID Cards
+### ID Cards
 
-Student ID cards, giving access to library borrowing and other privileges, are available from the Campus Card Office, Sullivan Center, Room 198.
+ID cards, giving access to library borrowing and other privileges, are available from the Campus Card Office.
+For locations and details see the [Campus Card Office website](https://www.luc.edu/campuscard/index.shtml).
 
 ### Computer Services
 
-The University maintains several Computer Centers which are available for your use in Sullivan Center, Information Commons, and at 25 E. Pearson.
-There are also personal computers available for the use of Graduate Assistants in the Fishbowl (Graduate Student office space in Crown Center 418).
+Computers are available in [The Fishbowl] and [libraries](https://libraries.luc.edu/computers).
 
 ### The Fishbowl
 
@@ -147,31 +146,24 @@ Two six-week summer sessions are offered through the Department each year, runni
 At least two graduate-level courses are offered over the two summer terms.
 When enrollment permits, we offer four courses.
 
-## Housing and Transportation
+## Health Insurance
 
-### Housing
+Graduate students enrolled for 8 or more credit hours or Thesis or Dissertation Supervision must have health insurance.
+Details and instructions for enrollment are maintained at the [Bursar's Office webpage on Health Insurance](https://www.luc.edu/bursar/insurance.shtml).
+
+Ph.D. students funded by assistantships will receive additional details in their annual "award letters," sent by the Graduate School.
+Ph.D. students who are enrolled in fewer than eight credits in the fall semester must contact the [Graduate School Awards and Budget Manager](#the-graduate-school) if they wish to be enrolled in Loyola's health insurance plan.
+
+## Housing
 
 Most graduate students find off-campus apartments using the ads in publicly available sources.
 Residence Life provides a list of [suggested resources for locating housing](https://www.luc.edu/reslife/futureresidents/graduatestudents/).
 
-### Transportation
+## Transportation
 
-If you plan to commute to Loyola, there are several parking lots that you may use.
-The main parking structure, adjacent to Sheridan Road and to the Halas Sports Center, houses the Parking Office, where you may purchase a sticker for annual parking.
-The fee for one-day parking on campus is \$7.00.
-At peak class times, available parking can sometimes be scarce.
-Street parking in the community immediately surrounding campus is scarce.
-It is also restricted to residents during certain hours, so be sure to read the signs carefully to avoid being ticketed by the police.
-
-Parking is also available near the Water Tower Campus, although it is more expensive.
-You can have your parking stub stamped at the information desk at the 25 E. Pearson building to receive a modest discount.
-If you teach or take classes at the Water Tower Campus, you will probably want to acquaint yourself with the University's inter-campus shuttle bus service.
+See the [Campus Transportation website](https://www.luc.edu/campustransportation/index.shtml) for information on parking, the inter-campus shuttle, and 8-RIDE.
 Public buses and the "El" run frequently between campuses and to other points in the city.
-
-Further information:
-
-- [Parking](http://www.luc.edu/campustransportation/generalinformation/lakeshorecampus/)
-- [Inter-campus shuttle](http://www.luc.edu/campustransportation/services/intercampusshuttle/)
+See the [Chicago Transit Authority website](https://www.transitchicago.com/).
 
 ## Professional Development
 
@@ -241,11 +233,16 @@ In the fall, students eligible for this award are those who have taken ENGL 502 
 
 # Regulations and Procedures
 
+Students should read the [Graduate School Academic Policies].
+The Department of English maintains additional policies, detailed in this Handbook and elsewhere.
+In cases of conflict between this Handbook and a policy of the Graduate School, the Graduate School policy shall prevail.
+
 ## Advising
 
 The Director of Graduate Programs (abbreviated GPD) serves as faculty advisor for all M.A. students and for Ph.D. students prior to [Advancement to Candidacy].
 Students meet individually with the GPD prior to [Registration] each semester.
 Students are encouraged to confer with the GPD at other times and must do so when contemplating [Withdrawal] from a course or another significant change in their studies.
+See also the [Graduate School Academic Policies], under "Academic Advising."
 
 Ph.D. students applying for faculty jobs are advised by the [Placement Officer].
 
@@ -253,14 +250,16 @@ Ph.D. students applying for faculty jobs are advised by the [Placement Officer].
 
 A full-time student will usually carry three courses per semester, or, for Graduate Assistants entering the classroom as instructors, two courses and one teaching assignment.
 Course loads for part-time students are worked out on an individual basis.
-All students funded by the Department or the Graduate School are considered full time.
+All students funded by the Graduate School are considered full time.
+
+See also the [Graduate School Academic Policies], "Student Enrollment Status," under the section "Enrollment in Courses."
 
 ## Registration
 
 Both new and continuing students must complete the process of registration before every semester in which they are either attending classes or writing their dissertations.
 A schedule of courses for the upcoming term is available a few months before classes are scheduled to begin.
 
-To register for graduate courses you must first consult with the Director of Graduate Programs.
+To register for graduate courses you must first consult with the Graduate Programs Director: see [Advising].
 Once your selections are approved, they will be entered into the system by the Administrative Assistant to the program, completing the registration process.
 Graduate students do *not* register for courses themselves, but you must check [LOCUS] to verify your registration each semester.
 
@@ -268,89 +267,56 @@ Students must maintain continual registration throughout their years in the prog
 
 ## Grades
 
-The grading system used in the Graduate School is as follows.
-Letter grades:
-
---- -----
-A    4.00
-A-   3.67
-B+   3.33
-B    3.00
-B-   2.67
-C+   2.33
-C    2.00
-D    1.00
-F    0.00
---- -----
-
-Other grades:
-
---- ---------------------
-I   Incomplete
-W   Withdrawal
-WF  Withdrawal, Failure
-CR  Credit
-NC  No Credit
-AU  Audit
---- ---------------------
-
-For further information on Loyola's grading policy, consult the [Graduate School Catalog](https://catalog.luc.edu/graduate-professional/).
+For letter grades and their associated grade-point values, see the [Graduate School Academic Policies], under "Grades."
 
 Graduate students in the English Department are expected to maintain an average of not less than *B* (3.0).
 Those who fail to meet this requirement may be dismissed.
 No more than two grades below *B* and no grades of *D* or *F* may be counted as fulfilling degree requirements.
-In any case, Ph.D. students who find themselves receiving primarily *B*'s (or below) should consider seriously whether pursuing a doctorate in English remains the most gainful use of their time.
+See the [Graduate School Academic Policies], under "Computation of Academic Grade Point Averages."
 
-## Withdrawal
+Ph.D. students who find themselves receiving primarily *B*'s (or below) should consider whether pursuing a doctorate in English remains the most gainful use of their time.
+
+## Withdrawal from Courses
 
 Withdrawal from graduate seminars is uncommon; students must consult with the Graduate Program Director before dropping through [LOCUS].
 Students should check the academic calendar for deadlines on withdrawing for full or partial refunds, and with a W or F grade.
+For additional details and policies, see the [Graduate School Academic Policies], under "Grades."
 Students are responsible for withdrawing themselves from classes.
 
 ## Incompletes
 
-Faculty may assign the grade of *I* to a student who has not completed the assigned work by the end of the term.
-This grade is not assigned automatically; rather, it is up to the student to work out with the instructor a plan, including a deadline, for completing the work for the course.
-Incompletes require the approval of the Graduate Program Director.
-Students need to download the change-of-grade form from the Graduate School website and give it to the Graduate Program Director when the incomplete is approved.
+The Graduate School maintains policies on incompletes, including time limits for completion of work: see the [Graduate School Academic Policies], under "Grades."
+The Department of English has two additional policies:
 
-The student must complete and submit all outstanding work to the instructor by the last day of the semester following the term in which the I grade was assigned.
-If the student does not turn in the work by the deadline, the *I* will automatically become an *F*.
-Students contemplating an incomplete should read the [Graduate School Academic Policies](http://www.luc.edu/gradschool/academics_policies.shtml), under the section "Grades."
-
-Although it is not uncommon for graduate students to take an occasional incomplete, it is of course better *not* to take an incomplete when possible.
-Making up an incomplete course often proves harder than students expect, particularly if much time has elapsed since the end of the course.
-In any case, faculty members have various policies regarding incompletes, so it is advisable to discuss the matter with your instructor as early as possible if you anticipate the need for an incomplete.
-You must also complete a form (see [Department Links and Forms]) and have it signed by the GPD.
-
-No more than one *I* can be requested in a semester, unless there are extenuating circumstances (e.g., a serious illness).
+- Incompletes require the approval of the Graduate Programs Director.
+  Students who seek an incomplete must download and fill the relevant form (see [Department Links and Forms]) and have it signed by the GPD.
+- No more than one incomplete can be requested per semester, unless there are extenuating circumstances (e.g., a serious illness).
 
 ## Leaves of Absence
 
 Official leaves of absence are intended for students who wish to discontinue temporarily their graduate studies due to special circumstances (e.g., medical, personal, or professional reasons).
-A leave of absence postpones all deadlines concerning completion of degree requirements for the duration of the leave.
-A student requesting a leave must complete a Leave of Absence form (available on [GSPS]) and contact the Graduate Program Director, who then makes a recommendation on the student's behalf to the Graduate School.
-Decisions regarding the approval of leaves of absence rest with the Graduate School.
-Leaves of absence may be requested for a semester or for a full academic year.
+For details and policies, see the [Graduate School Academic Policies], under "Leaves of Absence."
+Students who wish to request a leave of absence should first speak with the Graduate Programs Director.
 
-To be reinstated to active status, the student must notify the Graduate School in writing upon returning from a leave.
-Unless the student is granted a renewal of a leave, he or she must return to active status in the semester following its expiration.
-Failure to do so may result in withdrawal from the program.
+## Parental Leave
 
-## Advanced Standing/Transfer Credits
+For parental leave see the [Graduate School Academic Policies], under "Parental Leave Policy".
+
+## Transfer Credit and Advanced Standing
 
 It is ordinarily expected that all work for the Master's degree will be completed at Loyola.
 Upon the recommendation of the Director of Graduate Programs, however, and with the approval of the Dean, up to six hours of credit for graduate work at another university may be counted toward the M.A. degree.
+See the [Graduate School Academic Policies], under "Transfer Credit."
 
 For students entering the Ph.D. program with prior graduate work, up to thirty hours of credit may, with the Department's recommendation and the Dean's approval, be counted toward a Loyola Ph.D.
-The precise number of hours credited toward advanced standing is worked out by the Director of Graduate Programs during a student's first semester in the program.
+The precise number of hours credited toward advanced standing is worked out by the Director of Graduate Programs during a student's first year in the program.
+See the [Graduate School Academic Policies], under "Advanced Standing Toward the Doctoral Degree."
 
-## Academic Honesty
+## Academic Integrity
 
-Although academic dishonesty can take many forms, in our field it manifests primarily as plagiarism.
-The [Graduate School Catalog](https://catalog.luc.edu/academic-standards-regulations/graduate-professional/graduate-school/) defines plagiarism as "the appropriation for gain of ideas, language or work of another without sufficient public acknowledgement that the material is not one's own."
-As a graduate student, you very likely have a good understanding of the boundaries of what is acceptable and what is not.
-If you are ever uncertain, it is of course best to consult the Director of Graduate Programs or another faculty member.
+The Department of English abides by the policies on academic integrity set forth in the [Graduate School Academic Policies], under "Academic Integrity."
+Although academic dishonesty can take many forms, in our field it manifests primarily as plagiarism, defined by the Graduate School as "the use of ideas, language, or work of another without sufficient public acknowledgement that the material is not one's own."
+Students who have questions about this policy should consult the Director of Graduate Programs or another faculty member.
 
 The penalty for an instance of plagiarism is, at a minimum, failure on the assignment, which may well be tantamount to failure in the course.
 A serious breach or a pattern of dishonesty can lead to expulsion from Loyola.
@@ -363,7 +329,7 @@ If you are unable to resolve a problem with a member of the staff or faculty, or
 If the problem cannot be satisfactorily resolved by the GPD, it will be taken up by the Department Chair who, if necessary, will refer it to a departmental grievance committee.
 The decision of that committee can be appealed to the Graduate School.
 Students wishing to initiate a grievance must do so in writing to the Dean.
-Further information can be obtained from the Graduate School office.
+See the [Graduate School Academic Policies], under "Academic Grievance."
 
 ## Graduation and Application for Degree
 
@@ -373,6 +339,7 @@ Applications for degree are due approximately six months before degree conferral
 These dates are set by the Graduate School: see the list of [Key Dates and Deadlines].
 Applications for degree are submitted through [LOCUS].
 Late applications are not accepted: students who miss a deadline must apply for a subsequent graduation date.
+See the [Graduate School Academic Policies], under "Degree Conferral/Graduation."
 
 As students "walk" only at the May graduation, August and December degree students may walk in the May ceremony the following year.
 
@@ -407,11 +374,12 @@ M.A. students who fail the exam may retake it once.
 Ph.D. students who fail the exam may also retake it once, but only to complete the M.A. degree: they will not be allowed to continue in the program.
 Ph.D. students who receive a Low Pass will have their exams forwarded to the Committee on Graduate Programs, which will review their exams and their performance in course work in order to determine whether or not they should be permitted to continue, and if so under what probationary conditions.
 
-## Time and Residence Requirements
+## Time Limits
 
 The M.A. is designed so that a full-time student can complete requirements in a year and a half of study --- Fall, Spring, one summer course, and the following Fall with a degree conferral in December.
 Part-time students must complete all requirements for the degree within four years.
 After five years, the student may continue only by special action of the Dean of the Graduate School.
+See the [Graduate School Academic Policies], under "Time Limit for Completion of Degree Requirements."
 
 # The Doctor of Philosophy Program
 
@@ -577,16 +545,15 @@ The portfolio must contain a letter to the GPD explaining the challenges the stu
 Members of the Graduate Programs Committee will review the portfolio and make a recommendation to the GPD.
 Even if the student is advised not to continue for the Ph.D., he or she will take the M.A. exam in August to complete the M.A. degree.
 
-### Time and Residence Requirements
+### Time Limits
 
-According to Graduate School regulations, work on the Ph.D. must be completed eight years from the time you have begun course work applicable to the degree; if you entered with an M.A., you will have six years from the time of beginning course work for the Ph.D.
+The Ph.D. must be completed eight years from the time a student begins course work applicable to the degree.
+Ph.D. students who entered with an M.A. have six years from the time of beginning course work for the Ph.D.
+See the [Graduate School Academic Policies], under "Time Limit for Completion of Degree Requirements."
 
-Students who are beyond the eight-year (or six-year) limit will be surveyed on their progress annually by the Graduate Program Director and must apply to the Graduate School for an extension of their time limit.
-The Graduate Program Director and dissertation director will issue a recommendation to the Graduate School as to whether each such student should be permitted to continue toward the degree.
+A student may request an extension of the time limit in [GSPS], as described in the Graduate School Academic Policies.
+The GPD reviews the request before it is sent on to the Graduate School.
 Extensions are not routine; students must demonstrate that they are making progress toward the degree.
-
-Students requesting extensions must fill out the request form in [GSPS].
-The GPD will review the request before it is sent on to the Graduate School.
 
 ## Assistantship and Fellowship Support
 
