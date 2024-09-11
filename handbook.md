@@ -14,6 +14,8 @@ author: Loyola University Chicago
 
 [Graduate School Academic Policies]: https://catalog.luc.edu/academic-standards-regulations/graduate-professional/graduate-school/
 
+[Graduate School website]: https://www.luc.edu/gradschool/index.shtml
+
 \newpage
 
 # General Information
@@ -49,14 +51,15 @@ The postal address is:
 ### The Graduate School
 
 The Graduate School handles admissions and financial aid, and maintains permanent files of all students throughout their graduate careers.
-For more information see the [Graduate School website](https://www.luc.edu/gradschool/index.shtml).
 Primary personnel are:
 
-- Dr. [Emily Barman](https://www.luc.edu/gradschool/gradschool/emilybarman.shtml), Dean
-- Dr. [Kate Phillippo](https://www.luc.edu/gradschool/gradschool/katephillippo.shtml), Associate Dean for Academics
-- [Heather Sevener](https://www.luc.edu/gradschool/gradschool/heathersevener.shtml), Assistant Dean for Student Academic Services
-- [Tamika Toler](https://www.luc.edu/gradschool/gradschool/tamikatoler.shtml), Awards & Budget Manager
-- [Emily Forestieri](https://www.luc.edu/gradschool/gradschool/emilyforestieri.shtml), Communications & Records Coordinator
+- Dr. Emily Barman, Dean
+- Dr. Kate Phillippo, Associate Dean for Academics
+- Heather Sevener, Assistant Dean for Student Academic Services
+- Tamika Toler, Awards & Budget Manager
+- Emily Forestieri, Communications & Records Coordinator
+
+Contact information may be found at the [Graduate School website], under the menu item "About" > "Contact Us."
 
 ## Committees
 
@@ -187,7 +190,7 @@ Presentation of conference papers is an important part of students' professional
 
 Each semester the Graduate School has funds to support graduate student travel for the purpose of presenting papers or chairing sessions at conferences.
 Funds are limited, so students should apply promptly upon acceptance of their papers or sessions.
-Information is available from the Graduate School's page on [Graduate Research](https://www.luc.edu/gradschool/currentstudents/graduateresearch/).
+Information is available from the Graduate School's page on [Research](https://www.luc.edu/gradschool/academics/research/), under "Conference Travel Awards."
 
 The Department also has funding for attending summer seminars or conducting dissertation research at a research library outside Chicago.
 These are competitive awards offered each semester.
@@ -435,14 +438,14 @@ When your dissertation is completed, you will give a "Final Public Presentation 
 Reader's copies are due to the committee one month prior to the defense, with a reader's ballot for each member (see [Department Links and Forms]).
 Once these ballots are submitted, the Graduate Programs secretary will announce the defense publicly.
 At the defense, students present the chair of the committee with the Graduate School ballot for approval of the dissertation.
-See the Graduate School's [list of downloadable forms](http://www.luc.edu/gradschool/servicesandresources_forms.shtml).
+See the Graduate School's [downloadable forms](https://www.luc.edu/gradschool/academics/forms/).
 
 Students should check the Graduate School's calendar of [Key Dates and Deadlines] for deadlines on format check and submission of the dissertation (now done electronically).
 
 Additional information:
 
 - [ETD/Proquest link for electronic submission](http://www.etdadmin.com/luc)
-- [Dissertation/Thesis Formatting](http://www.luc.edu/gradschool/formatting.shtml)  
+- [Dissertation/Thesis Formatting](https://www.luc.edu/gradschool/academics/dissertationandthesis/)  
 
 ## Policies on Special Courses
 
