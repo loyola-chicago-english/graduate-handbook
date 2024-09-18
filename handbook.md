@@ -346,6 +346,7 @@ As students "walk" only at the May graduation, August and December degree studen
 
 Students in the M.A. program complete course requirements and a qualifying exam.
 The authoritative statement of program requirements is the university's [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-ma/#curriculumtext)
+Full instructions on the M.A. Exam are supplied in the [Appendix](#phd-exam-full-instructions).
 
 ## Time Limits
 
@@ -521,6 +522,14 @@ Last updated \today.
 
 ``` {.include}
 appendices/clayes-prize-submission-guidelines.md
+```
+
+\newpage
+
+## Instructions for the M.A. Exam {#ma-exam-full-instructions}
+
+``` {.include}
+appendices/ma-exam-instructions-for-students.md
 ```
 
 \newpage
