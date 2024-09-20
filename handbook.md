@@ -214,12 +214,6 @@ The department has two collections of advice and information for students enteri
 
 Contact the placement officer for access to the Sakai site.
 
-### Career Center
-
-Each student entering the job market should establish a dossier containing letters of recommendation.
-This dossier is maintained by the university's Career Center, located in Sullivan Center, Room 255 (phone: 773-508-7716).
-See the [Career Services website](https://www.luc.edu/career/index.shtml).
-
 ## Awards
 
 ### Clayes Essay Awards
