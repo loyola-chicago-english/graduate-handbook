@@ -367,39 +367,8 @@ For course requirements, including field-specific requirements, see the [Academi
 
 ### Ph.D. Qualifying Examination
 
-The Ph.D. examination includes a written and an oral component.
-The written exam consists of three three-hour papers covering fields to be chosen by the student in consultation with his or her examining committee and the Director of Graduate Programs.
-With the approval of their examiners, students must define three fields.
-Fields may be of the following kinds:
-
-1. An area of critical, cultural, or literary theory
-2. An author
-3. The literature of an historical period and/or genre, which may be additionally focused
-4. Textual studies/digital humanities
-
-Students may include up to three fields of the third type, but only one field of any other type.
-Examples of literary fields might include:
-
-- 17th-Century British poetry
-- Early Modern women's writing
-- Postcolonial drama
-- Medieval drama
-- African-American literature, 1914--1959
-- Contemporary working-class fiction of the U.S.
-- Modernist poetry
-- Modernist manifestos
-
-Any or all of the exam fields may be related to the student's dissertation topic; however, some breadth across fields is expected.
-And although the selection of texts within each field will be influenced to some extent by the student's particular interests and approach, he or she will also be expected to demonstrate a general mastery of the field.
-
-Exams are given in November, February, and April each year.
-Field descriptions and reading lists are worked out by the student in consultation with his or her examining committee and must be approved by the examiners and by the Director of Graduate Programs well before the written examination is scheduled.
-The Director of Graduate Programs will provide a packet of materials detailing all exam-related procedures.
-
-Reading lists are due several months before the exam date, and field statements are due one month prior to the exam.
-Students cannot schedule their exam times until the field statements have been submitted.
-The written examination is followed by a two-hour oral examination that is based on, but not limited to, the written portion.
-Students who fail the exam may retake it once, within one year.
+For basic information about the Ph.D. qualifying examination, see the [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-phd/#curriculumtext), under "PhD Qualifying Examination."
+Full instructions are supplied in the [Appendix](#phd-exam-full-instructions).
 
 ### Research Tool
 
@@ -546,10 +515,18 @@ Last updated \today.
 
 \newpage
 
-# Appendix
+# Appendices
 
 ## Stanley Clayes Essay Competition Submission Guidelines
 
 ``` {.include}
 appendices/clayes-prize-submission-guidelines.md
+```
+
+\newpage
+
+## Instructions for the Ph.D. Qualifying Exam {#phd-exam-full-instructions}
+
+``` {.include}
+appendices/phd-qualifying-exam.md
 ```
