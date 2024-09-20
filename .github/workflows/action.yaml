@@ -41,7 +41,7 @@ jobs:
           --lua-filter=include-files.lua
           --metadata-file=./config/default.yaml
           --pdf-engine=xelatex
-          --toc --number-sections
+          --number-sections
           handbook.md -o graduate-handbook.pdf
 
       - name: Verify build
