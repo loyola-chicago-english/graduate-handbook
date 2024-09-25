@@ -6,4 +6,6 @@ linkcolor: blue
 secnumdepth: 3
 include-auto: True
 toc: True
+header-includes:
+  - \usepackage{appendix}
 ---

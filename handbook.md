@@ -515,8 +515,11 @@ Last updated \today.
 [View the file history on GitHub](https://github.com/loyola-chicago-english/graduate-handbook/commits/main/handbook.md).
 
 \newpage
-
-# Appendices
+\appendix
+\appendixpage
+\addappheadtotoc
+\renewcommand{\thesubsection}{\Alph{subsection}}
+\newpage
 
 ## Stanley Clayes Essay Competition Submission Guidelines
 
