@@ -16,6 +16,8 @@ author: Loyola University Chicago
 
 [Graduate School website]: https://www.luc.edu/gradschool/index.shtml
 
+[Financial Assistance and Funding]: https://www.luc.edu/gradschool/futurestudents/financialassistanceandfunding/
+
 \newpage
 
 # General Information
@@ -467,25 +469,23 @@ A student may request an extension of the time limit in [GSPS], as described in 
 The GPD reviews the request before it is sent on to the Graduate School.
 Extensions are not routine; students must demonstrate that they are making progress toward the degree.
 
-## Assistantship and Fellowship Support
+## Assistantships and Fellowship Support
 
 ### Graduate Assistantships
 
-Each year the Department of English offers a number of Graduate Assistantships for new and continuing students.
-Unlike many other universities, however, Loyola concentrates on developing assistants' skills before allowing them to assume sole responsibility for a composition course.
-Rather than being immediately assigned to teach a class during their first semester of graduate school, assistants first gain experience tutoring undergraduates in the Writing Center.
-In the first two semesters they usually tutor for two shifts.
+Ph.D. students are typically funded for five years by assistantships, the terms of which are set by the Graduate School: see the Graduate School webpage on [Financial Assistance and Funding], under "Assistantships."
 
-During their third semester, assistants work with a faculty member in a mentorship program that allows them to assume some grading and instructional duties within the mentor's composition class.
-In the fourth semester, assistants teach one composition course, receiving informal support and guidance from the mentor of the previous semester.
+In the English Department Ph.D. students on assistantships have a sequence of assignments, one per semester, designed to support their development as teachers and researchers:
 
-In the third, fourth and fifth years, assistants normally work as teaching assistants in a literature course, teach one literature course per term, or serve as research assistants for one semester.
-In addition, one student each year is assigned as the assistant director of the Writing Center, and fifth-year students may be asked to cover a shift in the Writing Center each term.
-Graduate instructors at Loyola never teach more than one class per term.
+- *First year, both semesters*: Assistants are usually assigned to the Writing Center, where they work two shifts per week, gaining experience tutoring undergraduates.
+- *Second year, fall semester*: Assistants work with a faculty member in a mentorship program that allows them to assume some grading and instructional duties within the mentor's composition class.
+- *Second year, spring semester*: Assistants teach one composition course, receiving support and guidance from the mentor of the previous semester.
+- *Third, fourth and fifth years*: Assistants normally serve as a teaching assistant in a literature course, primary instructor in a literature or composition course, or research assistant to a member of the graduate faculty.
+Students may serve instead as Assistant Director of the Writing Center.
+Fifth-year students may be assigned to cover a shift in the Writing Center each semester.
 
-Typically students are expected to work between 10 and 15 hours per week, but no more than 20, as stipulated by the Graduate School.
-
-The broad terms of the assistantships and their monetary value are determined by The Graduate School.
+The appendices to this handbook supply [Guidelines for Teaching Assistants](#guidelines-teaching-assistants)
+and [Guidelines for Research Assistants](#guidelines-for-research-assistants).
 
 ### Policy on Graduate Student Substitutes
 
@@ -541,4 +541,20 @@ appendices/ma-exam-instructions-for-students.md
 
 ``` {.include}
 appendices/phd-qualifying-exam.md
+```
+
+\newpage
+
+## Guidelines for Teaching Assistants in Literature Courses {#guidelines-teaching-assistants}
+
+``` {.include}
+appendices/teaching-assistant-guidelines.md
+```
+
+\newpage
+
+## Guidelines for Research Assistants
+
+``` {.include}
+appendices/research-assistant-guidelines.md
 ```
