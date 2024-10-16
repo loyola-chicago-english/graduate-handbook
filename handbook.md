@@ -381,6 +381,22 @@ For these reasons, as fulfilment of the discipline's research tool, Ph.D. studen
 Under special circumstances priority may be given to another research tool: for instance, a computer language, statistical analysis, or protocols for research with human subjects.
 Students are encouraged to discuss completion of this requirement with the Director of Graduate Programs soon after entering the program.
 
+The format and ground rules of language exams are set by examiners and should be communicated to students in advance.
+The Graduate Programs Committee has made the following general recommendations:
+exams are usually one hour in length, handwritten, with the aid of a bilingual dictionary.
+
+The skill tested is translation into English.
+Some exams consist of a single passage for translation, others of two passages, with or without choice.
+
+Grades are "Pass" and "Fail".
+The standard is usually comprehension, not an unerring performance in rendering of grammar and idiom.
+On account of variation in linguistic difficulty within and between languages, we make no recommendations regarding the number of errors allowed.
+The examiner's decision as final.
+
+Students who fail the exam may take another exam in the same language at a later date.
+In such cases, the GPD will usually transmit advice from the examiner to the student, regarding the kind of study recommended.
+
+
 ### Responsible Conduct in Research and Scholarship
 
 The Graduate School requires all Ph.D. students to attend one of its workshops on *Responsible Conduct in Research and Scholarship* (RCRS) prior to completing the dissertation or thesis.
