@@ -469,9 +469,9 @@ A student may request an extension of the time limit in [GSPS], as described in 
 The GPD reviews the request before it is sent on to the Graduate School.
 Extensions are not routine; students must demonstrate that they are making progress toward the degree.
 
-## Assistantships and Fellowship Support
+## Assistantships and Fellowships
 
-### Graduate Assistantships
+### Assistantships
 
 Ph.D. students are typically funded for five years by assistantships, the terms of which are set by the Graduate School: see the Graduate School webpage on [Financial Assistance and Funding], under "Assistantships."
 
@@ -487,7 +487,7 @@ Fifth-year students may be assigned to cover a shift in the Writing Center each 
 The appendices to this handbook supply [Guidelines for Teaching Assistants](#guidelines-teaching-assistants)
 and [Guidelines for Research Assistants](#guidelines-for-research-assistants).
 
-### Policy on Graduate Student Substitutes
+### Graduate Student Substitutes
 
 All third, fourth, and fifth-year graduate assistants who are not serving as instructors-of-record also take courses for faculty who must miss a class because of professional conferences, previously scheduled speaking engagements, or for other occasions as approved by the chair.
 Students serving as substitutes in a given semester cannot turn down a request to take a faculty member's class unless they are in class themselves or attending a professional conference.
@@ -498,7 +498,7 @@ Because the students are not necessarily trained in the content area of the facu
 Substitutes may show a film, conduct a writing workshop prepared by the faculty member, or proctor an exam.
 Substitutes must not be asked to prepare the course themselves.
 
-### Funding for Advanced Students
+### Fellowships
 
 Students who have completed course work, passed the Ph.D. exam, and received approval of their dissertation proposals are eligible to apply for one of three fellowships:
 
