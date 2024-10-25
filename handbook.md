@@ -378,6 +378,8 @@ Full instructions are supplied in the [Appendix](#phd-exam-full-instructions).
 Ph.D.-level research in literary studies presupposes skills (or 'research tools') not taught in ordinary graduate-level coursework in a Department of English.
 In view of the multilingual character of humanist study, scholars of literature must often read text in a language other than their principal one.
 For these reasons, as fulfilment of the discipline's research tool, Ph.D. students in the Department of English are required to demonstrate reading proficiency in a language other than English.
+This may be done by (a) passing a translation examination or (b) receiving a grade of B or higher in a graduate-level course in a language other than English.
+Exams and coursework at other institutions will usually be accepted, subject to review by the Director of Graduate Programs.
 Under special circumstances priority may be given to another research tool: for instance, a computer language, statistical analysis, or protocols for research with human subjects.
 Students are encouraged to discuss completion of this requirement with the Director of Graduate Programs soon after entering the program.
 
