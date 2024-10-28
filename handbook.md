@@ -534,15 +534,18 @@ Because the students are not necessarily trained in the content area of the facu
 Substitutes may show a film, conduct a writing workshop prepared by the faculty member, or proctor an exam.
 Substitutes must not be asked to prepare the course themselves.
 
-### Fellowships
+### Funding beyond the fifth year
 
-Students who have completed course work, passed the Ph.D. exam, and received approval of their dissertation proposals are eligible to apply for one of three fellowships:
+Students who have completed the term of their Assistantship and advanced to candidacy are eligible to apply for three fellowships:
 
-- Arthur J. Schmitt Dissertation Fellowship (university-wide competition; no teaching requirement)
-- Teaching Scholars Awards (university wide competition; service requirement includes the teaching of one course)
-- Crown Fellowship (competitive with the other humanities departments; no teaching requirement)
+- Arthur J. Schmitt Leadership Scholars Fellowship
+- Teaching Scholars Fellowship
+- Crown Fellowship
 
-For further information on these awards see the Graduate School's page on [Financial Assistance and Funding](http://www.luc.edu/gradschool/FundingGrad.Education.shtml), under "Fellowships & Scholarships."
+For details see the Graduate School's page on [Financial Assistance and Funding](http://www.luc.edu/gradschool/FundingGrad.Education.shtml), under "Fellowships & Scholarships."
+
+Another source of funding is the graduate assistantship with the Midwest Modern Language Association.
+A call for applications will be circulated by email when the position becomes available.
 
 # Version Information
 
