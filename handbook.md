@@ -375,6 +375,8 @@ Full instructions are supplied in the [Appendix](#phd-exam-full-instructions).
 
 ### Research Tool
 
+#### Introduction
+
 Ph.D.-level research in literary studies presupposes skills (or 'research tools') not taught in ordinary graduate-level coursework in a Department of English.
 In view of the multilingual character of humanist study, scholars of literature must often read text in a language other than their principal one.
 For these reasons, as fulfilment of the discipline's research tool, Ph.D. students in the Department of English are required to demonstrate reading proficiency in a language other than English.
@@ -382,6 +384,22 @@ This may be done by (a) passing a translation examination or (b) receiving a gra
 Exams and coursework at other institutions will usually be accepted, subject to review by the Director of Graduate Programs.
 Under special circumstances priority may be given to another research tool: for instance, a computer language, statistical analysis, or protocols for research with human subjects.
 Students are encouraged to discuss completion of this requirement with the Director of Graduate Programs soon after entering the program.
+
+#### Summer Language Courses
+
+Courses in French, German, Latin, and Spanish for reading are offered by Marquette University and St. Louis University in on-line modality during summer sessions.
+
+At Marquette University the relevant course numbers are FREN 6204, GRMN 6204, and LATN 6204.
+At St. Louis Univeristy the relevant course numbers are SPAN 5010 and FREN 5010.
+All these courses are specially designed for graduate students in humanities disciplines.
+The teaching objective is literacy for research purposes.
+
+To enroll in a course run by Marquette University, complete the [Midwest Catholic Schools Consortium Application for Admission](https://www.marquette.edu/grad/documents/midwest-catholic-schools-cons.pdf) and send the completed form to the Assistant Dean for Student Academic Services at the LUC Graduate School.
+
+Ph.D. students in the Medieval and Renaissance Studies track should watch for announcements from the Newberry Library's [Center for Renaissance Studies](https://www.newberry.org/research/research-centers/renaissance-studies) (CRS), which runs courses and workshops on research tools needed by specialists in these fields.
+For funding queries, contact Loyola's [Faculty Representative](https://www.newberry.org/research/research-centers/renaissance-studies/consortium) to the CRS Consortium.
+
+#### Guidelines for Exams
 
 The format and ground rules of language exams are set by examiners and should be communicated to students in advance.
 The Graduate Programs Committee has made the following general recommendations:
