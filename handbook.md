@@ -394,7 +394,7 @@ At St. Louis Univeristy the relevant course numbers are SPAN 5010 and FREN 5010.
 All these courses are specially designed for graduate students in humanities disciplines.
 The teaching objective is literacy for research purposes.
 
-To enroll in a course run by Marquette University, complete the [Midwest Catholic Schools Consortium Application for Admission](https://www.marquette.edu/grad/documents/midwest-catholic-schools-cons.pdf) and send the completed form to the Assistant Dean for Student Academic Services at the LUC Graduate School.
+To enroll in a course run by Marquette University, complete Marquette's [Exchange Application](https://graduate.admissions.marquette.edu/register/mu-exchange).
 
 Ph.D. students in the Medieval and Renaissance Studies track should watch for announcements from the Newberry Library's [Center for Renaissance Studies](https://www.newberry.org/research/research-centers/renaissance-studies) (CRS), which runs courses and workshops on research tools needed by specialists in these fields.
 For funding queries, contact Loyola's [Faculty Representative](https://www.newberry.org/research/research-centers/renaissance-studies/consortium) to the CRS Consortium.
