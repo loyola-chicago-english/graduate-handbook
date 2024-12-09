@@ -485,6 +485,17 @@ Students do not need to register for 600 or 610 during the summer months.
 However, those on government loans who must show they are registered for classes over the summer can register for a "dummy" course, either GSSM S61 (if they are in 610) or S60 (for 600).
 Students must register for these courses themselves and will pay a nominal fee.
 
+## Concentrations and Specializations
+
+Ph.D. students may obtain a "concentration" in Women's Studies and Gender Studies (WSGS) or a "specialization" in Digital Humanities (DH).
+Both credentials are obtained through coursework.
+
+For details on the concentration in WSGS, see the page [Concentration in WSGS for PhD Students](https://www.luc.edu/wsgs/academics/concentrationinwsgsforphdstudents/).
+
+To obtain a specialization in DH, students take one of three foundational courses offered by the Digital Humanities MA program, followed by two electives that carry a DIGH designation.
+The electives may be courses offered by the English department.
+For additional details contact the GPDs of English and Digital Humanities.
+
 ## Other Policies Governing Progress to Degree
 
 ### Portfolio Review
