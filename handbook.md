@@ -523,17 +523,6 @@ Fifth-year students may be assigned to cover a shift in the Writing Center each 
 The appendices to this handbook supply [Guidelines for Teaching Assistants](#guidelines-teaching-assistants)
 and [Guidelines for Research Assistants](#guidelines-for-research-assistants).
 
-### Graduate Student Substitutes
-
-All third, fourth, and fifth-year graduate assistants who are not serving as instructors-of-record also take courses for faculty who must miss a class because of professional conferences, previously scheduled speaking engagements, or for other occasions as approved by the chair.
-Students serving as substitutes in a given semester cannot turn down a request to take a faculty member's class unless they are in class themselves or attending a professional conference.
-In turn, the department makes every effort to distribute the workload equitably among the students serving in this capacity.
-Students should be called upon to cover a class no more than 5 times in the course of a semester.
-
-Because the students are not necessarily trained in the content area of the faculty member's course, faculty members must devise assignments with this in mind.
-Substitutes may show a film, conduct a writing workshop prepared by the faculty member, or proctor an exam.
-Substitutes must not be asked to prepare the course themselves.
-
 ### Funding beyond the fifth year
 
 Students who have completed the term of their Assistantship and advanced to candidacy are eligible to apply for three fellowships:
