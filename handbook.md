@@ -482,15 +482,17 @@ To obtain a specialization in DH, students take one of three foundational course
 The electives may be courses offered by the English department.
 For additional details contact the GPDs of English and Digital Humanities.
 
-## Other Policies Governing Progress to Degree
+## Other Policies
 
-### Portfolio Review
+### Minimum GPA
 
-Because first-year Ph.D. students must register for fall classes before taking the M.A. exam, the department has instituted a portfolio review for all first-year Ph.D. students whose GPA for the fall and spring semesters is below 3.5.
-Those students must submit a portfolio of three essays (totaling at least 30 pages) to the Director of Graduate Programs the week after spring semester final exams.
+Students who fall below a grade-point average of 3.00 are placed on academic probation.
+See [Graduate School Academic Policies], under "Probation and Dismissal".
+
+The Department of English has a more stringent policy for first-year Ph.D. students, as follows.
+First-year Ph.D. students whose GPA for the fall and spring semesters is below 3.50 must submit a portfolio of three essays (totaling at least 30 pages) to the Director of Graduate Programs the week after spring semester final exams.
 The portfolio must contain a letter to the GPD explaining the challenges the student faced the first year and how the student has responded to those challenges.
-Members of the Graduate Programs Committee will review the portfolio and make a recommendation to the GPD.
-Even if the student is advised not to continue for the Ph.D., he or she will take the M.A. exam in August to complete the M.A. degree.
+Members of the Graduate Programs Committee review the portfolio and make a recommendation to the GPD, regarding the student's continuation in the Ph.D. program.
 
 ### Time Limits
 
