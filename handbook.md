@@ -30,7 +30,7 @@ author: Loyola University Chicago
 - Assistant Chair: Dr. Jeffrey Glover
 - Office Coordinator: Ms. Brenda Jervier
 - Director of Graduate Programs: Dr. Ian Cornelius
-- Graduate Program Assistant: TBD
+- Graduate Program Assistant: Ms. Melissa Spor
 - Director of the Writing Center: Dr. Brandiann Molby
 - Director of Writing Programs: Dr. Melissa Bradshaw
 - Director of Undergraduate Programs: Dr. Jack Cragwall
