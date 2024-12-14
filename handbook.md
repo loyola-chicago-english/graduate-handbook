@@ -226,7 +226,7 @@ In cases of conflict between this Handbook and a policy of the Graduate School, 
 
 The Director of Graduate Programs (abbreviated GPD) serves as faculty advisor for all M.A. students and for Ph.D. students prior to [Advancement to Candidacy].
 Students meet individually with the GPD prior to [Registration] each semester.
-Students are encouraged to confer with the GPD at other times and must do so when contemplating [Withdrawal] from a course or another significant change in their studies.
+Students are encouraged to confer with the GPD at other times and must do so when contemplating [Withdrawal](#withdrawal-from-courses) from a course or another significant change in their studies.
 See also the [Graduate School Academic Policies], under "Academic Advising."
 
 Ph.D. students applying for faculty jobs are advised by the [Placement Officer].
@@ -412,7 +412,7 @@ Details are posted on the [RCRS webpage](https://www.luc.edu/ors/RCRHome.shtml).
 
 ### Advancement to Candidacy
 
-You become a Ph.D. candidate when you complete all course requirements (including [English 502]), fulfill the research tool requirement, pass the Ph.D. Examination, establish a dissertation committee, and have your dissertation proposal approved (ideally within 6 months of completing the comprehensive exams).
+You become a Ph.D. candidate when you complete all course requirements (including [ENGL 502]), fulfill the research tool requirement, pass the Ph.D. Examination, establish a dissertation committee, and have your dissertation proposal approved (ideally within 6 months of completing the comprehensive exams).
 
 The selection of dissertation topic, director, and committee (two additional faculty "readers") is made in consultation with the Graduate Program Director.
 Once these decisions have been made, you must obtain a copy of the Graduate School's forms regarding the dissertation (available on line), and then prepare a proposal for the approval of your committee.
@@ -420,7 +420,7 @@ After your proposal and committee are approved, you are considered ABD.
 Your progress now will be monitored by your dissertation director, who will report on your work to the GPD.
 (Note: You do *not* need to have the proposal approved by the entire committee to complete 502.)
 
-### Dissertation
+### Dissertation Defense
 
 When your dissertation is completed, you will give a "Final Public Presentation and Defense" of your project, followed by a question-and-answer session led by your dissertation committee.
 Reader's copies are due to the committee one month prior to the defense, with a reader's ballot for each member (see [Department Links and Forms]).
@@ -435,32 +435,32 @@ Additional information:
 - [ETD/Proquest link for electronic submission](http://www.etdadmin.com/luc)
 - [Dissertation/Thesis Formatting](https://www.luc.edu/gradschool/academics/dissertationandthesis/)  
 
-## Policies on Special Courses
+## 500- and 600-level Courses
 
-### English 501
+### ENGL 501
 
-English 501 ("Directed Readings") is an elective "independent study" course which may be taken at most twice in the Ph.D. program.
+ENGL 501 ("Directed Readings") is an elective "independent study" course which may be taken at most twice in the Ph.D. program.
 If you are interested in this option, you must first find a faculty member willing to direct it.
 You must then fill out a departmental form (see [Department Links and Forms]) and submit the form to the Director of Graduate Programs for approval in the semester prior to the course.
 
 Proposals for 501 courses will not be approved if the material to be covered is regularly offered in existing graduate seminars.
 501 requires a minimum of 12 contact hours between faculty and student (approximately 1 hour every week) and a minimum of 25 pages of writing.
 
-### English 502
+### ENGL 502
 
-In English 502 ("Independent Study for Doctoral Qualification") students prepare for the [Ph.D. Qualifying Examination] and write a draft their dissertation proposals, or at least a literature review, under the supervision of their eventual dissertation directors.
+In ENGL 502 ("Independent Study for Doctoral Qualification") students prepare for the [Ph.D. Qualifying Examination] and write a draft their dissertation proposals, or at least a literature review, under the supervision of their eventual dissertation directors.
 Graduate School and English Department forms must be approved by the Director of Graduate Programs in the semester prior to the course.
 
-English 502 explicitly couples the drafting of a dissertation proposal---and thus the earliest stages of dissertation research, the formation of a core bibliography, and the definition of the project itself---with the student's preparation for the Ph.D. Exam.
+ENGL 502 explicitly couples the drafting of a dissertation proposal---and thus the earliest stages of dissertation research, the formation of a core bibliography, and the definition of the project itself---with the student's preparation for the Ph.D. Exam.
 The Department believes that these tasks are closely related, that they can and should be accomplished together, and that neither should supercede or delay the other.
 502 requires a minimum of 7 contact hours between faculty and student (approximately 1 hour every two weeks) and the submission of a draft of the proposal or substantial progress toward that proposal, such as a literature review.
 
 The draft proposal is usually completed after taking the exams, which often means that it is necessary to take a temporary *I* grade for the course.
-If a student takes an Incomplete in English 502, the course must be completed the next semester after the semester of registration.
+If a student takes an Incomplete in ENGL 502, the course must be completed the next semester after the semester of registration.
 (See [Incompletes], above.)
-A student who does not complete English 502 within the specified time will have to retake the course at his or her own expense.
+A student who does not complete ENGL 502 within the specified time will have to retake the course at his or her own expense.
 
-### Registration for Advanced Students
+### ENGL 610 and 600
 
 Students who have completed their course work should register for ENGL 610.
 After two semesters in ENGL 610, or once you have gained ABD status (see [Advancement to Candidacy]), you should register for ENGL 600.
