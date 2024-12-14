@@ -35,6 +35,12 @@ jobs:
           xetex --version
           ls include-files.lua
 
+      - name: Convert CSV to Markdown table
+        run: |
+          pushd appendices/
+          sed 's/,/|/g ; 2i----|----------|--------' phd-timeline-table.csv > table.md
+          popd
+
       - name: Build
         run: >-
           pandoc

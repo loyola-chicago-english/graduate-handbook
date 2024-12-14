@@ -336,7 +336,7 @@ Students in the M.A. program complete course requirements and a qualifying exam.
 The authoritative statement of program requirements is the university's [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-ma/#curriculumtext)
 Full instructions on the M.A. Exam are supplied in the [Appendix](#ma-exam-full-instructions).
 
-## Time Limits
+## Time Limits {#time-limit-ma}
 
 The M.A. is designed so that a full-time student can complete requirements in a year and a half of study --- Fall, Spring, one summer course, and the following Fall with a degree conferral in December.
 
@@ -349,6 +349,7 @@ See the [Graduate School Academic Policies], under "Time Limit for Completion of
 ## Program Requirements
 
 Ph.D. students complete general course requirements and course requirements of their specialization, pass a Ph.D. qualifying exam, and meet other program requirements, as detailed in the following sections and in the university's [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-phd/#curriculumtext).
+See also the [Ph.D. Milestones and Normative Timeline].
 
 ### Course Requirements
 
@@ -511,11 +512,12 @@ First-year Ph.D. students whose GPA for the fall and spring semesters is below 3
 The portfolio must contain a letter to the GPD explaining the challenges the student faced the first year and how the student has responded to those challenges.
 Members of the Graduate Programs Committee review the portfolio and make a recommendation to the GPD, regarding the student's continuation in the Ph.D. program.
 
-### Time Limits
+### Time Limits {#time-limit-phd}
 
 The Ph.D. must be completed eight years from the time a student begins course work applicable to the degree.
 Ph.D. students who entered with an M.A. have six years from the time of beginning course work for the Ph.D.
 See the [Graduate School Academic Policies], under "Time Limit for Completion of Degree Requirements."
+See also the [Ph.D. Milestones and Normative Timeline].
 
 A student may request an extension of the time limit in [GSPS], as described in the Graduate School Academic Policies.
 The GPD reviews the request before it is sent on to the Graduate School.
@@ -598,6 +600,14 @@ appendices/ma-exam-instructions-for-students.md
 
 ``` {.include}
 appendices/phd-qualifying-exam.md
+```
+
+\newpage
+
+## Ph.D. Milestones and Normative Timeline
+
+``` {.include}
+appendices/phd-timeline.md
 ```
 
 \newpage
