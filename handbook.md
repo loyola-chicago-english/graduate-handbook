@@ -462,14 +462,31 @@ A student who does not complete ENGL 502 within the specified time will have to 
 
 ### ENGL 610 and 600
 
-Students who have completed their course work should register for ENGL 610.
-After two semesters in ENGL 610, or once you have gained ABD status (see [Advancement to Candidacy]), you should register for ENGL 600.
-Students must maintain continuous registration in English 600 until they complete their degree.
-Both courses require a minimum of one contact hour monthly with the dissertation director and substantial writing (preferably a chapter draft) every 3 months.
+After ENGL 502 students proceed to ENGL 610 ("Doctoral Study").
+After two semesters in ENGL 610, students are registered in ENGL 600 ("Dissertation Supervision").
+Students must maintain continuous registration in ENGL 600 until they complete their degree.
+Both 610 and 600 require a minimum of one contact hour monthly with the dissertation director.
 
-Students do not need to register for 600 or 610 during the summer months.
-However, those on government loans who must show they are registered for classes over the summer can register for a "dummy" course, either GSSM S61 (if they are in 610) or S60 (for 600).
-Students must register for these courses themselves and will pay a nominal fee.
+The Graduate Programs Committee has established the following expectations for progress in ENGL 610 and 600:
+
+- ENGL 610, first semester: pass the PhD qualifying exam
+- ENGL 610, second semester: file an approved dissertation prospectus
+- ENGL 600, first semester: complete one chapter; or conduct preparatory reading and research
+- ENGL 600, subsequent semesters: complete one chapter per semester
+
+Dissertation directors submit grades (P/NP) for their advisees at the end of each semester of ENGL 610 and 600.
+A single missed target is often excusable by extenuating circumstances.
+A second consecutive semester of missed targets may be grounds for an "NP" grade.
+A grade of "NP" places a student on academic probation, a status that is lifted when the student completes expected work.
+See [Graduate School Academic Policies], under "Probation and Dismissal".
+
+Students with registered disability accommodations are exempt from this policy.
+For such students, appropriate progress is determined on a case by case basis.
+
+### GSSM S61 and S60
+
+Students with government loans that mandate year-round registration may register for GSSM S61 (if they are in 610) or S60 (for 600) over the summer.
+Students register themselves for these courses and pay a nominal fee.
 
 ## Concentrations and Specializations
 
