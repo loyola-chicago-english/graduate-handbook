@@ -125,21 +125,7 @@ If your home address, email address, or phone number change, inform the Administ
 The bulletin board outside the GPD office (Crown 423) features information regarding the graduate programs---e.g., calls for papers, job offerings, fellowship opportunities.
 The board in the English main office has departmental notices.
 
-## Teaching and Service
-
-### Teaching Opportunities
-
-In addition to teaching assignments for Graduate Assistants in the Ph.D. program (see [Graduate Assistantships]), a number of teaching opportunities are available to experienced graduate students.
-The University requires that instructors of undergraduate courses have the M.A. degree; the Department requires that you have taken English 402 or its equivalent.
-All Ph.D. students who do not already have teaching experience are strongly encouraged to take English 402 and teach at least one writing course at Loyola.
-
-The Department Chair, in consultation with the Director of Graduate Programs, assigns all classes.
-Funded students will be assigned classes routinely; unfunded students should apply directly to the department chair.
-The chairperson will invite applications for a limited number of summer teaching opportunities.
-The criteria used to assign summer classes to graduate students include: experience and proven success in the classroom; good progress toward the degree; preparedness to teach the courses available; and previous summer teaching (in an effort to distribute summer courses fairly).
-Contact the Department Chair or Ms. Jervier for further information.
-
-### Service Opportunities
+## Service Opportunities
 
 Students should take advantage of departmental and University service opportunities to build their resumes/curricula vitae and to gain experience in the day-to-day operations of an academic institution.
 Opportunities available include but are not limited to the following: EGSA representative, Writing Programs committee, Graduate Programs committee, Undergraduate Program committee, department meeting representative, GSAC representative, Literacy Center tutor or staff person.
@@ -531,6 +517,7 @@ In the English Department Ph.D. students on assistantships have a sequence of as
 Students may serve instead as Assistant Director of the Writing Center.
 Fifth-year students may be assigned to cover a shift in the Writing Center each semester.
 
+The Department Chair makes all assignments in consultation with the Director of Graduate Programs.
 The appendices to this handbook supply [Guidelines for Teaching Assistants](#guidelines-teaching-assistants)
 and [Guidelines for Research Assistants](#guidelines-for-research-assistants).
 
@@ -546,6 +533,18 @@ For details see the Graduate School's page on [Financial Assistance and Funding]
 
 Another source of funding is the graduate assistantship with the Midwest Modern Language Association.
 A call for applications will be circulated by email when the position becomes available.
+
+## Additional Teaching Opportunities
+
+The Department Chair will invite applications for a limited number of summer classes.
+Criteria used to assign summer classes to graduate students include:
+experience and proven success in the classroom;
+good progress toward the degree;
+preparedness to teach the courses available;
+and previous summer teaching (in an effort to distribute summer courses fairly).
+
+Summer or academic-term teaching may also be available to Ph.D. students unfunded by Assistantships or Fellowships.
+Contact the Department Chair or Office Coordinator for further information.
 
 # Version Information
 
