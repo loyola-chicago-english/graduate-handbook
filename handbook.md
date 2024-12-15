@@ -254,12 +254,14 @@ Students must maintain continual registration throughout their years in the prog
 
 For letter grades and their associated grade-point values, see the [Graduate School Academic Policies], under "Grades."
 
-Graduate students in the English Department are expected to maintain an average of not less than *B* (3.0).
-Those who fail to meet this requirement may be dismissed.
-No more than two grades below *B* and no grades of *D* or *F* may be counted as fulfilling degree requirements.
+Graduate students must maintain a grade average of not less than *B* (3.00).
+Students whose grade-point average falls below 3.00 are placed on academic probation.
+See [Graduate School Academic Policies], under "Probation and Dismissal."
+
+No more than two courses for which a student receives a final grade of *C+* or *C*, and no course for which a student receives a final grade of less than a *C*, may be applied toward the fulfillment of degree requirements.
 See the [Graduate School Academic Policies], under "Computation of Academic Grade Point Averages."
 
-Ph.D. students who find themselves receiving primarily *B*'s (or below) should consider whether pursuing a doctorate in English remains the most gainful use of their time.
+Ph.D. students should also see the section [Minimum GPA for Ph.D. Students](#minimum-gpa).
 
 ## Withdrawal from Courses
 
@@ -512,6 +514,7 @@ The Department of English has a more stringent policy for first-year Ph.D. stude
 First-year Ph.D. students whose GPA for the fall and spring semesters is below 3.50 must submit a portfolio of three essays (totaling at least 30 pages) to the Director of Graduate Programs the week after spring semester final exams.
 The portfolio must contain a letter to the GPD explaining the challenges the student faced the first year and how the student has responded to those challenges.
 Members of the Graduate Programs Committee review the portfolio and make a recommendation to the GPD, regarding the student's continuation in the Ph.D. program.
+
 
 ### Time Limits {#time-limit-phd}
 
