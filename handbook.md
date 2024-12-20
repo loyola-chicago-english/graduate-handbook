@@ -533,14 +533,15 @@ Extensions are not routine; students must demonstrate that they are making progr
 
 Ph.D. students are typically funded for five years by assistantships, the terms of which are set by the Graduate School: see the Graduate School webpage on [Financial Assistance and Funding], under "Assistantships."
 
-In the English Department Ph.D. students on assistantships have a sequence of assignments, one per semester, designed to support their development as teachers and researchers:
+Ph.D. students on assistantships have a sequence of assignments, one per semester, designed to support their development as teachers and researchers.
+The following is the normal sequence:
 
-- *First year, both semesters*: Assistants are usually assigned to the Writing Center, where they work two shifts per week, gaining experience tutoring undergraduates.
-- *Second year, fall semester*: Assistants work with a faculty member in a mentorship program that allows them to assume some grading and instructional duties within the mentor's composition class.
-- *Second year, spring semester*: Assistants teach one composition course, receiving support and guidance from the mentor of the previous semester.
-- *Third year, fall semester*: Assistants teach one composition course.
-- *Third year, spring semester*: Assistants normally serve as a teaching assistant in a literature course.
-- *Fourth and fifth years*: Assistants normally serve as a primary instructor in a literature or composition course, or research assistant to a member of the graduate faculty.
+- *First year, both semesters*: Writing coach in the Writing Center (two shifts per week)
+- *Second year, fall semester*: Teaching assistant in a composition course
+- *Second year, spring semester*: Primary instructor in a composition course, receiving support and guidance from the mentor of the previous semester.
+- *Third year, fall semester*: Primary instructor in a composition course.
+- *Third year, spring semester*: Teaching assistant in a literature course.
+- *Fourth and fifth years*: Primary instructor in a literature or composition course, or research assistant to a member of the graduate faculty.
 
 In the third, fourth, or fifth year, students may serve instead as Associate Director of the Writing Center.
 Fifth-year students may be assigned to cover a shift in the Writing Center each semester.
