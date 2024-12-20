@@ -538,8 +538,11 @@ In the English Department Ph.D. students on assistantships have a sequence of as
 - *First year, both semesters*: Assistants are usually assigned to the Writing Center, where they work two shifts per week, gaining experience tutoring undergraduates.
 - *Second year, fall semester*: Assistants work with a faculty member in a mentorship program that allows them to assume some grading and instructional duties within the mentor's composition class.
 - *Second year, spring semester*: Assistants teach one composition course, receiving support and guidance from the mentor of the previous semester.
-- *Third, fourth and fifth years*: Assistants normally serve as a teaching assistant in a literature course, primary instructor in a literature or composition course, or research assistant to a member of the graduate faculty.
-Students may serve instead as Assistant Director of the Writing Center.
+- *Third year, fall semester*: Assistants teach one composition course.
+- *Third year, spring semester*: Assistants normally serve as a teaching assistant in a literature course.
+- *Fourth and fifth years*: Assistants normally serve as a primary instructor in a literature or composition course, or research assistant to a member of the graduate faculty.
+
+In the third, fourth, or fifth year, students may serve instead as Associate Director of the Writing Center.
 Fifth-year students may be assigned to cover a shift in the Writing Center each semester.
 
 The Department Chair makes all assignments in consultation with the Director of Graduate Programs.

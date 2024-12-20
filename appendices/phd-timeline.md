@@ -11,15 +11,19 @@ Students with some prior graduate coursework, but fewer than 30 hours, will foll
 The timeline runs to six years because Loyola-sourced funding is usually not available beyond the sixth year.
 The statutory time limit for completion of the Ph.D. is longer: see [Time Limits](#time-limit-phd).
 
+\small
+
 ``` {.include}
 table.md
 ```
+
+\normalsize
 
 Notes:
 
 1. Students admitted without an M.A. take the M.A. exam after completing ten 400-level courses
 1. Students enroll in three 400-level courses per semester unless teaching their own course, in which case they enroll in two
-1. All students teach UCWR 110 in the spring of their second year
+1. All students teach UCWR 110 in the spring of their second year and fall of their third year
 1. Students may enroll in up to two courses each summer; summers may also be used to meet the [Research Tool Requirement](#research-tool), work ahead, or prepare conference presentations or publications
 1. Students should enroll in ENGL 502 as their sole course in the semester after finishing all 400-level course requirements; it is usually not advisable to enroll in 502 during the summer, due to reduced faculty availability
 1. The Ph.D. qualifying exam is usually taken in the semester after 502; the dissertation proposal follows that. See [ENGL 610 and 600](#engl-610-and-600).
