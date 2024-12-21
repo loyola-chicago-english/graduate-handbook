@@ -279,6 +279,16 @@ The Department of English has two additional policies:
   Students who seek an incomplete must download and fill the relevant form (see [Department Links and Forms]) and have it signed by the GPD.
 - No more than one incomplete can be requested per semester, unless there are extenuating circumstances (e.g., a serious illness).
 
+Ordinarily an incomplete is granted to accommodate illness or other misfortune suffered by a student at the end of a semester.
+Students who request an incomplete should provide their instructor with a plan that specifies the work to be completed and a timeline for completion of it.
+An instructor who approves a requested incomplete may, at the time of approval, amend the student's proposed plan.
+Any plan *should* include work missed due to an unexpected adverse life event at the end of the semester; a plan *may* include earlier work, but there is no expectation that *all* missing work be submittable under the terms of an incomplete.
+The expectation is only that the submittable work, if successfully completed, be sufficient to provide the student a passing grade overall.
+The work-plan agreed by the instructor should be communicated to the GPD.
+
+M.A. students who take two or more incompletes in any given semester should consider applying for a [leave of absence](#leaves-of-absence).
+In such cases, a leave of absence allows a student to complete unfinished work and rest adequately before taking on additional academic obligations.
+
 ## Leaves of Absence
 
 Official leaves of absence are intended for students who wish to discontinue temporarily their graduate studies due to special circumstances (e.g., medical, personal, or professional reasons).
