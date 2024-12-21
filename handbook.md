@@ -57,7 +57,7 @@ Primary personnel are:
 
 - Dr. Emily Barman, Dean
 - Dr. Kate Phillippo, Associate Dean for Academics
-- Heather Sevener, Assistant Dean for Student Academic Services
+- Heather Sevener, Associate Dean for Student Academic Services
 - Tamika Toler, Awards & Budget Manager
 - Emily Forestieri, Communications & Records Coordinator
 
