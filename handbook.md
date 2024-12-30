@@ -328,6 +328,20 @@ The decision of that committee can be appealed to the Graduate School.
 Students wishing to initiate a grievance must do so in writing to the Dean.
 See the [Graduate School Academic Policies], under "Academic Grievance."
 
+## Time Limits for Completion of Degree Requirements {#time-limits}
+
+The Graduate School maintains time limits for completion of M.A. and Ph.D. degrees, as follows:
+
+- M.A. students must complete all degree requirements within **five years** of beginning the first course at Loyola University Chicago taken as a degree-seeking M.A. student.
+- Ph.D. students who completed a relevant M.A. degree (or a significant amount of relevant graduate coursework) at another institution prior to entering the doctoral program must complete all Ph.D. requirements, including the dissertation, within **six years** of beginning the first course at Loyola University Chicago applicable toward the doctoral degree.
+- Other Ph.D. students must complete all degree requirements, including the dissertation, within **eight years** of beginning the first course at Loyola University Chicago applicable toward the doctoral degree.
+
+Time limits may be extended only with the permission of the Graduate School.
+Extensions are not routine; students must demonstrate progress toward the degree.
+See the [Graduate School Academic Policies], under "Time Limit for Completion of Degree Requirements" and the subsection "Extension of Time Limits."
+
+Ph.D. students should see the [Ph.D. Milestones and Normative Timeline].
+
 ## Graduation and Application for Degree
 
 Loyola confers degrees three times each year: May, August, and December.
@@ -342,19 +356,11 @@ As students "walk" only at the May graduation, August and December degree studen
 
 # The Master of Arts Program
 
-## Program Requirements
-
 Students in the M.A. program complete course requirements and a qualifying exam.
-The authoritative statement of program requirements is the university's [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-ma/#curriculumtext)
-Full instructions on the M.A. Exam are supplied in the [Appendix](#ma-exam-full-instructions).
+A full-time student can complete these requirements in a year and a half of study --- Fall, Spring, one summer course, and the following Fall with a degree conferral in December.
+The authoritative statement of program requirements is the university's [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-ma/#curriculumtext).
 
-## Time Limits {#time-limit-ma}
-
-The M.A. is designed so that a full-time student can complete requirements in a year and a half of study --- Fall, Spring, one summer course, and the following Fall with a degree conferral in December.
-
-Part-time students must complete all requirements for the degree within four years.
-After five years, the student may continue only by special action of the Dean of the Graduate School.
-See the [Graduate School Academic Policies], under "Time Limit for Completion of Degree Requirements."
+For policies and instructions on the M.A. Exam, see the Academic Catalogue and [Instructions for the M.A. Exam](#ma-exam-full-instructions), below.
 
 # The Doctor of Philosophy Program
 
@@ -524,18 +530,6 @@ The Department of English has a more stringent policy for first-year Ph.D. stude
 First-year Ph.D. students whose GPA for the fall and spring semesters is below 3.50 must submit a portfolio of three essays (totaling at least 30 pages) to the Director of Graduate Programs the week after spring semester final exams.
 The portfolio must contain a letter to the GPD explaining the challenges the student faced the first year and how the student has responded to those challenges.
 Members of the Graduate Programs Committee review the portfolio and make a recommendation to the GPD, regarding the student's continuation in the Ph.D. program.
-
-
-### Time Limits {#time-limit-phd}
-
-The Ph.D. must be completed eight years from the time a student begins course work applicable to the degree.
-Ph.D. students who entered with an M.A. have six years from the time of beginning course work for the Ph.D.
-See the [Graduate School Academic Policies], under "Time Limit for Completion of Degree Requirements."
-See also the [Ph.D. Milestones and Normative Timeline].
-
-A student may request an extension of the time limit in [GSPS], as described in the Graduate School Academic Policies.
-The GPD reviews the request before it is sent on to the Graduate School.
-Extensions are not routine; students must demonstrate that they are making progress toward the degree.
 
 ## Assistantships and Fellowships
 

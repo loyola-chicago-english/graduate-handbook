@@ -9,7 +9,7 @@ See [Advanced Standing](#transfer-credit-and-advanced-standing).
 Students with some prior graduate coursework, but fewer than 30 hours, will follow a path intermediate between the two shown here.
 
 The timeline runs to six years because Loyola-sourced funding is usually not available beyond the sixth year.
-The statutory time limit for completion of the Ph.D. is longer: see [Time Limits](#time-limit-phd).
+The statutory time limit for completion of the Ph.D. is longer: see [Time Limits](#time-limits).
 
 \small
 
