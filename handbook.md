@@ -486,6 +486,7 @@ After ENGL 502 students proceed to ENGL 610 ("Doctoral Study").
 After two semesters in ENGL 610, students are registered in ENGL 600 ("Dissertation Supervision").
 Students must maintain continuous registration in ENGL 600 until they complete their degree.
 Both 610 and 600 require a minimum of one contact hour monthly with the dissertation director.
+A student who successfully defends their dissertation before the end of the second week of the fall or spring semester is not required to register for ENGL 600 in that final semester.
 
 The Graduate Programs Committee has established the following expectations for progress in ENGL 610 and 600:
 
