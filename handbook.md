@@ -374,7 +374,7 @@ See also the [Ph.D. Milestones and Normative Timeline].
 
 For course requirements, including field-specific requirements, see the [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-phd/#curriculumtext).
 
-### Ph.D. Qualifying Examination
+### Ph.D. Qualifying Examination {#phd-exam}
 
 For basic information about the Ph.D. qualifying examination, see the [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-phd/#curriculumtext), under "PhD Qualifying Examination."
 Full instructions are supplied in the [Appendix](#phd-exam-full-instructions).
@@ -432,28 +432,43 @@ Details are posted on the [RCRS webpage](https://www.luc.edu/ors/RCRHome.shtml).
 
 ### Advancement to Candidacy
 
-You become a Ph.D. candidate when you complete all course requirements (including [ENGL 502]), fulfill the research tool requirement, pass the Ph.D. Examination, establish a dissertation committee, and have your dissertation proposal approved (ideally within 6 months of completing the comprehensive exams).
+Students advance to doctoral candidacy when they fulfill all course requirements and the [Research Tool Requirement](#research-tool), pass the [Ph.D. Qualifying Examination](#phd-exam), identify a dissertation director, establish a dissertation committee, and produce an approved dissertation proposal.
+See the [Graduate School Academic Policies], under "Doctoral Candidacy".
+Dissertation committees comprise a director and two or three faculty readers.
+See the [Graduate School Academic Policies], under "Committees".
 
-The selection of dissertation topic, director, and committee (two additional faculty "readers") is made in consultation with the Graduate Program Director.
-Once these decisions have been made, you must obtain a copy of the Graduate School's forms regarding the dissertation (available on line), and then prepare a proposal for the approval of your committee.
-After your proposal and committee are approved, you are considered ABD.
-Your progress now will be monitored by your dissertation director, who will report on your work to the GPD.
-(Note: You do *not* need to have the proposal approved by the entire committee to complete 502.)
+The Graduate Program Director advises in the selection of a dissertation committee.
+Approval of the dissertation committee and dissertation proposal is done in [GSPS].
+Timelines for this process are provided below in the section [Ph.D. Milestones and Normative Timeline].
 
-### Dissertation Defense
+### Dissertation Defense and Submission
 
-When your dissertation is completed, you will give a "Final Public Presentation and Defense" of your project, followed by a question-and-answer session led by your dissertation committee.
-Reader's copies are due to the committee one month prior to the defense, with a reader's ballot for each member (see [Department Links and Forms]).
-Once these ballots are submitted, the Graduate Programs secretary will announce the defense publicly.
-At the defense, students present the chair of the committee with the Graduate School ballot for approval of the dissertation.
+A public oral defense is required of all dissertations.
+See the [Graduate School Academic Policies], under "Text and Oral Defense".
+Preparations for the defense begin when members of the committee have approved all chapters.
+The process is then as follows:
+
+1. The candidate makes a "Format Check Submission": see [Dissertation/Thesis Formatting](https://www.luc.edu/gradschool/academics/dissertationandthesis/).
+1. The candidate supplies members of the dissertation committee with format-checked reader's copies of the dissertation.
+Reader's copies must be provided to the committee not less than one month prior to the defense.
+Each reader also receives a ballot at this time: see [Department Links and Forms].
+1. Committee members return their voted ballots to the GPD.
+Ballots must be received at least one week prior to the defense date.
+1. If the ballots are in favor of proceeding to defense, the defense date is confirmed and a public announcement is made.
+
+The committee may require revisions of the dissertation up to and including the time of the defense.
+
+The defense takes the form of a presentation by the candidate (approximately 30 minutes), followed by a question-and-answer period led by the committee.
+After the question-and-answer period, the committee withdraws to deliberate.
+The committee's decision is recorded on a Graduate School dissertation ballot.
 See the Graduate School's [downloadable forms](https://www.luc.edu/gradschool/academics/forms/).
+This ballot should be downloaded and printed by the candidate prior to the defense: provide a paper copy to your dissertation director on the day of the defense.
 
-Students should check the Graduate School's calendar of [Key Dates and Deadlines] for deadlines on format check and submission of the dissertation (now done electronically).
+After the defense, the candidate makes any remaining corrections and revisions required by the committee.
+Candidates then submit to the Graduate School a final, approved electronic copy of the dissertation.
+See the [Graduate School Academic Policies], under "Dissertations and Theses" and "Final Copies of the Text", with additional links.
+Deadlines for these steps are maintained in the Graduate School's calendar of [Key Dates and Deadlines].
 
-Additional information:
-
-- [ETD/Proquest link for electronic submission](http://www.etdadmin.com/luc)
-- [Dissertation/Thesis Formatting](https://www.luc.edu/gradschool/academics/dissertationandthesis/)  
 
 ## 500- and 600-level Courses
 
