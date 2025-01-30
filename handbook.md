@@ -38,6 +38,7 @@ author: Loyola University Chicago
 - Placement Officer: Dr. Frederick Staidum
 
 Contact information is posted on the [department website](https://www.luc.edu/english).
+*Director of Graduate Programs* is abbreviated as *GPD*.
 
 ### Department Offices
 
@@ -67,7 +68,7 @@ Contact information may be found at the [Graduate School website], under the men
 
 ### Committee on Graduate Programs
 
-The Director of Graduate Programs is advised on all matters of policy, admissions, and student status by the Committee on Graduate Programs.
+The GPD is advised on all matters of policy, admissions, and student status by the Committee on Graduate Programs.
 One student, chosen by election, sits on the Committee.
 The faculty members of the Committee also serve as jury for the Clayes Award (see [Awards], below).
 
@@ -107,7 +108,7 @@ After that, you must vacate the room and lock the door.
 ### Email
 
 An account on the student email system is created automatically for each new student.
-Both the Director of Graduate Programs and the Graduate School will use this account to communicate with you.
+Both the GPD and the Graduate School will use this account to communicate with you.
 
 It is crucial that you check your Loyola e-mail on a regular basis, or have your e-mail forwarded to an account you check regularly.
 If you find that you are not receiving regular and frequent communiqués from the Department, please notify the Graduate Program Assistant.
@@ -187,7 +188,7 @@ The current subvention from the Graduate School for travel is a maximum of \$750
 Departmental travel support, which is funded primarily from the EGSA Student Activities budget, is likely to provide a much lower level of sponsorship.
 
 After you return from supported travel, you will be asked to supply all original receipts as well as boarding passes for your trip, and proof of attendance (conference registration receipt and program copy with your session).
-Ask the Graduate Program Assistant for the travel expense form, fill it out, and return it with the receipts to the Graduate School (for their funding) or to the Director of Graduate Programs (for EGSA funding).
+Ask the Graduate Program Assistant for the travel expense form, fill it out, and return it with the receipts to the Graduate School (for their funding) or to the GPD (for EGSA funding).
 
 ### Placement Officer
 
@@ -224,7 +225,7 @@ In cases of conflict between this Handbook and a policy of the Graduate School, 
 
 ## Advising
 
-The Director of Graduate Programs (abbreviated GPD) serves as faculty advisor for all M.A. students and for Ph.D. students prior to [Advancement to Candidacy].
+The GPD serves as faculty advisor for all M.A. students and for Ph.D. students prior to [Advancement to Candidacy].
 Students meet individually with the GPD prior to [Registration] each semester.
 Students are encouraged to confer with the GPD at other times and must do so when contemplating [Withdrawal](#withdrawal-from-courses) from a course or another significant change in their studies.
 See also the [Graduate School Academic Policies], under "Academic Advising."
@@ -302,18 +303,18 @@ For parental leave see the [Graduate School Academic Policies], under "Parental 
 ## Transfer Credit and Advanced Standing
 
 It is ordinarily expected that all work for the Master's degree will be completed at Loyola.
-Upon the recommendation of the Director of Graduate Programs, however, and with the approval of the Dean, up to six hours of credit for graduate work at another university may be counted toward the M.A. degree.
+Upon the recommendation of the GPD, however, and with the approval of the Dean, up to six hours of credit for graduate work at another university may be counted toward the M.A. degree.
 See the [Graduate School Academic Policies], under "Transfer Credit."
 
 For students entering the Ph.D. program with prior graduate work, up to thirty hours of credit may, with the Department's recommendation and the Dean's approval, be counted toward a Loyola Ph.D.
-The precise number of hours credited toward advanced standing is worked out by the Director of Graduate Programs during a student's first year in the program.
+The precise number of hours credited toward advanced standing is worked out by the GPD during a student's first year in the program.
 See the [Graduate School Academic Policies], under "Advanced Standing Toward the Doctoral Degree."
 
 ## Academic Integrity
 
 The Department of English abides by the policies on academic integrity set forth in the [Graduate School Academic Policies], under "Academic Integrity."
 Although academic dishonesty can take many forms, in our field it manifests primarily as plagiarism, defined by the Graduate School as "the use of ideas, language, or work of another without sufficient public acknowledgement that the material is not one's own."
-Students who have questions about this policy should consult the Director of Graduate Programs or another faculty member.
+Students who have questions about this policy should consult the GPD or another faculty member.
 
 The penalty for an instance of plagiarism is, at a minimum, failure on the assignment, which may well be tantamount to failure in the course.
 A serious breach or a pattern of dishonesty can lead to expulsion from Loyola.
@@ -322,7 +323,7 @@ Although extremely rare in our department, cases have occurred in the past and h
 ## Grievance Procedure
 
 Students, faculty, and administrators are strongly encouraged to resolve any problems they encounter in the academic process through informal discussion.
-If you are unable to resolve a problem with a member of the staff or faculty, or if you wish to lodge a formal complaint, you should first meet with the Director of Graduate Programs to discuss the matter.
+If you are unable to resolve a problem with a member of the staff or faculty, or if you wish to lodge a formal complaint, you should first meet with the GPD to discuss the matter.
 If the problem cannot be satisfactorily resolved by the GPD, it will be taken up by the Department Chair who, if necessary, will refer it to a departmental grievance committee.
 The decision of that committee can be appealed to the Graduate School.
 Students wishing to initiate a grievance must do so in writing to the Dean.
@@ -386,9 +387,9 @@ Ph.D.-level research in literary studies presupposes skills (or 'research tools'
 In view of the multilingual character of humanist study, scholars of literature must often read text in a language other than their principal one.
 For these reasons, as fulfilment of the discipline's research tool, Ph.D. students in the Department of English are required to demonstrate reading proficiency in a language other than English.
 This may be done by (a) passing a translation examination or (b) receiving a grade of B or higher in a graduate-level course in a language other than English.
-Exams and coursework at other institutions will usually be accepted, subject to review by the Director of Graduate Programs.
+Exams and coursework at other institutions will usually be accepted, subject to review by the GPD.
 Under special circumstances priority may be given to another research tool: for instance, a computer language, statistical analysis, or protocols for research with human subjects.
-Students are encouraged to discuss completion of this requirement with the Director of Graduate Programs soon after entering the program.
+Students are encouraged to discuss completion of this requirement with the GPD soon after entering the program.
 
 #### Summer Language Courses
 
@@ -460,7 +461,7 @@ Additional information:
 
 ENGL 501 ("Directed Readings") is an elective "independent study" course which may be taken at most twice in the Ph.D. program.
 If you are interested in this option, you must first find a faculty member willing to direct it.
-You must then fill out a departmental form (see [Department Links and Forms]) and submit the form to the Director of Graduate Programs for approval in the semester prior to the course.
+You must then fill out a departmental form (see [Department Links and Forms]) and submit the form to the GPD for approval in the semester prior to the course.
 
 Proposals for 501 courses will not be approved if the material to be covered is regularly offered in existing graduate seminars.
 501 requires a minimum of 12 contact hours between faculty and student (approximately 1 hour every week) and a minimum of 25 pages of writing.
@@ -528,7 +529,7 @@ Students who fall below a grade-point average of 3.00 are placed on academic pro
 See [Graduate School Academic Policies], under "Probation and Dismissal".
 
 The Department of English has a more stringent policy for first-year Ph.D. students, as follows.
-First-year Ph.D. students whose GPA for the fall and spring semesters is below 3.50 must submit a portfolio of three essays (totaling at least 30 pages) to the Director of Graduate Programs the week after spring semester final exams.
+First-year Ph.D. students whose GPA for the fall and spring semesters is below 3.50 must submit a portfolio of three essays (totaling at least 30 pages) to the GPD the week after spring semester final exams.
 The portfolio must contain a letter to the GPD explaining the challenges the student faced the first year and how the student has responded to those challenges.
 Members of the Graduate Programs Committee review the portfolio and make a recommendation to the GPD, regarding the student's continuation in the Ph.D. program.
 
@@ -551,7 +552,7 @@ The following is the normal sequence:
 In the third, fourth, or fifth year, students may serve instead as Associate Director of the Writing Center.
 Fifth-year students may be assigned to cover a shift in the Writing Center each semester.
 
-The Department Chair makes all assignments in consultation with the Director of Graduate Programs.
+The Department Chair makes all assignments in consultation with the GPD.
 The appendices to this handbook supply [Guidelines for Teaching Assistants](#guidelines-teaching-assistants)
 and [Guidelines for Research Assistants](#guidelines-for-research-assistants).
 
