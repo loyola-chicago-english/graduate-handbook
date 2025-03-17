@@ -63,9 +63,10 @@ A month before the exam week, inform the Graduate Program Secretary of the dates
 Which field you take on each day, and at what time, is your choice.
 However, keep in mind that you must take the written portion during regular office hours, 8:30-5:00 on Mondays through Fridays.
 The Secretary will reserve an office in which you can write your exam and prepare the computer in that office for your use.
+Alternatively, you may use your own computer.
 
 The written portion of the exam is nine hours, three hours for each field.
-You may bring books to the exam, but not notes.
+You may consult books during the exam (including electronic books and PDFs), but not notes.
 The Graduate Program Secretary will distribute your answers to the examiners.
 Most students turn in approximately 8-10 pages for each section of the exam.
 
