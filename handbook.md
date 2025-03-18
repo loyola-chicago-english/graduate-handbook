@@ -582,9 +582,6 @@ Students who have completed the term of their Assistantship and advanced to cand
 For details see the Graduate School's page on [Financial Assistance and Funding](http://www.luc.edu/gradschool/FundingGrad.Education.shtml), under "Fellowships & Scholarships."
 Students are not eligible to receive the same fellowship twice.
 
-Another source of funding is the graduate assistantship with the Midwest Modern Language Association.
-A call for applications will be circulated by email when the position becomes available.
-
 ## Additional Teaching Opportunities
 
 The Department Chair will invite applications for a limited number of summer classes.
