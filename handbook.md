@@ -393,16 +393,19 @@ Students are encouraged to discuss completion of this requirement with the GPD s
 
 #### Summer Language Courses
 
-Courses in French, German, Latin, and Spanish for reading are offered by Marquette University and St. Louis University in on-line modality during summer sessions.
-
-At Marquette University the relevant course numbers are FREN 6204, GRMN 6204, and LATN 6204.
-At St. Louis Univeristy the relevant course numbers are SPAN 5010 and FREN 5010.
+Students who plan to take a translation exam may prepare for that by enrolling in a basic reading course in a supported language.
+Courses in French, German, Latin, and Spanish for reading are offered by Marquette University and St. Louis University in on-line modality during summer sessions.[^marquette-slu-details]
+Comparable courses may be available at Loyola: check the course catalog or ask the GPD.
 All these courses are specially designed for graduate students in humanities disciplines.
 The teaching objective is literacy for research purposes.
+To fulfill the research tool requirement, students should contact the GPD after completion of the course.
+The GPD will arrange an exam.
 
+[^marquette-slu-details]: At Marquette University the relevant course numbers are FREN 6204, GRMN 6204, and LATN 6204.
+At St. Louis Univeristy the relevant course numbers are SPAN 5010 and FREN 5010.
 To enroll in a course run by Marquette University, complete Marquette's [Exchange Application](https://graduate.admissions.marquette.edu/register/mu-exchange).
 
-Ph.D. students in the Medieval and Renaissance Studies track should watch for announcements from the Newberry Library's [Center for Renaissance Studies](https://www.newberry.org/research/research-centers/renaissance-studies) (CRS), which runs courses and workshops on research tools needed by specialists in these fields.
+Students in the Medieval and Renaissance Studies track should watch for announcements from the Newberry Library's [Center for Renaissance Studies](https://www.newberry.org/research/research-centers/renaissance-studies) (CRS), which runs courses and workshops on research tools needed by specialists in these fields.
 For funding queries, contact Loyola's [Faculty Representative](https://www.newberry.org/research/research-centers/renaissance-studies/consortium) to the CRS Consortium.
 
 #### Guidelines for Exams
