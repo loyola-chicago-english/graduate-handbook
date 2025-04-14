@@ -12,6 +12,7 @@ Basic policies regarding the M.A. Examination are contained within the [Universi
 - The exam comprises two two-hour periods, 10:00am--12:00pm and 1:00pm--3:00pm. Exam dates are announced by the Graduate Programs Director, usually three months in advance.
 - In each two-hour period, students write one essay, responding to one of the prompts presented in that exam period. Essay prompts are drawn from a standard list of [Exam Questions]. Students should identify clearly the prompt to which they respond.
 - At the beginning of the exam, students are presented with a collection of passages and a list of texts. The passages and the texts are drawn from graduate courses offered during the period in which students were enrolled in the M.A. program. Essay responses to question (1) must be centered on one of the supplied passages. Essay responses to questions (2)--(6) must be centered on one or more of the texts in the supplied list of texts.
+- There are no fixed requirements regarding the length of an essay. Most are between 5 and 7 pages in length, double spaced.
 - Students are permitted to consult course readings only; outside research is not permitted.
 - Parenthetical citations are sufficient; a list of works cited is not expected.
 - Students must not write about the same work or author in both essays.
