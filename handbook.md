@@ -2,6 +2,7 @@
 title: Handbook for Graduate Students in English
 subtitle: AY 2024--2025
 author: Loyola University Chicago
+date: Last updated \today
 ---
 
 [Department Links and Forms]: http://www.luc.edu/english/links.shtml
@@ -599,9 +600,10 @@ Contact the Department Chair or Office Coordinator for further information.
 
 # Version Information
 
-Last updated \today.
-
-[View the file history on GitHub](https://github.com/loyola-chicago-english/graduate-handbook/commits/main/handbook.md).
+Plain text components of this handbook are maintained in a repository on GitHub.
+View the [latest release](https://github.com/loyola-chicago-english/graduate-handbook/releases).
+New to GitHub?
+[Start here](https://docs.github.com/en/get-started).
 
 \newpage
 \appendix
