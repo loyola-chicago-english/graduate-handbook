@@ -642,7 +642,7 @@ appendices/phd-timeline.md
 
 \newpage
 
-## Guidelines for Teaching Assistants in Literature Courses {#guidelines-teaching-assistants}
+## Guidelines for Teaching Assistants {#guidelines-teaching-assistants}
 
 ``` {.include}
 appendices/teaching-assistant-guidelines.md
