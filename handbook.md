@@ -563,14 +563,11 @@ The following is the normal sequence:
 
 - *First year, both semesters*: Writing coach in the Writing Center (two shifts per week)
 - *Second year, fall semester*: Teaching assistant in a composition course
-- *Second year, spring semester*: Primary instructor in a composition course, receiving support and guidance from the mentor of the previous semester.
-- *Third year, fall semester*: Primary instructor in a composition course.
-- *Third year, spring semester*: Teaching assistant in a literature course.
-- *Fourth and fifth years*: Primary instructor in a literature or composition course, or research assistant to a member of the graduate faculty.
+- *Second year, spring semester* and *third year, fall semester*: Primary instructor in a composition course
+- *Third year, spring semester*: Teaching assistant in a literature course
+- *Fourth and fifth years*: Primary instructor in a literature or composition course; Associate Director of the Writing Center; or teaching or research assistant to a member of the graduate faculty
 
-In the third, fourth, or fifth year, students may serve instead as Associate Director of the Writing Center.
-Fifth-year students may be assigned to cover a shift in the Writing Center each semester.
-
+All students serve as primary instructor for at least two composition courses and two literature courses during the period of their assistantship.
 The Department Chair makes all assignments in consultation with the GPD.
 The appendices to this handbook supply [Guidelines for Teaching Assistants](#guidelines-teaching-assistants)
 and [Guidelines for Research Assistants](#guidelines-for-research-assistants).
@@ -585,6 +582,9 @@ Students who have completed the term of their Assistantship and advanced to cand
 
 For details see the Graduate School's page on [Financial Assistance and Funding](http://www.luc.edu/gradschool/FundingGrad.Education.shtml), under "Fellowships & Scholarships."
 Students are not eligible to receive the same fellowship twice.
+
+Another source of post-fifth-year funding is the Dissertation Formatting Assistantship.
+Details will be supplied when this position becomes available.
 
 ## Additional Teaching Opportunities
 

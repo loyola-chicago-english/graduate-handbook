@@ -22,13 +22,11 @@ table.md
 Notes:
 
 1. Students admitted without an M.A. take the M.A. exam after completing ten 400-level courses
-1. Students enroll in three 400-level courses per semester unless teaching their own course, in which case they enroll in two
-1. All students teach UCWR 110 in the spring of their second year and fall of their third year
+1. Students enroll in three 400-level courses per semester unless teaching their own course, in which case they enroll in two.
+   All students teach UCWR 110 in the spring of their second year and fall of their third year.
+   Other service obligations of assistantships do not affect course load and thus are not recorded on the table above: see [Assistantships](#assistantships).
 1. Students may enroll in up to two courses each summer; summers may also be used to meet the [Research Tool Requirement](#research-tool), work ahead, or prepare conference presentations or publications
 1. Students should enroll in ENGL 502 as their sole course in the semester after finishing all 400-level course requirements; it is usually not advisable to enroll in 502 during the summer, due to reduced faculty availability
 1. The Ph.D. qualifying exam is usually taken in the semester after 502; the dissertation proposal follows that. See [ENGL 610 and 600](#engl-610-and-600).
 1. The writing process usually involves cycles of feedback from advisors, not reflected in the timelines above
 1. Students funded by assitantiships must apply for jobs and/or fellowships in the fall of their fifth year
-<!--
-1. Current students run at least one year behind this schedule in the post-coursework phase
--->
