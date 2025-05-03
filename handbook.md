@@ -183,6 +183,8 @@ All students funded by the Graduate School must maintain full-time status.
 
 [^exceptions]: For exceptions to the 'three-course' rule see [ENGL 502], [ENGL 610 and 600], and [Ph.D. Milestones and Normative Timeline].
 
+Ph.D. students with government loans that mandate year-round registration may register for GSSM S61 (if they are in 610) or S60 (for 600) over the summer.
+Students register themselves for these courses and pay a nominal fee.
 
 ## Registration
 
@@ -314,6 +316,41 @@ In cases of conflict the Academic Catalog is authoritative.
 
 For course requirements, including field-specific requirements, see the Academic Catalog [Description of the English PhD Curriculum].
 
+#### Minimum GPA
+
+Students who fall below a grade-point average of 3.00 are placed on academic probation.
+See [Graduate School Academic Policies], under "Probation and Dismissal".
+
+The Department of English has a more stringent policy for first-year Ph.D. students, as follows.
+First-year Ph.D. students whose GPA for the fall and spring semesters is below 3.50 must submit a portfolio of three essays (totaling at least 30 pages) to the GPD the week after spring semester final exams.
+The portfolio must contain a letter to the GPD explaining the challenges the student faced the first year and how the student has responded to those challenges.
+Members of the Graduate Programs Committee review the portfolio and make a recommendation to the GPD, regarding the student's continuation in the Ph.D. program.
+
+#### ENGL 502
+
+ENGL 502 ("Independent Study for Doctoral Qualification") is the capstone of the course requirements for the Ph.D. and serves as preparation for the [Ph.D. Qualifying Examination].
+This course is a 'full-time equivalent'.
+Except in special circumstances, it is taken in the semester after completing the last of the 400-level course requirements.
+
+The director of ENGL 502 must be identified in the semester before a student enrolls in this course.
+This is done in consultation with the GPD, who must approve the [Departmental Form for ENGL 502](https://www.luc.edu/media/lucedu/english/docsamppdfs/gradresources/engl502.pdf).
+Usually the faculty director of ENGL 502 will also serve as director of the student's dissertation.
+
+The student and their faculty director should meet for a minimum of 7 hours, approximately 1 hour every two weeks.
+Early in the semester, the faculty director and student should agree on outcomes for the course.
+These should include field lists for the Ph.D. Qualifying Exam, as approved lists are due in the semester before the exam is taken: see the [Instructions for the Ph.D. Qualifying Exam](#phd-exam-full-instructions).
+Other written components of ENGL 502 are set by the faculty director, but usually include drafts of field statements and may include a literature review or a draft of the dissertation proposal.
+
+### ENGL 610 and 600
+
+After ENGL 502 students proceed to ENGL 610 ("Doctoral Study").
+After two semesters in ENGL 610, students are registered in ENGL 600 ("Dissertation Supervision").
+Students must maintain continuous registration in ENGL 600 until they complete their degree.
+Both 610 and 600 require a minimum of one contact hour monthly with the dissertation director.
+A student who successfully defends their dissertation before the end of the second week of the fall or spring semester is not required to register for ENGL 600 in that final semester.
+
+For expectations in ENGL 610 and 600 see [Post-coursework Progress] and the [Ph.D. Milestones and Normative Timeline].
+
 ### Ph.D. Qualifying Examination {#phd-exam}
 
 For basic information about the Ph.D. qualifying examination, see the Academic Catalog [Description of the English PhD Curriculum], under "PhD Qualifying Examination."
@@ -365,6 +402,27 @@ Ph.D. students should complete this requirement in year three or four.
 Workshops are offered several times each year.
 Details are posted on the [RCRS webpage](https://www.luc.edu/ors/RCRHome.shtml).
 
+### Post-coursework Progress
+
+The Graduate Programs Committee has established the following expectations for progress in [ENGL 610 and 600]:
+
+- ENGL 610, first semester: pass the PhD qualifying exam
+- ENGL 610, second semester: file an approved dissertation prospectus
+- ENGL 600, first semester: complete one chapter; or conduct preparatory reading and research
+- ENGL 600, subsequent semesters: complete one chapter per semester
+
+For additional details see the [Ph.D. Milestones and Normative Timeline].
+
+Dissertation directors submit grades (P/NP) for their advisees at the end of each semester of ENGL 610 and 600.
+A single missed target is often excusable by extenuating circumstances.
+A second consecutive semester of missed targets may be grounds for an "NP" grade.
+A grade of "NP" places a student on academic probation, a status that is lifted when the student completes expected work.
+See [Graduate School Academic Policies], under "Probation and Dismissal".
+
+Students with registered disability accommodations are exempt from this policy.
+For such students, appropriate progress is determined on a case by case basis.
+
+
 ### Advancement to Candidacy
 
 Students advance to doctoral candidacy when they fulfill all course requirements and the [Research Tool Requirement](#research-tool), pass the [Ph.D. Qualifying Examination](#phd-exam), identify a dissertation director, establish a dissertation committee, and produce an approved dissertation proposal.
@@ -374,7 +432,6 @@ See the [Graduate School Academic Policies], under "Dissertations and Theses," s
 
 The Graduate Program Director advises in the selection of a dissertation committee.
 Approval of the dissertation committee and dissertation proposal is done in [GSPS].
-Timelines for this process are provided below in the section [Ph.D. Milestones and Normative Timeline].
 
 ### Dissertation Defense and Submission
 
@@ -404,61 +461,14 @@ Candidates then submit to the Graduate School a final, approved electronic copy 
 See the [Graduate School Academic Policies], under "Dissertations and Theses" and "Final Copies of the Text", with additional links.
 Deadlines for these steps are maintained in the Graduate School's calendar of [Key Dates and Deadlines].
 
-
-## 500- and 600-level Courses
-
-### ENGL 501
+## Independent Study
 
 ENGL 501 ("Directed Readings") is an elective "independent study" course which may be taken at most twice in the Ph.D. program.
-If you are interested in this option, you must first find a faculty member willing to direct it.
-You must then fill out a departmental form (see [Department Links and Forms]) and submit the form to the GPD for approval in the semester prior to the course.
+Students interested in this option must first find a faculty member willing to direct the independent study.
+There is a departmental form (see [Department Links and Forms]) which must be submitted to the GPD for approval in the semester prior to the course.
+Proposals for 501 will not be approved if the material to be covered is regularly offered in existing graduate seminars.
 
-Proposals for 501 courses will not be approved if the material to be covered is regularly offered in existing graduate seminars.
 501 requires a minimum of 12 contact hours between faculty and student (approximately 1 hour every week) and a minimum of 25 pages of writing.
-
-### ENGL 502
-
-ENGL 502 ("Independent Study for Doctoral Qualification") is the capstone of the course requirements for the Ph.D. and serves as preparation for the [Ph.D. Qualifying Examination].
-This course is a 'full-time equivalent'.
-Except in special circumstances, it is taken in the semester after completing the last of the 400-level course requirements.
-
-The director of ENGL 502 must be identified in the semester before a student enrolls in this course.
-This is done in consultation with the GPD, who must approve the [Departmental Form for ENGL 502](https://www.luc.edu/media/lucedu/english/docsamppdfs/gradresources/engl502.pdf).
-Usually the faculty director of ENGL 502 will also serve as director of the student's dissertation.
-
-The student and their faculty director should meet for a minimum of 7 hours, approximately 1 hour every two weeks.
-Early in the semester, the faculty director and student should agree on outcomes for the course.
-These should include field lists for the Ph.D. Qualifying Exam, as approved lists are due in the semester before the exam is taken: see the [Instructions for the Ph.D. Qualifying Exam](#phd-exam-full-instructions).
-Other written components of ENGL 502 are set by the faculty director, but usually include drafts of field statements and may include a literature review or a draft of the dissertation proposal.
-
-### ENGL 610 and 600
-
-After ENGL 502 students proceed to ENGL 610 ("Doctoral Study").
-After two semesters in ENGL 610, students are registered in ENGL 600 ("Dissertation Supervision").
-Students must maintain continuous registration in ENGL 600 until they complete their degree.
-Both 610 and 600 require a minimum of one contact hour monthly with the dissertation director.
-A student who successfully defends their dissertation before the end of the second week of the fall or spring semester is not required to register for ENGL 600 in that final semester.
-
-The Graduate Programs Committee has established the following expectations for progress in ENGL 610 and 600:
-
-- ENGL 610, first semester: pass the PhD qualifying exam
-- ENGL 610, second semester: file an approved dissertation prospectus
-- ENGL 600, first semester: complete one chapter; or conduct preparatory reading and research
-- ENGL 600, subsequent semesters: complete one chapter per semester
-
-Dissertation directors submit grades (P/NP) for their advisees at the end of each semester of ENGL 610 and 600.
-A single missed target is often excusable by extenuating circumstances.
-A second consecutive semester of missed targets may be grounds for an "NP" grade.
-A grade of "NP" places a student on academic probation, a status that is lifted when the student completes expected work.
-See [Graduate School Academic Policies], under "Probation and Dismissal".
-
-Students with registered disability accommodations are exempt from this policy.
-For such students, appropriate progress is determined on a case by case basis.
-
-### GSSM S61 and S60
-
-Students with government loans that mandate year-round registration may register for GSSM S61 (if they are in 610) or S60 (for 600) over the summer.
-Students register themselves for these courses and pay a nominal fee.
 
 ## Optional Concentrations and Specializations
 
@@ -467,19 +477,7 @@ Both credentials are obtained through coursework.
 For details on the concentration in WSGS, see the page [Concentration in WSGS for PhD Students](https://www.luc.edu/wsgs/academics/concentrationinwsgsforphdstudents/).
 For details on the specialization in DH, see the Academic Catalog [Description of the English PhD Curriculum], under "Optional Specialization in Digital Humanities."
 
-## Other Policies
-
-### Minimum GPA
-
-Students who fall below a grade-point average of 3.00 are placed on academic probation.
-See [Graduate School Academic Policies], under "Probation and Dismissal".
-
-The Department of English has a more stringent policy for first-year Ph.D. students, as follows.
-First-year Ph.D. students whose GPA for the fall and spring semesters is below 3.50 must submit a portfolio of three essays (totaling at least 30 pages) to the GPD the week after spring semester final exams.
-The portfolio must contain a letter to the GPD explaining the challenges the student faced the first year and how the student has responded to those challenges.
-Members of the Graduate Programs Committee review the portfolio and make a recommendation to the GPD, regarding the student's continuation in the Ph.D. program.
-
-## Assistantships and Fellowships
+## Funding
 
 ### Assistantships
 
