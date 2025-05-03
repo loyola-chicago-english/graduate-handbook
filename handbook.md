@@ -19,6 +19,8 @@ date: Last updated \today
 
 [Financial Assistance and Funding]: https://www.luc.edu/gradschool/futurestudents/financialassistanceandfunding/
 
+[Description of the English PhD Curriculum]: https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-phd/#curriculumtext
+
 \newpage
 
 # General Information
@@ -313,7 +315,7 @@ See the [Graduate School Academic Policies], under "Advanced Standing Toward the
 
 ## Academic Integrity
 
-The Department of English abides by the policies on academic integrity set forth in the [Graduate School Academic Policies], under "Academic Integrity."
+The Department of English abides by the policies on academic integrity set forth in the [Graduate School Academic Policies], under "Academic Integrity Policy and Processes."
 Although academic dishonesty can take many forms, in our field it manifests primarily as plagiarism, defined by the Graduate School as "the use of ideas, language, or work of another without sufficient public acknowledgement that the material is not one's own."
 Students who have questions about this policy should consult the GPD or another faculty member.
 
@@ -321,14 +323,10 @@ The penalty for an instance of plagiarism is, at a minimum, failure on the assig
 A serious breach or a pattern of dishonesty can lead to expulsion from Loyola.
 Although extremely rare in our department, cases have occurred in the past and have resulted in dismissal.
 
-## Grievance Procedure
+## Appeals Procedures
 
-Students, faculty, and administrators are strongly encouraged to resolve any problems they encounter in the academic process through informal discussion.
-If you are unable to resolve a problem with a member of the staff or faculty, or if you wish to lodge a formal complaint, you should first meet with the GPD to discuss the matter.
-If the problem cannot be satisfactorily resolved by the GPD, it will be taken up by the Department Chair who, if necessary, will refer it to a departmental grievance committee.
-The decision of that committee can be appealed to the Graduate School.
-Students wishing to initiate a grievance must do so in writing to the Dean.
-See the [Graduate School Academic Policies], under "Academic Grievance."
+The Graduate School maintains policies that allow students to appeal a course grade, a finding of academic misconduct, or another adverse academic decision.
+See the [Graduate School Academic Policies], under "Academic Appeals," "Academic Appeal of Course Grade," "Academic Appeal of Non-Coursework Evaluation of Research and Scholarship," "Academic Integrity Policy and Processes," and "Appeal for Change of Academic Record."
 
 ## Time Limits for Completion of Degree Requirements {#time-limits}
 
@@ -368,33 +366,26 @@ For policies and instructions on the M.A. Exam, see the Academic Catalogue and [
 
 ## Program Requirements
 
-Ph.D. students complete general course requirements and course requirements of their specialization, pass a Ph.D. qualifying exam, and meet other program requirements, as detailed in the following sections and in the university's [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-phd/#curriculumtext).
+Ph.D. students complete general course requirements and course requirements of their specialization, pass a Ph.D. qualifying exam, and meet other program requirements, as detailed in the following sections and in the Academic Catalog [Description of the English PhD Curriculum].
 See also the [Ph.D. Milestones and Normative Timeline].
+In cases of conflict the Academic Catalog is authoritative.
 
 ### Course Requirements
 
-For course requirements, including field-specific requirements, see the [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-phd/#curriculumtext).
+For course requirements, including field-specific requirements, see the Academic Catalog [Description of the English PhD Curriculum].
 
 ### Ph.D. Qualifying Examination {#phd-exam}
 
-For basic information about the Ph.D. qualifying examination, see the [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-phd/#curriculumtext), under "PhD Qualifying Examination."
+For basic information about the Ph.D. qualifying examination, see the Academic Catalog [Description of the English PhD Curriculum], under "PhD Qualifying Examination."
 Full instructions are supplied in the [Appendix](#phd-exam-full-instructions).
 
 ### Research Tool
 
-#### Introduction
-
-Ph.D.-level research in literary studies presupposes skills (or 'research tools') not taught in ordinary graduate-level coursework in a Department of English.
-In view of the multilingual character of humanist study, scholars of literature must often read text in a language other than their principal one.
-For these reasons, as fulfilment of the discipline's research tool, Ph.D. students in the Department of English are required to demonstrate reading proficiency in a language other than English.
-This may be done by (a) passing a translation examination or (b) receiving a grade of B or higher in a graduate-level course in a language other than English.
-Exams and coursework at other institutions will usually be accepted, subject to review by the GPD.
-Under special circumstances priority may be given to another research tool: for instance, a computer language, statistical analysis, or protocols for research with human subjects.
-Students are encouraged to discuss completion of this requirement with the GPD soon after entering the program.
+See the Academic Catalog [Description of the English PhD Curriculum], under "Research Tool."
 
 #### Summer Language Courses
 
-Students who plan to take a translation exam may prepare for that by enrolling in a basic reading course in a supported language.
+Students who plan to fulfill the research tool requirement by taking a translation exam may prepare for that by enrolling in a basic reading course in a supported language.
 Courses in French, German, Latin, and Spanish for reading are offered by Marquette University and St. Louis University in on-line modality during summer sessions.[^marquette-slu-details]
 Comparable courses may be available at Loyola: check the course catalog or ask the GPD.
 All these courses are specially designed for graduate students in humanities disciplines.
@@ -409,7 +400,7 @@ To enroll in a course run by Marquette University, complete Marquette's [Exchang
 Students in the Medieval and Renaissance Studies track should watch for announcements from the Newberry Library's [Center for Renaissance Studies](https://www.newberry.org/research/research-centers/renaissance-studies) (CRS), which runs courses and workshops on research tools needed by specialists in these fields.
 For funding queries, contact Loyola's [Faculty Representative](https://www.newberry.org/research/research-centers/renaissance-studies/consortium) to the CRS Consortium.
 
-#### Guidelines for Exams
+#### Guidelines for Language Exams
 
 The format and ground rules of language exams are set by examiners and should be communicated to students in advance.
 The Graduate Programs Committee has made the following general recommendations:
@@ -427,11 +418,11 @@ Students who fail the exam may take another exam in the same language at a later
 In such cases, the GPD will usually transmit advice from the examiner to the student, regarding the kind of study recommended.
 
 
-### Responsible Conduct in Research and Scholarship
+### Responsible Conduct of Research
 
-The Graduate School requires all Ph.D. students to attend one of its workshops on *Responsible Conduct in Research and Scholarship* (RCRS) prior to completing the dissertation or thesis.
-Ph.D. students are encouraged to wait until their third or fourth year to fulfill this requirement.
-Workshops are offered throughout the year by the Office of Research Services.
+See the Academic Catalog [Description of the English PhD Curriculum], under "Responsible Conduct of Research."
+Ph.D. students should complete this requirement in year three or four.
+Workshops are offered several times each year.
 Details are posted on the [RCRS webpage](https://www.luc.edu/ors/RCRHome.shtml).
 
 ### Advancement to Candidacy
@@ -439,7 +430,7 @@ Details are posted on the [RCRS webpage](https://www.luc.edu/ors/RCRHome.shtml).
 Students advance to doctoral candidacy when they fulfill all course requirements and the [Research Tool Requirement](#research-tool), pass the [Ph.D. Qualifying Examination](#phd-exam), identify a dissertation director, establish a dissertation committee, and produce an approved dissertation proposal.
 See the [Graduate School Academic Policies], under "Doctoral Candidacy".
 Dissertation committees comprise a director and two or three faculty readers.
-See the [Graduate School Academic Policies], under "Committees".
+See the [Graduate School Academic Policies], under "Dissertations and Theses," subsection "Committees".
 
 The Graduate Program Director advises in the selection of a dissertation committee.
 Approval of the dissertation committee and dissertation proposal is done in [GSPS].
@@ -529,16 +520,12 @@ For such students, appropriate progress is determined on a case by case basis.
 Students with government loans that mandate year-round registration may register for GSSM S61 (if they are in 610) or S60 (for 600) over the summer.
 Students register themselves for these courses and pay a nominal fee.
 
-## Concentrations and Specializations
+## Optional Concentrations and Specializations
 
 Ph.D. students may obtain a "concentration" in Women's Studies and Gender Studies (WSGS) or a "specialization" in Digital Humanities (DH).
 Both credentials are obtained through coursework.
-
 For details on the concentration in WSGS, see the page [Concentration in WSGS for PhD Students](https://www.luc.edu/wsgs/academics/concentrationinwsgsforphdstudents/).
-
-To obtain a specialization in DH, students take one of three foundational courses offered by the Digital Humanities MA program, followed by two electives that carry a DIGH designation.
-The electives may be courses offered by the English department.
-For additional details contact the GPDs of English and Digital Humanities.
+For details on the specialization in DH, see the Academic Catalog [Description of the English PhD Curriculum], under "Optional Specialization in Digital Humanities."
 
 ## Other Policies
 
