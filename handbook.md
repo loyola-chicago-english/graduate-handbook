@@ -1,6 +1,6 @@
 ---
 title: Handbook for Graduate Students in English
-subtitle: AY 2024--2025
+subtitle: AY 2025--2026, version 0
 author: Loyola University Chicago
 date: Last updated \today
 ---
@@ -25,25 +25,7 @@ date: Last updated \today
 
 # General Information
 
-## Personnel and Offices
-
-### Department Personnel
-
-- Department Chair: Dr. Suzanne Bost
-- Assistant Chair: Dr. Jeffrey Glover
-- Office Coordinator: Ms. Brenda Jervier
-- Director of Graduate Programs: Dr. Ian Cornelius
-- Graduate Program Assistant: Ms. Melissa Spor
-- Director of the Writing Center: Dr. Brandiann Molby
-- Director of Writing Programs: Dr. Melissa Bradshaw
-- Director of Undergraduate Programs: Dr. Jack Cragwall
-- Director of the Literacy Center: Dr. Jackie Heckman
-- Placement Officer: Dr. Frederick Staidum
-
-Contact information is posted on the [department website](https://www.luc.edu/english).
-*Director of Graduate Programs* is abbreviated as *GPD*.
-
-### Department Offices
+## English Department Offices and Personnel
 
 The English Department and the offices of most graduate faculty are located on the fourth floor of the Crown Center for the Humanities on the Lake Shore Campus.
 The Department can be reached by telephone at (773) 508-2240.
@@ -54,7 +36,22 @@ The postal address is:
 > | 1032 West Sheridan Road
 > | Chicago, IL 60660
 
-### The Graduate School
+Current personnel are as follows.
+
+- Department Chair: Dr. Suzanne Bost
+- Assistant Chair: Dr. Jeffrey Glover
+- Office Coordinator: Ms. Brenda Jervier
+- Director of Graduate Programs (GPD): Dr. Ian Cornelius
+- Graduate Program Assistant: Ms. Melissa Spor
+- Director of the Writing Center: Dr. Brandiann Molby
+- Director of Writing Programs: Dr. Melissa Bradshaw
+- Director of Undergraduate Programs: Dr. Jack Cragwall
+- Director of the Literacy Center: Dr. Jackie Heckman
+- Placement Officer: Dr. Frederick Staidum
+
+Contact information is posted on the [department website](https://www.luc.edu/english).
+
+## The Graduate School
 
 The Graduate School handles admissions and financial aid, and maintains permanent files of all students throughout their graduate careers.
 Primary personnel are:
@@ -67,79 +64,38 @@ Primary personnel are:
 
 Contact information may be found at the [Graduate School website], under the menu item "About" > "Contact Us."
 
-## Committees
+## English Graduate Student Association
 
-### Committee on Graduate Programs
-
-The GPD is advised on all matters of policy, admissions, and student status by the Committee on Graduate Programs.
-One student, chosen by election, sits on the Committee.
-The faculty members of the Committee also serve as jury for the Clayes Award (see [Awards], below).
-
-### English Graduate Student Association
-
-The English Graduate Student Association (EGSA) is made up of all graduate students in the Department.
-A board (normally comprising five members) is elected from among the students as positions become available.
-EGSA sponsors social events for students and faculty, and publishes an occasional newsletter with information about the Department, student achievements, and upcoming events.
-
-In addition, EGSA organizes workshops on topics of interest to English graduate students at Loyola.
-Recent topics have included writing for publication, the academic job search, Ph.D. exam preparation, and careers in community college teaching.
-EGSA also serves as a forum for any special concerns graduate students may have and conveys those concerns to the Committee on Graduate Programs through the student representative.
-
-Students in all phases of their graduate careers are warmly encouraged to participate actively in EGSA.
+All graduate students are encouraged to participate in the English Graduate Student Association (EGSA).
+The EGSA board (normally comprising five members) is elected from among the students as positions become available.
 Current board membership and additional information is posted on the [EGSA webpage](https://www.luc.edu/english/graduate/resourcesandpolicies/englishgraduatestudentassociation/).
-A representative for the M.A. students will be elected fall semester.
 
-## University and Department Resources
+One member of the EGSA board serves as official liason to the faculty.
+This member should be placed on the department's faculty email list and will be invited to attend certain faculty meetings and meetings of the Graduate Programs Committee.
 
-### ID Cards
+Activities of EGSA include:
 
-ID cards, giving access to library borrowing and other privileges, are available from the Campus Card Office.
-For locations and details see the [Campus Card Office website](https://www.luc.edu/campuscard/index.shtml).
+- Social events for students and faculty
+- Workshops on topics of interest to English graduate students at Loyola; recent topics have included writing for publication, the academic job search, Ph.D. exam preparation, and careers in community college teaching
+- Articulating interests and concerns of graduate students to the GPD and Graduate Programs Committee
+- Allocation of the money received from student activity fees: see [Professional Development Funds]
 
-### Computer Services
+## The Fishbowl
 
-Computers are available in [The Fishbowl] and [libraries](https://libraries.luc.edu/computers).
-
-### The Fishbowl
-
-All graduate students in English have access to a common space in Crown Center 418, better known as the *Fishbowl*. This is your space for studying, meetings, lunch, and socializing; however, the department is responsible for its security.
+Graduate students have access to a common space in Crown Center 418, better known as the *Fishbowl*.
+This is your space for studying, meetings, lunch, and socializing; however, the department is responsible for its security.
 You may use the room up to the start of evening classes (7 p.m.).
 After that, you must vacate the room and lock the door.
 
 ## Communications
 
-### Email
+If your home address or phone number change, inform the Administrative Assistant to the Graduate Program and update your records through [LOCUS].
 
-An account on the student email system is created automatically for each new student.
-Both the GPD and the Graduate School will use this account to communicate with you.
+An email account is created for each new student.
+Students must check Loyola email regularly, read the messages sent them, and respond promptly to messages that require response.
 
-It is crucial that you check your Loyola e-mail on a regular basis, or have your e-mail forwarded to an account you check regularly.
-If you find that you are not receiving regular and frequent communiqués from the Department, please notify the Graduate Program Assistant.
-
-### Mail
-
-Each graduate student in the English Department is assigned a mailbox in the Department workroom in Crown Center.
-Memos from faculty, EGSA, and University agencies are likely to be relayed to you through this mail system; therefore, these mailboxes should be checked frequently.
-Since the boxes are not locked, please be careful about what you leave in your box.
-
-If your home address, email address, or phone number change, inform the Administrative Assistant to the Graduate Program and update your records through [LOCUS].
-
-### Bulletin Boards and Information
-
-The bulletin board outside the GPD office (Crown 423) features information regarding the graduate programs---e.g., calls for papers, job offerings, fellowship opportunities.
-The board in the English main office has departmental notices.
-
-## Service Opportunities
-
-Students should take advantage of departmental and University service opportunities to build their resumes/curricula vitae and to gain experience in the day-to-day operations of an academic institution.
-Opportunities available include but are not limited to the following: EGSA representative, Writing Programs committee, Graduate Programs committee, Undergraduate Program committee, department meeting representative, GSAC representative, Literacy Center tutor or staff person.
-Calls for volunteers for these positions go out annually in the fall term.
-
-## Summer Sessions
-
-Two six-week summer sessions are offered through the Department each year, running from May to August.
-At least two graduate-level courses are offered over the two summer terms.
-When enrollment permits, we offer four courses.
+Each graduate student is assigned a mailbox in the Department workroom in Crown Center.
+Mailboxes should be checked regularly.
 
 ## Health Insurance
 
@@ -160,44 +116,27 @@ See the [Campus Transportation website](https://www.luc.edu/campustransportation
 Public buses and the "El" run frequently between campuses and to other points in the city.
 See the [Chicago Transit Authority website](https://www.transitchicago.com/).
 
-## Professional Development
-
-### Research and Writing
+## Your Tech Stack
 
 Be deliberate about your choice of tools and methods for academic research and writing.
 Cultivate a sense of curiosity regarding the technical details of your own scholarly practice (search and discovery, reference management, file management, reading, annotation, note-taking, drafting, revision, fact-checking, proofreading, etc.) and ask your peers and professors about their ways of working.
 Do not assume that the particular set of tools and practices which you learned as an undergraduate, or earlier, will suffice for your present and future endeavors.
 
-### Publication
+## Professional Development Funds
 
-Ph.D. students are encouraged to pursue the publication of one or more journal articles during their graduate careers, generally after the first couple of years in the program.
-In the current job market, publication is an important means of demonstrating to prospective employers a high level of motivation and professional competence.
-
-Three ways to prepare for this goal are 1) to read journals in your fields of interest regularly in order to become familiar with both current scholarship and the requirements of scholarly publication; 2) to review the [MLA Directory of Periodicals](https://www.mla.org/Publications/MLA-International-Bibliography/About-the-MLA-International-Bibliography/MLA-Directory-of-Periodicals) in order to learn what different journals expect or demand; and 3) to approach seminar papers, especially those in your field(s) of interest, as potential publications, possibly even as publications targeted to a particular journal.
-In developing a paper for publication, students are of course well advised to work closely with their seminar instructors or faculty mentors.
-
-### Conference Presentations and Travel Funding
-
-Presentation of conference papers is an important part of students' professional development, and Ph.D. students in particular should aim to give at least two papers during their graduate careers---preferably including professional and not just graduate-student conferences.
-
-Each semester the Graduate School has funds to support graduate student travel for the purpose of presenting papers or chairing sessions at conferences.
-Funds are limited, so students should apply promptly upon acceptance of their papers or sessions.
-Information is available from the Graduate School's page on [Research](https://www.luc.edu/gradschool/academics/research/), under "Conference Travel Awards."
-
-The Department also has funding for attending summer seminars or conducting dissertation research at a research library outside Chicago.
-These are competitive awards offered each semester.
-
+Professional development funds are available from the Graduate School and EGSA.
+For details on funds administered by the Graduate School, see the Graduate School's page on [Research](https://www.luc.edu/gradschool/academics/research/), under "Conference Travel Awards."
 The current subvention from the Graduate School for travel is a maximum of \$750.
-Departmental travel support, which is funded primarily from the EGSA Student Activities budget, is likely to provide a much lower level of sponsorship.
+For funds administered by EGSA, contact the EGSA treasurer.
 
-After you return from supported travel, you will be asked to supply all original receipts as well as boarding passes for your trip, and proof of attendance (conference registration receipt and program copy with your session).
-Ask the Graduate Program Assistant for the travel expense form, fill it out, and return it with the receipts to the Graduate School (for their funding) or to the GPD (for EGSA funding).
+Both sources of funding are distributed as expense reimbursement.
+Students seeking reimbursement must supply original receipts, boarding passes, and proof of attendance (conference registration receipt and a program copy showing your session).
+Ask the Graduate Program Assistant for the travel expense form, fill it out, and return it with the receipts to the Graduate School (for their funding) or to EGSA treasurer (for EGSA funding).
 
-### Placement Officer
+## Placement Officer
 
-Each year a member of the faculty is appointed to advise students in their process of finding employment post-graduation.
-The Placement Officer offers advice on all aspects of the job search and will arrange for mock interviews.
-All students who are entering the job market should contact the Placement Officer in the semester before they begin to apply for positions.
+The placement officer advises students on all aspects of the academic job search and arranges mock interviews and mock job talks.
+All students who are entering the academic job market should contact the placement officer in the semester before they begin to apply for positions.
 
 The department has two collections of advice and information for students entering the job market:
 
@@ -206,19 +145,19 @@ The department has two collections of advice and information for students enteri
 
 Contact the placement officer for access to the Sakai site.
 
-## Awards
+## The Loyola Literacy Center
 
-### Clayes Essay Awards
+Since 1992, the Loyola University Literacy Center has provided free tutoring to adult learners of English, many of whom are Rogers Park residents.
+The Literacy Center is directed by Dr. Jacqueline Heckman and staffed by Loyola students.
+English graduate students are warmly invited to participate.
+For more information see the [Literacy Center website](https://www.luc.edu/literacy/) or contact Dr. Heckman.
+
+## Clayes Essay Awards
 
 Each year the Department sponsors a competition among graduate students for the Stanley Clayes Memorial Award.
 Cash prizes are awarded to essays written for 400-level graduate seminars in the preceding academic year.
 The call for papers comes out at the beginning of fall term.
 For details see the [Stanley Clayes Essay Competition Submission Guidelines].
-
-### Gravett-Tuma Book Award
-
-Twice a year two students are selected to receive the Gravett-Tuma Book Award, made possible by a generous donation from alumna Amber Gravett and her husband.
-In the fall, students eligible for this award are those who have taken ENGL 502 (Independent Study for Doctoral Qualification) the previous year; in the spring those eligible are students entering their fourth semester in our program.
 
 # Regulations and Procedures
 
@@ -237,11 +176,13 @@ Ph.D. students applying for faculty jobs are advised by the [Placement Officer].
 
 ## Course Loads
 
-A full-time student will usually carry three courses per semester, or, for Graduate Assistants entering the classroom as instructors, two courses and one teaching assignment.
+See the [Graduate School Academic Policies], under the section "Enrollment in Courses," subsection "Student Enrollment Status."
+Full-time students enroll in three courses per semester.[^exceptions]
 Course loads for part-time students are worked out on an individual basis.
-All students funded by the Graduate School are considered full time.
+All students funded by the Graduate School must maintain full-time status.
 
-See also the [Graduate School Academic Policies], "Student Enrollment Status," under the section "Enrollment in Courses."
+[^exceptions]: For exceptions to the 'three-course' rule see [ENGL 502], [ENGL 610 and 600], and [Ph.D. Milestones and Normative Timeline].
+
 
 ## Registration
 
@@ -279,16 +220,15 @@ Students are responsible for withdrawing themselves from classes.
 The Graduate School maintains policies on incompletes, including time limits for completion of work: see the [Graduate School Academic Policies], under "Grades."
 The Department of English has two additional policies:
 
-- Incompletes require the approval of the Graduate Programs Director.
-  Students who seek an incomplete must download and fill the relevant form (see [Department Links and Forms]) and have it signed by the GPD.
-- No more than one incomplete can be requested per semester, unless there are extenuating circumstances (e.g., a serious illness).
+- Students who seek an incomplete should inform the GPD of their intention, by email.
+- No more than one incomplete should be requested per semester, unless there are extenuating circumstances (e.g., a serious illness).
 
 Ordinarily an incomplete is granted to accommodate illness or other misfortune suffered by a student at the end of a semester.
-Students who request an incomplete should provide their instructor with a plan that specifies the work to be completed and a timeline for completion of it.
-An instructor who approves a requested incomplete may, at the time of approval, amend the student's proposed plan.
+Students who request an incomplete should provide their professor and the GPD with a plan that specifies the work to be completed and a timeline for completion of it.
+A professor who approves a requested incomplete may, at the time of approval, amend the student's proposed plan.
 Any plan *should* include work missed due to an unexpected adverse life event at the end of the semester; a plan *may* include earlier work, but there is no expectation that *all* missing work be submittable under the terms of an incomplete.
-The expectation is only that the submittable work, if successfully completed, be sufficient to provide the student a passing grade overall.
-The work-plan agreed by the instructor should be communicated to the GPD.
+Submittable work, if completed successfully, should be sufficient to provide a passing grade.
+The work-plan agreed by the professor should be communicated to the GPD.
 
 M.A. students who take two or more incompletes in any given semester should consider applying for a [leave of absence](#leaves-of-absence).
 In such cases, a leave of absence allows a student to complete unfinished work and rest adequately before taking on additional academic obligations.
