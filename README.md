@@ -10,3 +10,5 @@ The released PDF is built with [Pandoc](https://pandoc.org/), the behavior of wh
 Appendices are maintained as separate files in the directory `appendices/` and included with the Lua filter `include-files.lua`.
 The CSV file in `appendices/` is converted to a Markdown table prior to other build operations.
 The directory `images/` stores an image file.
+
+For versioning logic and a changelog see the file CHANGELOG.md
