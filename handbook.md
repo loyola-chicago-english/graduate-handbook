@@ -511,17 +511,8 @@ Students are not eligible to receive the same fellowship twice.
 Another source of post-fifth-year funding is the Dissertation Formatting Assistantship.
 Details will be supplied when this position becomes available.
 
-## Additional Teaching Opportunities
-
-The Department Chair will invite applications for a limited number of summer classes.
-Criteria used to assign summer classes to graduate students include:
-experience and proven success in the classroom;
-good progress toward the degree;
-preparedness to teach the courses available;
-and previous summer teaching (in an effort to distribute summer courses fairly).
-
-Summer or academic-term teaching may also be available to Ph.D. students unfunded by Assistantships or Fellowships.
-Contact the Department Chair or Office Coordinator for further information.
+Summer or academic-term teaching may be available to advanced Ph.D. students unfunded by an Assistantship or Fellowship.
+Contact the Department Chair or Office Coordinator for information.
 
 # Version Information
 

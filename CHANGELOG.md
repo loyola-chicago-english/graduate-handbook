@@ -13,6 +13,13 @@ Minor fixes are sometimes designated with decimals.
 [8a2d855]: https://github.com/loyola-chicago-english/graduate-handbook/commit/8a2d855479838455196b68c81a7db4e3e6d4379c
 [1a74eab]: https://github.com/loyola-chicago-english/graduate-handbook/commit/1a74eab2355c3080352aa8496fd3353f053508e5
 
+## Unreleased
+
+### Removed
+
+- "Other Teaching Opportunities": remove, as outdated, the statement that the "Chair will invite applications" to teach summer classes.
+  Revise the provision for PhD students beyond funding years; move within the section "Funding beyond the fifth year" (77f4cbf)
+
 ## [2026.0] - 2025-05-03
 
 ### Added
