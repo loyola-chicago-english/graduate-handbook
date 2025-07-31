@@ -105,6 +105,8 @@ Details and instructions for enrollment are maintained at the [Bursar's Office w
 Ph.D. students funded by assistantships will receive additional details in their annual "award letters," sent by the Graduate School.
 Ph.D. students who are enrolled in fewer than eight credits in the fall semester must contact the [Graduate School Awards and Budget Manager](#the-graduate-school) if they wish to be enrolled in Loyola's health insurance plan.
 
+Questions about health insurance plans and coverage should be directed to the [University Bursar](https://www.luc.edu/bursar/staff.shtml).
+
 ## Housing
 
 Most graduate students find off-campus apartments using the ads in publicly available sources.

@@ -15,6 +15,10 @@ Minor fixes are sometimes designated with decimals.
 
 ## Unreleased
 
+### Added
+
+- Referral for questions about health insurance coverage (d236d8b)
+
 ### Removed
 
 - "Other Teaching Opportunities": remove, as outdated, the statement that the "Chair will invite applications" to teach summer classes.
