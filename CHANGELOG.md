@@ -24,6 +24,10 @@ Minor fixes are sometimes designated with decimals.
 - "Other Teaching Opportunities": remove, as outdated, the statement that the "Chair will invite applications" to teach summer classes.
   Revise the provision for PhD students beyond funding years; move within the section "Funding beyond the fifth year" (77f4cbf)
 
+### Fixed
+
+- "Research Tool Requirement": align with local (LUC English Department) interpretation of "graduate course" (cc381e3)
+
 ## [2026.0] - 2025-05-03
 
 ### Added

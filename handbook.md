@@ -364,13 +364,11 @@ See the Academic Catalog [Description of the English PhD Curriculum], under "Res
 
 #### Summer Language Courses
 
-Students who plan to fulfill the research tool requirement by taking a translation exam may prepare for that by enrolling in a basic reading course in a supported language.
 Courses in French, German, Latin, and Spanish for reading are offered by Marquette University and St. Louis University in on-line modality during summer sessions.[^marquette-slu-details]
 Comparable courses may be available at Loyola: check the course catalog or ask the GPD.
 All these courses are specially designed for graduate students in humanities disciplines.
 The teaching objective is literacy for research purposes.
-To fulfill the research tool requirement, students should contact the GPD after completion of the course.
-The GPD will arrange an exam.
+The English department at Loyola University Chicago accepts these courses as "graduate courses," equivalent to a graduate-level literature course.
 
 [^marquette-slu-details]: At Marquette University the relevant course numbers are FREN 6204, GRMN 6204, and LATN 6204.
 At St. Louis Univeristy the relevant course numbers are SPAN 5010 and FREN 5010.
