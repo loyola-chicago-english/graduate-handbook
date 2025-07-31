@@ -64,6 +64,13 @@ Primary personnel are:
 
 Contact information may be found at the [Graduate School website], under the menu item "About" > "Contact Us."
 
+## Orientations
+
+The Graduate School holds an orientation for new students each August, on the Monday of the week before the first week of fall classes.
+The English department holds orientations for graduate students on the following day (Tuesday of the week before the first week of fall classes) in the afternoon.
+Students are expected to attend the relevant portions of these orientations.
+Details for the English department orientation are usually circulated each year around 1 August.
+
 ## English Graduate Student Association
 
 All graduate students are encouraged to participate in the English Graduate Student Association (EGSA).

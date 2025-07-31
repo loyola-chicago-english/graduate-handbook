@@ -18,6 +18,7 @@ Minor fixes are sometimes designated with decimals.
 ### Added
 
 - Referral for questions about health insurance coverage (d236d8b)
+- New section, "Orientations" (ce1d1fb)
 
 ### Removed
 
