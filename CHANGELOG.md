@@ -17,6 +17,7 @@ Minor fixes are sometimes designated with decimals.
 
 ### Added
 
+- New section, "The Scope and Authority of this Handbook" ()
 - Referral for questions about health insurance coverage (d236d8b)
 - New section, "Orientations" (ce1d1fb)
 
