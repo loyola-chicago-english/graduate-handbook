@@ -217,6 +217,11 @@ See [Graduate School Academic Policies], under "Probation and Dismissal."
 No more than two courses for which a student receives a final grade of *C+* or *C*, and no course for which a student receives a final grade of less than a *C*, may be applied toward the fulfillment of degree requirements.
 See the [Graduate School Academic Policies], under "Computation of Academic Grade Point Averages."
 
+Ph.D. students and M.A. students who intend to apply to Ph.D. programs should maintain a GPA very near 4.0.
+Grades lower than *A* usually indicate a need for professional or academic growth.
+If you are uncertain how to elevate your academic performance, ask your professors for advice.
+Students who regularly receive non-*A* grades over several semesters should consider careers that do not require a Ph.D.
+
 Ph.D. students should also see the section [Minimum GPA for Ph.D. Students](#minimum-gpa).
 
 ## Withdrawal from Courses

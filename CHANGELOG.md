@@ -27,6 +27,7 @@ Minor fixes are sometimes designated with decimals.
 
 ### Fixed
 
+- "Grades": restore and rewrite advice on non-*A* grades, dropped in c98a93b (e243b56)
 - "Research Tool Requirement": align with local (LUC English Department) interpretation of "graduate course" (cc381e3)
 
 ## [2026.0] - 2025-05-03
