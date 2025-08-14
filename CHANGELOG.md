@@ -13,23 +13,23 @@ Minor fixes are sometimes designated with decimals.
 [8a2d855]: https://github.com/loyola-chicago-english/graduate-handbook/commit/8a2d855479838455196b68c81a7db4e3e6d4379c
 [1a74eab]: https://github.com/loyola-chicago-english/graduate-handbook/commit/1a74eab2355c3080352aa8496fd3353f053508e5
 
-## Unreleased
+## [2026.1] - 2025-08-15
 
 ### Added
 
-- New section, "The Scope and Authority of this Handbook" ()
-- Referral for questions about health insurance coverage (d236d8b)
-- New section, "Orientations" (ce1d1fb)
+- New section, "The Scope and Authority of this Handbook" (0320110)
+- Referral for questions about health insurance coverage (82b6a86)
+- New section, "Orientations" (ffb9bec)
 
 ### Removed
 
 - "Other Teaching Opportunities": remove, as outdated, the statement that the "Chair will invite applications" to teach summer classes.
-  Revise the provision for PhD students beyond funding years; move within the section "Funding beyond the fifth year" (77f4cbf)
+  Revise the provision for PhD students beyond funding years; move within the section "Funding beyond the fifth year" (4049b38)
 
 ### Fixed
 
-- "Grades": restore and rewrite advice on non-*A* grades, dropped in c98a93b (e243b56)
-- "Research Tool Requirement": align with local (LUC English Department) interpretation of "graduate course" (cc381e3)
+- "Grades": restore and rewrite advice on non-*A* grades, dropped in c98a93b (d553697)
+- "Research Tool Requirement": align with local (LUC English Department) interpretation of "graduate course" (014a050)
 
 ## [2026.0] - 2025-05-03
 

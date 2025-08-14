@@ -1,6 +1,6 @@
 ---
 title: Handbook for Graduate Students in English
-subtitle: AY 2025--2026, version 0
+subtitle: AY 2025--2026, version 1
 author: Loyola University Chicago
 date: Last updated \today
 ---
