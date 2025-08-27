@@ -383,6 +383,7 @@ See the Academic Catalog [Description of the English PhD Curriculum], under "Res
 #### Summer Language Courses
 
 Courses in French, German, Latin, and Spanish for reading are offered by Marquette University and St. Louis University in on-line modality during summer sessions.[^marquette-slu-details]
+Students who wish to enroll in a course at one of these universities must first complete the [Midwest Catholic Graduate Schools Consortium Participation Form](https://www.luc.edu/media/lucedu/gradschool/pdfs/Midwest%20Catholic%20Graduate%20Schools%20Consortium%20Participation%20Form.pdf).
 Comparable courses may be available at Loyola: check the course catalog or ask the GPD.
 All these courses are specially designed for graduate students in humanities disciplines.
 The teaching objective is literacy for research purposes.
