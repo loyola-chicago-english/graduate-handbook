@@ -42,20 +42,7 @@ The postal address is:
 > | 1032 West Sheridan Road
 > | Chicago, IL 60660
 
-Current personnel are as follows.
-
-- Department Chair: Dr. Suzanne Bost
-- Assistant Chair: Dr. Jeffrey Glover
-- Office Coordinator: Ms. Brenda Jervier
-- Director of Graduate Programs (GPD): Dr. Ian Cornelius
-- Graduate Program Assistant: Ms. Melissa Spor
-- Director of the Writing Center: Dr. Brandiann Molby
-- Director of Writing Programs: Dr. Melissa Bradshaw
-- Director of Undergraduate Programs: Dr. Jack Cragwall
-- Director of the Literacy Center: Dr. Jackie Heckman
-- Placement Officer: Dr. Frederick Staidum
-
-Contact information is posted on the [department website](https://www.luc.edu/english).
+Department officers, administrators, and ombudsperson are listed on the [department website](https://www.luc.edu/english/people/) under "Department Administration."
 
 ## The Graduate School
 
@@ -152,6 +139,7 @@ Ask the Graduate Program Assistant for the travel expense form, fill it out, and
 
 The placement officer advises students on all aspects of the academic job search and arranges mock interviews and mock job talks.
 All students who are entering the academic job market should contact the placement officer in the semester before they begin to apply for positions.
+The current placement officer is [Dr. Frederick Staidum](https://www.luc.edu/english/people/faculty/profiles/staidumfrederick.shtml).
 
 The department has two collections of advice and information for students entering the job market:
 
