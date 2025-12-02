@@ -4,6 +4,9 @@ author: Loyola University Chicago, Department of English
 date: Last updated \today
 ---
 
+Assistantships are governed by policies maintained by the Graduate School and the Department of English.
+The relevant Graduate School policies are collected in the [Graduate Assistant Handbook](https://www.luc.edu/gradschool/studentexperience/graduateassistanthandbook/).
+
 The Department of English has formulated the following general guidelines for Teaching Assistants and their faculty mentors.
 These guidelines apply to TA assignments in both the Writing Programs and the literature curriculum.
 

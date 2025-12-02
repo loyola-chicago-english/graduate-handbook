@@ -21,6 +21,8 @@ date: Last updated \today
 
 [Description of the English PhD Curriculum]: https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-phd/#curriculumtext
 
+[Graduate Assistant Handbook]: https://www.luc.edu/gradschool/studentexperience/graduateassistanthandbook/
+
 \newpage
 
 # The Scope and Authority of this Handbook
@@ -251,7 +253,7 @@ Students who wish to request a leave of absence should first speak with the Grad
 
 ## Parental Leave
 
-For parental leave see the [Graduate School Academic Policies], under "Parental Leave Policy".
+For parental leave see the Graduate School's [Graduate Assistant Handbook], under "Parental Leave Policy".
 
 ## Transfer Credit and Advanced Standing
 
@@ -488,10 +490,12 @@ For details on the specialization in DH, see the Academic Catalog [Description o
 
 ### Assistantships
 
-Ph.D. students are typically funded for five years by assistantships, the terms of which are set by the Graduate School: see the Graduate School webpage on [Financial Assistance and Funding], under "Assistantships."
+Ph.D. students are typically funded for five years by assistantships, the terms of which are set by the Graduate School.
+For financial details see [Financial Assistance and Funding], under "Assistantships."
+For other university-level policies see the Graduate School's [Graduate Assistant Handbook].
 
 Ph.D. students on assistantships have a sequence of assignments, one per semester, designed to support their development as teachers and researchers.
-The following is the normal sequence:
+The following is the normal sequence in the Department of English:
 
 - *First year, both semesters*: Writing coach in the Writing Center (two shifts per week)
 - *Second year, fall semester*: Teaching assistant in a composition course
@@ -501,7 +505,7 @@ The following is the normal sequence:
 
 All students serve as primary instructor for at least two composition courses and two literature courses during the period of their assistantship.
 The Department Chair makes all assignments in consultation with the GPD.
-The appendices to this handbook supply [Guidelines for Teaching Assistants](#guidelines-teaching-assistants)
+The appendices to this handbook supply departmental [Guidelines for Teaching Assistants](#guidelines-teaching-assistants)
 and [Guidelines for Research Assistants](#guidelines-for-research-assistants).
 
 ### Funding beyond the fifth year

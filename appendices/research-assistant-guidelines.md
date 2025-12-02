@@ -3,6 +3,9 @@ title: Guidelines for Research Assistants
 author: Loyola University Chicago, Department of English
 ---
 
+Assistantships are governed by policies maintained by the Graduate School and the Department of English.
+The relevant Graduate School policies are collected in the [Graduate Assistant Handbook](https://www.luc.edu/gradschool/studentexperience/graduateassistanthandbook/).
+
 The Graduate Programs Committee has formulated the following general guidelines for Research Assistantship work.
 
 1. RAs and faculty mentors should meet soon after they receive their assignments.
