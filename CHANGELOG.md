@@ -13,6 +13,23 @@ Minor fixes are sometimes designated with decimals.
 [8a2d855]: https://github.com/loyola-chicago-english/graduate-handbook/commit/8a2d855479838455196b68c81a7db4e3e6d4379c
 [1a74eab]: https://github.com/loyola-chicago-english/graduate-handbook/commit/1a74eab2355c3080352aa8496fd3353f053508e5
 
+## [Unreleased]
+
+### Added
+
+- Link to the Graduate School's Midwest Consortium Participation Form (for summer language courses at St Louis University and Marquette University) (5dab7adc4895c0f69bdb2b321881b8e0d34ef2ff)
+- References to the Graduate School's Graduate Assistant Handbook (838b806bb2ab7af5fe11d554b51ef42d6a725489)
+- Allowance for email as an alternative to departmental forms and ballots (57b83e29f79ef7d77dec3b9f344165859ec4b0ef)
+- MA exam: instruct exam-takers not to identify themselves by name (639736d2c1a317b3a9ee7f048ea93bcca7518e1b)
+
+### Removed
+
+- Department personnel: replace the list with a link to the department website (52fb8dd7d9bc9bf232f8968864731763b1918bb8)
+
+### Fixed
+
+- Clayes instructions (4334c24bc3ba320fdb64749108563edccdf22f3e)
+
 ## [2026.1] - 2025-08-15
 
 ### Added
