@@ -450,11 +450,12 @@ Preparations for the defense begin when members of the committee have approved a
 The process is then as follows:
 
 1. The candidate makes a "Format Check Submission": see [Dissertation/Thesis Formatting](https://www.luc.edu/gradschool/academics/dissertationandthesis/).
-1. The candidate supplies members of the dissertation committee with format-checked reader's copies of the dissertation.
-Reader's copies must be provided to the committee not less than one month prior to the defense.
-Each reader also receives a ballot at this time: see [Department Links and Forms].
+1. The candidate supplies each member of the dissertation committee with a format-checked reader's copy of the dissertation and a pre-defense ballot.
+For the ballot see [Department Links and Forms].
+Readers' copies and ballots must be distributed to the committee not less than one month prior to the defense.
 1. Committee members return their voted ballots to the GPD.
-Ballots must be received at least one week prior to the defense date.
+(Alternatively, committee members may put their decision in the body of an email to the GPD.)
+Decisions must be received by the GPD at least one week prior to the defense date.
 1. If the ballots are in favor of proceeding to defense, the defense date is confirmed and a public announcement is made.
 
 The committee may require revisions of the dissertation up to and including the time of the defense.

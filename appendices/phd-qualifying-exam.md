@@ -31,7 +31,11 @@ In turn, they will suggest others, and you may negotiate dropping some.
 It is impossible to compare reading lists for different fields, but you should aim for lists of approximately 30 works, including primary and secondary reading material.
 With an examiner's approval, a list may consist solely of primary works, but then you are responsible in addition for doing the necessary outside reading to make yourself a critically informed reader in that field.
 
-The reading list for each field, with a ballot indicating the approval of the examiner for that field, must be turned in to the GPD by the following dates:
+The reading list for each field, with a ballot indicating the approval of the examiner for that field, must be turned in to the GPD by the following dates:[^email]
+
+[^email]: In lieu of the departmental ballot, students may put the equivalent information in an email to the GPD.
+Once you have secured the approval of your committee, write the GPD stating "The attached field lists have been approved by my committee (copied)."
+Copy your committee on this email.
 
 - For November exams, by the end of exam week in the preceding Spring semester
 - For February exams, by the end of the third week of classes in the preceding Fall semester
