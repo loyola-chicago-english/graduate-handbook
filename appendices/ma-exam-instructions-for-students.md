@@ -16,6 +16,7 @@ Basic policies regarding the M.A. Examination are contained within the [Universi
 - Students are permitted to consult course readings only; outside research is not permitted.
 - Parenthetical citations are sufficient; a list of works cited is not expected.
 - Students must not write about the same work or author in both essays.
+- Students' names should appear nowhere in submitted documents. Your name is attached to your responses by Sakai.
 
 \newpage
 
