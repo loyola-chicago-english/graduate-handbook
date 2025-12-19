@@ -25,11 +25,8 @@ jobs:
         with:
           version: 3.8.3
 
-      - name: Run Pandoc
-        run: pandoc --version
-
       - name: Install LaTeX
-        run: sudo apt-get update && sudo apt-get install -y texlive
+        run: sudo apt-get update && sudo apt-get install -y texlive-latex-extra
 
       - name: Download lua-filter
         run: wget https://raw.githubusercontent.com/pandoc/lua-filters/master/include-files/include-files.lua
@@ -37,7 +34,7 @@ jobs:
       - name: Verify dependencies
         run: |
           pandoc --version
-          xetex --version
+          latex --version
           ls include-files.lua
 
       - name: Convert CSV to Markdown table
