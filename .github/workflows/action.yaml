@@ -46,7 +46,6 @@ jobs:
           pandoc
           --lua-filter=include-files.lua
           --metadata-file=./config/default.yaml
-          --pdf-engine=xelatex
           --number-sections
           handbook.md -o graduate-handbook.pdf
 
