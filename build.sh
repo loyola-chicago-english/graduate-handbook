@@ -14,7 +14,7 @@ sed 's/,/|/g ; 2i----|----------|--------' phd-timeline-table.csv > table.md
 popd
 
 echo "Creating the PDF..."
-pandoc --lua-filter=include-files.lua --metadata-file=./config/default.yaml --pdf-engine=xelatex --number-sections handbook.md -o graduate-handbook.pdf
+pandoc --lua-filter=include-files.lua --metadata-file=./config/default.yaml --number-sections handbook.md -o graduate-handbook.pdf
 
 echo "Cleaning up..."
 rm appendices/table.md
