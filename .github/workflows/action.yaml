@@ -21,7 +21,7 @@ jobs:
           ls
 
       - name: Install Pandoc
-        uses: pandoc/actions/setup@v2
+        uses: pandoc/actions/setup@v1
         with:
           version: 3.8.3
 
