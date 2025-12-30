@@ -248,7 +248,7 @@ In such cases, a leave of absence allows a student to complete unfinished work a
 ## Leaves of Absence
 
 Official leaves of absence are intended for students who wish to discontinue temporarily their graduate studies due to special circumstances (e.g., medical, personal, or professional reasons).
-For details and policies, see the [Graduate School Academic Policies], under "Leaves of Absence."
+For details and policies, see the [Graduate School Academic Policies], under "Long-Term Leaves of Absence."
 Students who wish to request a leave of absence should first speak with the Graduate Programs Director.
 
 ## Parental Leave
