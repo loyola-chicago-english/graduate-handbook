@@ -40,5 +40,4 @@ Questions on the M.A. Exam are drawn from the following standard set.
 
 Exams are graded by members of the MA Exam Committee using the rubric below.
 Exam results and the committee's comments are transmitted to students by the GPD.
-
-![](./../images/ma-exam-rubric-2013.jpg)
+![Grading rubric used by the M.A. Exam Committee.](./../images/ma-exam-rubric-2013.jpg)
