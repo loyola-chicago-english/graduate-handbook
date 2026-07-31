@@ -1,10 +1,22 @@
 #!/bin/bash
 
-# The script is intended to test local builds; it is equivalent to the build
-# performed in the GitHub Action. Dependencies are those provided in the GitHub
-# Action.
+# This script is the build. The GitHub Action installs the dependencies and
+# then calls it, so a local run and a released PDF come from the same source.
 #
 # Run the script from the root directory.
+#
+# Dependencies:
+#   - Pandoc
+#   - LuaLaTeX from TeX Live 2025 or later, which the -V pdfstandard=ua-2
+#     option requires for PDF/UA-2 tagging
+#   - the include-files.lua filter, resolved either from Pandoc's user data
+#     directory or from the working directory
+#
+# --columns=200 keeps Pandoc from assigning explicit widths to the Ph.D.
+# timeline table, which would wrap each header cell in a minipage and emit
+# empty paragraphs that fail a WCAG check.
+
+set -euo pipefail
 
 pushd appendices/
 
