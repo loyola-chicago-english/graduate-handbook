@@ -154,7 +154,7 @@ For more information see the [Literacy Center website](https://www.luc.edu/liter
 ## Clayes Essay Awards
 
 Each year the Department sponsors a competition among graduate students for the Stanley Clayes Memorial Award.
-Cash prizes are awarded to essays written for 400-level graduate seminars in the preceding academic year.
+Cash prizes are awarded to essays written for 400-level English graduate seminars in the preceding academic year.
 The call for papers comes out at the beginning of fall term.
 For details see the [Stanley Clayes Essay Competition Submission Guidelines].
 
