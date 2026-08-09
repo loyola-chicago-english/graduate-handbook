@@ -1,70 +1,63 @@
 ---
 title: PhD Exam Procedures
 author: Department of English, Loyola University Chicago
-date: 2017 (updated) # 2017 is the date of the printed copy OCRed to supply this text; the policy may be a decade older
+date: 2026
 ---
 
 # Initial preparations
 
-See the GPD to convey your intention of taking the PhD exam well before you plan to take it.
-At this time you and the GPD may also want to discuss possible fields and examiners.
-Note that the examination committee does not have to be the same as the eventual dissertation committee, though the 502 director generally becomes the dissertation director.
+Soon after you have completed MA requirements, speak with the GPD to discuss fields and examiners.
+The exam has three fields and the examination committee has three members (one per field).
+One member of the committee (usually the committee chair) serves as director of 502.
+Fields are selected in consultation with your exam committee during the semester before 502.
 
-At least six months before you plan to take the exam, assemble your committee of three examiners, and, in consultation with them and with the GPD, choose your three fields.
-Fields may be of the following kinds:
+There are two basic kinds of field:
 
-1. a literary period
-2. an author
-3. a genre
-4. an area of critical theory
-5. composition and rhetorical theory
+- An area of literary theory or research methods
+- Literature of a historical period
 
-At least one field must be in a literary period, and all fields must be of different types, except that two may be periods.
+The second type of field may be narrowed further, for instance to a genre, tradition, or region.
+Most students devise one field of the first type and two of the second.
 
-Each field may be related to the anticipated dissertation topic; however, some breadth across fields is expected.
-And although the selection of texts within each field will be influenced to some extent by your particular interests and approach, you will also be expected to demonstrate a general mastery of the field.
+PhD exams serve as preparation for teaching and for dissertation research.
+These two aims must be balanced in the selection of fields and texts.
+Although the selection of texts within each field will be influenced to some extent by your particular interests and approach, you will also be expected to demonstrate preparation to teach a general course in each field.
 
 # Field lists
 
-Make up your field lists in consultation with your committee.
-Typically, you will present your committee members with draft lists of works for their fields.
-In turn, they will suggest others, and you may negotiate dropping some.
+Make up your field lists in consultation with your committee, during the semester before 502.
+Typically, you will present your committee members with draft lists; they will recommend revisions.
 It is impossible to compare reading lists for different fields, but you should aim for lists of approximately thirty works, including primary and secondary reading material.
 With an examiner's approval, a list may consist solely of primary works, but then you are responsible in addition for doing the necessary outside reading to make yourself a critically informed reader in that field.
 
-The reading list for each field, with a ballot indicating the approval of the examiner for that field, must be turned in to the GPD by the following dates:[^email]
-
-[^email]: In lieu of the departmental ballot, students may put the equivalent information in an email to the GPD.
-Once you have secured the approval of your committee, write the GPD stating "The attached field lists have been approved by my committee (copied)."
-Copy your committee on this email.
-
-- For November exams, by the end of exam week in the preceding Spring semester
-- For February exams, by the end of the third week of classes in the preceding Fall semester
-- For April exams, by the end of the second week of the preceding November
-
-Be sure that each examiner gets a copy of all three reading lists.
+Approved reading lists must be submitted to the GPD by email attachment, no later than exam week of the 502 semester.
+Copy your committee and the Administrative Assistant to Graduate Programs.
+In the body of the message state that "The attached field lists have been approved by my committee (copied)."
+The Administrative Assistant to Graduate Programs will place your lists on file, to be consulted by future PhD students in our department.
 
 Stay in touch with your committee as you read for the exam, discussing issues that gain your attention, questions that arise, and ideas you would like to pursue on the exam.
 It is extremely important that you do this, both to keep in touch with the exam process and to familiarize yourself with the expectations and likely interests of your examiners.
 
 # Field statements
 
-You may begin working on your statements anytime after your lists have been approved.
-You should aim for statements between 6 and 10 pages for each field, though some projects require longer statements.
-The statements should identify three or so issues, questions, or arguments about the works on your list, and, in the course of discussing these, should traverse (very briefly, of course) most of the works on the reading list for the field.
-In this sense the statement can be thought of as justifying the field as a field.
-Remember that you are responsible for anything you write in your statements, including critical-theoretical terminology.
-Your examiners will draw on your statements when writing their questions.
-Keep in mind that you are responsible for all works on your lists regardless of whether you refer to them directly in your field statements.
+Begin working on field statements while creating the lists.
+Field statements have the following requirements:
 
-You must turn in to the GPD the final version of the statement for each field, with a ballot indicating the approval of the examiner for that field, at least four weeks prior to the beginning of the written exam.
-Because revision is inevitable, you should give drafts of your statements to the examiners at least six weeks prior to the exam, and earlier if possible.
+- Length: between 3,000 and 4,500 words (10--15 double-spaced pages), excluding works cited
+- Comprehensiveness: reference most of the works on the field list
+- Organization and argument: organize the statement around three or so issues or questions that (you argue) define the field
 
-Be sure that each examiner gets a copy of all three field statements.
+You are responsible for all works on your lists, whether or not you refer to them in your field statements.
+
+Approved field statements must be submitted to the GPD by email attachment, no later than the end of the seventh week of the semester after 502.
+Copy your committee and the Administrative Assistant to Graduate Programs.
+In the body of the message state that "The attached field statements have been approved by my committee (copied)."
 
 # The written exam
 
-A month before the exam week, inform the Administrative Assistant to Graduate Programs of the dates, times, and fields of your written exam.
+Exams may be taken four weeks after submission of approved field statements and must be taken before the end of finals week in the semester after 502.
+At the time that you submit field statements, inform the Administrative Assistant to Graduate Programs of the dates, times, and fields of your written exam.
+
 Which field you take on each day, and at what time, is your choice.
 However, keep in mind that you must take the written portion during regular office hours, 8:30--5:00 on Mondays through Fridays.
 The Administrative Assistant to Graduate Programs will reserve an office in which you can write your exam and prepare the computer in that office for your use.
