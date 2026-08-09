@@ -13,6 +13,32 @@ Minor fixes are sometimes designated with decimals.
 [8a2d855]: https://github.com/loyola-chicago-english/graduate-handbook/commit/8a2d855479838455196b68c81a7db4e3e6d4379c
 [1a74eab]: https://github.com/loyola-chicago-english/graduate-handbook/commit/1a74eab2355c3080352aa8496fd3353f053508e5
 
+## [2027.0] - 2026-08-10
+
+### Added
+
+- **Breaking.** The Master of Arts Program: state that the MA Exam is taken by students who entered the program in AY 2025--2026 or earlier. Students entering in AY 2026--2027 and after do not take it (cbfdb03)
+- "The Scope and Authority of this Handbook": link the Academic Catalog, previously named but not linked (1fba5ce)
+
+### Changed
+
+- MA Exam instructions: cite the archived 2025--2026 Academic Catalog, at page 1604, in place of the live catalog page, which will no longer describe the examination (cbfdb03)
+- PhD Milestones and Normative Timeline: PhD students admitted without an MA in English take ENGL 500 in place of the MA exam, beginning with those entering in AY 2026--2027 (cbfdb03)
+- Departmental personnel: update placement officer (f3a0cd4)
+- The Master of Arts Program: lead with the Academic Catalog as the authoritative statement of requirements (cbfdb03)
+- Clayes Essay Prize: clarify instructions on file naming (bb80a4c)
+
+### Removed
+
+- Graduate School personnel: replace the list with a link to the Graduate School website; direct most questions to the Associate Dean of Student Academic Services, and the rest to the GPD (836396b)
+
+### Fixed
+
+- Graduation and Application for Degree: applications for degree are due four to six months before conferral, which agrees with the dates listed; the text had said "approximately six months" (3622375)
+- Stanley A. Clayes Essay Prize: state consistently that eligible essays are those written for a 400-level graduate course in English (5d06d76)
+- Names of offices, roles, and awards: use one name for each, and define "GPD" at first use (d7e53ff, 98ac4eb)
+- Typographic and grammatical errors, in the handbook and in the appendices on the PhD timeline, the PhD qualifying exam, teaching assistantships, and the Clayes competition (5e30be0)
+
 ## [2026.2] - 2025-12-19
 
 ### Added
