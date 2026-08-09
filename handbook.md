@@ -27,9 +27,9 @@ date: Last updated \today
 
 # The Scope and Authority of this Handbook
 
-This handbook is subordinate to the Academic Catalog of Loyola University Chicago.
+This handbook is subordinate to the [Academic Catalog](https://catalog.luc.edu/) of Loyola University Chicago.
 In cases of conflict between this handbook and the Academic Catalog, the Academic Catalog prevails.
-Students are bound to the [program requirements](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/#academicstext) stated in the Academic Catalog of the year in which they entered the program.
+Students are bound to [program requirements](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/#academicstext) in the Academic Catalog of the year in which they entered the program.
 
 # General Information
 
