@@ -48,16 +48,10 @@ Department officers, administrators, and ombudsperson are listed on the [departm
 
 ## The Graduate School
 
-The Graduate School handles admissions and financial aid, and maintains permanent files of all students throughout their graduate careers.
-Primary personnel are:
-
-- Dr. Emily Barman, Dean
-- Dr. Kate Phillippo, Associate Dean for Academics
-- Heather Sevener, Associate Dean for Student Academic Services
-- Tamika Toler, Awards & Budget Manager
-- Emily Forestieri, Communications & Records Coordinator
-
-Contact information may be found at the [Graduate School website], under the menu item "About" > "Contact Us."
+The Graduate School handles admissions and financial aid, and maintains academic records.
+Personnel and their contact information may be found at the [Graduate School website], under the menu item "About" > "Contact Us."
+Most questions can be directed to the Associate Dean of Student Academic Services.
+If in doubt, ask the Graduate Program Director.
 
 ## Orientations
 
@@ -105,7 +99,7 @@ Graduate students enrolled for 8 or more credit hours or Thesis or Dissertation 
 Details and instructions for enrollment are maintained at the [Bursar's Office webpage on Health Insurance](https://www.luc.edu/bursar/insurance.shtml).
 
 Ph.D. students funded by assistantships will receive additional details in their annual "award letters," sent by the Graduate School.
-Ph.D. students who are enrolled in fewer than eight credits in the fall semester must contact the [Graduate School Awards and Budget Manager](#the-graduate-school) if they wish to be enrolled in Loyola's health insurance plan.
+Ph.D. students who are enrolled in fewer than eight credits in the fall semester must contact the [Graduate School Awards and Budget Manager](https://www.luc.edu/gradschool/about/contactus/) if they wish to be enrolled in Loyola's health insurance plan.
 
 Questions about health insurance plans and coverage should be directed to the [University Bursar](https://www.luc.edu/bursar/staff.shtml).
 
