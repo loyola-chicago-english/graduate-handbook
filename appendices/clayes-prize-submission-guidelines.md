@@ -3,7 +3,7 @@ Every year the Department of English sponsors a competition among graduate stude
 Each student may submit only one essay to the competition.
 Essays should be *revised versions* of essays submitted for graduate course work:
 as a step toward revision, students are strongly encouraged to discuss their essay with the faculty member for whom it was initially written.
-Only essays written for 400‑level courses are eligible.
+Only essays written for 400-level courses are eligible.
 (Papers written for 501 or 502 will not be considered.)
 
 Students who have won first or second place prizes in the past are ineligible to compete again.

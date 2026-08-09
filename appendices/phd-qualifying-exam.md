@@ -82,7 +82,7 @@ This should be done a month before the exam.
 
 Before the oral exam, you should go over the questions and your answers from the written portion, preparing to develop, revise, or explain them.
 This is a very important part of your preparation for the oral.
-You may bring copies of the questions and answers to the oral exam, as well as notes, and, if you expect.to need them, a few books.
+You may bring copies of the questions and answers to the oral exam, as well as notes, and, if you expect to need them, a few books.
 Remember that the examiners are not limited to asking you about the written portion of the exam, although in practice the bulk of the oral is usually devoted to it.
 
 # Outcome

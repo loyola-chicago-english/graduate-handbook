@@ -34,8 +34,8 @@ Dates and topics for lessons should be agreed at the beginning of the semester, 
 Lesson plans should be discussed in advance.
 The faculty mentor should attend the TA's lessons and provide feedback to the TA.
 
-1. The TA should perform some portion of the grading, usually equivalent one full set of papers.
-Introduction into grading should be gradual and supported.
+1. The TA should perform some portion of the grading, usually equivalent to one full set of papers.
+Introduction to grading should be gradual and supported.
 For example, the TA might first read and mark a portion of one set of papers, then discuss grades and comments with the faculty mentor.
 Later in the semester, the TA may grade one complete set of papers, which the faculty mentor should review before returning to students.
 Alternatively, the TA might comment on and grade a portion of each set of papers (e.g., a quarter of each of four assignments).

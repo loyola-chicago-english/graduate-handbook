@@ -66,7 +66,7 @@ All graduate students are encouraged to participate in the English Graduate Stud
 The EGSA board (normally comprising five members) is elected from among the students as positions become available.
 Current board membership and additional information is posted on the [EGSA webpage](https://www.luc.edu/english/graduate/resourcesandpolicies/englishgraduatestudentassociation/).
 
-One member of the EGSA board serves as official liason to the faculty.
+One member of the EGSA board serves as official liaison to the faculty.
 This member should be placed on the department's faculty email list and will be invited to attend certain faculty meetings and meetings of the Graduate Programs Committee.
 
 Activities of EGSA include:
@@ -129,7 +129,7 @@ For funds administered by EGSA, contact the EGSA treasurer.
 
 Both sources of funding are distributed as expense reimbursement.
 Students seeking reimbursement must supply original receipts, boarding passes, and proof of attendance (conference registration receipt and a program copy showing your session).
-Ask the Graduate Program Assistant for the travel expense form, fill it out, and return it with the receipts to the Graduate School (for their funding) or to EGSA treasurer (for EGSA funding).
+Ask the Graduate Program Assistant for the travel expense form, fill it out, and return it with the receipts to the Graduate School (for their funding) or to the EGSA treasurer (for EGSA funding).
 
 ## Placement Officer
 
@@ -374,7 +374,7 @@ The teaching objective is literacy for research purposes.
 The English department at Loyola University Chicago accepts these courses as "graduate courses," equivalent to a graduate-level literature course.
 
 [^marquette-slu-details]: At Marquette University the relevant course numbers are FREN 6204, GRMN 6204, and LATN 6204.
-At St. Louis Univeristy the relevant course numbers are SPAN 5010 and FREN 5010.
+At St. Louis University the relevant course numbers are SPAN 5010 and FREN 5010.
 To enroll in a course run by Marquette University, complete Marquette's [Exchange Application](https://graduate.admissions.marquette.edu/register/mu-exchange).
 
 Students in the Medieval and Renaissance Studies track should watch for announcements from the Newberry Library's [Center for Renaissance Studies](https://www.newberry.org/research/research-centers/renaissance-studies) (CRS), which runs courses and workshops on research tools needed by specialists in these fields.
@@ -390,9 +390,9 @@ The skill tested is translation into English.
 Some exams consist of a single passage for translation, others of two passages, with or without choice.
 
 Grades are "Pass" and "Fail".
-The standard is usually comprehension, not an unerring performance in rendering of grammar and idiom.
+The standard is usually comprehension, not an unerring performance in the rendering of grammar and idiom.
 On account of variation in linguistic difficulty within and between languages, we make no recommendations regarding the number of errors allowed.
-The examiner's decision as final.
+The examiner's decision is final.
 
 Students who fail the exam may take another exam in the same language at a later date.
 In such cases, the GPD will usually transmit advice from the examiner to the student, regarding the kind of study recommended.
@@ -423,7 +423,7 @@ A grade of "NP" places a student on academic probation, a status that is lifted 
 See [Graduate School Academic Policies], under "Probation and Dismissal".
 
 Students with registered disability accommodations are exempt from this policy.
-For such students, appropriate progress is determined on a case by case basis.
+For such students, appropriate progress is determined on a case-by-case basis.
 
 
 ### Advancement to Candidacy

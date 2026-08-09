@@ -31,4 +31,4 @@ Notes:
 1. Students should enroll in ENGL 502 as their sole course in the semester after finishing all 400-level course requirements; it is usually not advisable to enroll in 502 during the summer, due to reduced faculty availability
 1. The Ph.D. qualifying exam is usually taken in the semester after 502; the dissertation proposal follows that.
 1. The writing process usually involves cycles of feedback from advisors, not reflected in the timelines above
-1. Students funded by assitantiships must apply for jobs and/or fellowships in the fall of their fifth year
+1. Students funded by assistantships must apply for jobs and/or fellowships in the fall of their fifth year
