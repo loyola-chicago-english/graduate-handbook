@@ -5,7 +5,7 @@ author: Loyola University Chicago, Department of English
 date: Approved 25 September 2024
 ---
 
-Basic policies regarding the M.A. Examination are contained within the [University Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-ma/#curriculumtext), under "M.A. Qualifying Examination."
+Basic policies regarding the M.A. Examination are contained within the [2025--2026 Academic Catalog](https://catalog.luc.edu/archivedcatalogs/2025-26_Academic_Catalog.pdf), at page 1604 (as paginated).
 
 # General Instructions
 

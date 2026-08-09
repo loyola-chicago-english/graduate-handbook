@@ -23,7 +23,7 @@ table.md
 
 Notes:
 
-1. Students admitted without an M.A. in English take the M.A. exam after completing ten 400-level courses
+1. The M.A. exam applies only to students admitted in AY 2025--2026 or before, and who do not hold an M.A. in English; students admitted in AY 2026--2027 and after take ENGL 500 instead
 1. Students enroll in three 400-level courses per semester unless teaching their own course, in which case they enroll in two.
    All students teach UCWR 110 in the spring of their second year and fall of their third year.
    Other service obligations of assistantships do not affect course load and thus are not recorded on the table above: see [Assistantships](#assistantships).

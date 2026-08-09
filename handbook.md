@@ -302,11 +302,11 @@ As students "walk" only at the May graduation, August and December degree studen
 
 # The Master of Arts Program
 
-Students in the M.A. program complete course requirements and a qualifying exam.
-A full-time student can complete these requirements in a year and a half of study --- Fall, Spring, one summer course, and the following Fall with a degree conferral in December.
 The authoritative statement of program requirements is the university's [Academic Catalog](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/english/english-ma/#curriculumtext).
+A full-time student can complete these requirements in a year and a half of study --- Fall, Spring, one summer course, and the following Fall with a degree conferral in December.
 
-For policies and instructions on the M.A. Exam, see the Academic Catalogue and [Instructions for the M.A. Exam](#ma-exam-full-instructions), below.
+Students who entered the program in AY 2025--2026 or earlier take an M.A. Exam.
+For policies and instructions, see the [Instructions for the M.A. Exam](#ma-exam-full-instructions), below.
 
 # The Doctor of Philosophy Program
 
