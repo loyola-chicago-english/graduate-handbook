@@ -66,14 +66,14 @@ Be sure that each examiner gets a copy of all three field statements.
 
 A month before the exam week, inform the Administrative Assistant to Graduate Programs of the dates, times, and fields of your written exam.
 Which field you take on each day, and at what time, is your choice.
-However, keep in mind that you must take the written portion during regular office hours, 8:30-5:00 on Mondays through Fridays.
+However, keep in mind that you must take the written portion during regular office hours, 8:30--5:00 on Mondays through Fridays.
 The Administrative Assistant to Graduate Programs will reserve an office in which you can write your exam and prepare the computer in that office for your use.
 Alternatively, you may use your own computer.
 
 The written portion of the exam is nine hours, three hours for each field.
 You may consult books during the exam (including electronic books and PDFs), but not notes.
 The Administrative Assistant to Graduate Programs will distribute your answers to the examiners.
-Most students turn in approximately 8-10 pages for each section of the exam.
+Most students turn in approximately 8--10 pages for each section of the exam.
 
 # The oral exam
 
