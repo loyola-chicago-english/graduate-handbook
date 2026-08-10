@@ -1,7 +1,7 @@
 ---
 title: PhD Exam Procedures
 author: Department of English, Loyola University Chicago
-date: 2017 (updated)
+date: 2017 (updated) # 2017 is the date of the printed copy OCRed to supply this text; the policy may be a decade older
 ---
 
 # Initial preparations

@@ -30,7 +30,7 @@ In a separate document (the "cover page") supply the following:
 
 Essays and cover pages should be submitted via email attachment as PDF documents (not word processing files).
 Submissions should be sent to the Administrative Assistant to Graduate Programs or the Office Coordinator, as specified in the annual competition announcement.
-Use the subject line "Submission for the Clayes Essay Prize."
+Use the subject line "Submission for the Clayes Essay Prize".
 
 File names should be derived from the title of your essay.
 The file name of the cover page should be formatted as `cover-page-TITLE-OF-YOUR-ESSAY.pdf`.

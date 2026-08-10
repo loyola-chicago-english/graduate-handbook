@@ -45,7 +45,7 @@ The postal address is:
 > | Chicago, IL 60660
 
 Department officers, administrators, and ombudsperson are listed on the [department website](https://www.luc.edu/english/people/) under "Department Administration."
-Graduate students interface most often with the Director of Graduate Programs (abbreviated "GPD") and Administrative Assistant to Graduate Programs.
+Graduate students have most contact with the Director of Graduate Programs (abbreviated "GPD"), Office Coordinator, and Administrative Assistant to Graduate Programs.
 
 ## The Graduate School
 
