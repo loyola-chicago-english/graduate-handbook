@@ -100,7 +100,7 @@ Graduate students enrolled for 8 or more credit hours or Thesis or Dissertation 
 Details and instructions for enrollment are maintained at the [Bursar's Office webpage on Health Insurance](https://www.luc.edu/bursar/insurance.shtml).
 
 PhD students funded by assistantships will receive additional details in their annual "award letters," sent by the Graduate School.
-PhD students who are enrolled in fewer than eight credits in the fall semester must contact the [Graduate School Awards and Budget Manager](https://www.luc.edu/gradschool/about/contactus/) if they wish to be enrolled in Loyola's health insurance plan.
+PhD students who are enrolled in fewer than 8 credits in the fall semester must contact the [Graduate School Awards and Budget Manager](https://www.luc.edu/gradschool/about/contactus/) if they wish to be enrolled in Loyola's health insurance plan.
 
 Questions about health insurance plans and coverage should be directed to the [University Bursar](https://www.luc.edu/bursar/staff.shtml).
 
@@ -253,10 +253,10 @@ For parental leave see the Graduate School's [Graduate Assistant Handbook], unde
 ## Transfer Credit and Advanced Standing
 
 It is ordinarily expected that all work for the Master's degree will be completed at Loyola.
-Upon the recommendation of the GPD, however, and with the approval of the Dean, up to six hours of credit for graduate work at another university may be counted toward the MA degree.
+Upon the recommendation of the GPD, however, and with the approval of the Dean, up to 6 hours of credit for graduate work at another university may be counted toward the MA degree.
 See the [Graduate School Academic Policies], under "Transfer Credit."
 
-For students entering the PhD program with prior graduate work, up to thirty hours of credit may, with the Department's recommendation and the Dean's approval, be counted toward a Loyola PhD.
+For students entering the PhD program with prior graduate work, up to 30 hours of credit may, with the Department's recommendation and the Dean's approval, be counted toward a Loyola PhD.
 The precise number of hours credited toward advanced standing is worked out by the GPD during a student's first year in the program.
 See the [Graduate School Academic Policies], under "Advanced Standing Toward the Doctoral Degree."
 
@@ -341,7 +341,7 @@ The director of ENGL 502 must be identified in the semester before a student enr
 This is done in consultation with the GPD, who must approve the [Departmental Form for ENGL 502](https://www.luc.edu/media/lucedu/english/docsamppdfs/gradresources/engl502.pdf).
 Usually the faculty director of ENGL 502 will also serve as director of the student's dissertation.
 
-The student and their faculty director should meet for a minimum of 7 hours, approximately 1 hour every two weeks.
+The student and their faculty director should meet for a minimum of seven hours, approximately one hour every two weeks.
 Early in the semester, the faculty director and student should agree on outcomes for the course.
 These should include field lists for the PhD Qualifying Exam, as approved lists are due in the semester before the exam is taken: see the [Instructions for the PhD Qualifying Exam](#phd-exam-full-instructions).
 Other written components of ENGL 502 are set by the faculty director, but usually include drafts of field statements and may include a literature review or a draft of the dissertation proposal.
@@ -455,7 +455,7 @@ Decisions must be received by the GPD at least one week prior to the defense dat
 
 The committee may require revisions of the dissertation up to and including the time of the defense.
 
-The defense takes the form of a presentation by the candidate (approximately 30 minutes), followed by a question-and-answer period led by the committee.
+The defense takes the form of a presentation by the candidate (approximately thirty minutes), followed by a question-and-answer period led by the committee.
 After the question-and-answer period, the committee withdraws to deliberate.
 The committee's decision is recorded on a Graduate School dissertation ballot.
 See the Graduate School's [downloadable forms](https://www.luc.edu/gradschool/academics/forms/).
@@ -473,7 +473,7 @@ Students interested in this option must first find a faculty member willing to d
 There is a departmental form (see [Department Links and Forms]) which must be submitted to the GPD for approval in the semester prior to the course.
 Proposals for 501 will not be approved if the material to be covered is regularly offered in existing graduate seminars.
 
-501 requires a minimum of 12 contact hours between faculty and student (approximately 1 hour every week) and a minimum of 25 pages of writing.
+501 requires a minimum of twelve contact hours between faculty and student (approximately one hour every week) and a minimum of 25 pages of writing.
 
 ## Optional Concentrations and Specializations
 

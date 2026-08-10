@@ -29,7 +29,7 @@ And although the selection of texts within each field will be influenced to some
 Make up your field lists in consultation with your committee.
 Typically, you will present your committee members with draft lists of works for their fields.
 In turn, they will suggest others, and you may negotiate dropping some.
-It is impossible to compare reading lists for different fields, but you should aim for lists of approximately 30 works, including primary and secondary reading material.
+It is impossible to compare reading lists for different fields, but you should aim for lists of approximately thirty works, including primary and secondary reading material.
 With an examiner's approval, a list may consist solely of primary works, but then you are responsible in addition for doing the necessary outside reading to make yourself a critically informed reader in that field.
 
 The reading list for each field, with a ballot indicating the approval of the examiner for that field, must be turned in to the GPD by the following dates:[^email]
@@ -50,7 +50,7 @@ It is extremely important that you do this, both to keep in touch with the exam 
 # Field statements
 
 You may begin working on your statements anytime after your lists have been approved.
-You should aim for statements between six and ten pages for each field, though some projects require longer statements.
+You should aim for statements between 6 and 10 pages for each field, though some projects require longer statements.
 The statements should identify three or so issues, questions, or arguments about the works on your list, and, in the course of discussing these, should traverse (very briefly, of course) most of the works on the reading list for the field.
 In this sense the statement can be thought of as justifying the field as a field.
 Remember that you are responsible for anything you write in your statements, including critical-theoretical terminology.
