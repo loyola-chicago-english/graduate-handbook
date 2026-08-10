@@ -1,3 +1,7 @@
+---
+title: Stanley A. Clayes Essay Prize
+author: Loyola University Chicago, Department of English
+---
 Every year the Department of English sponsors a competition among graduate students for the Stanley A. Clayes Essay Prize.
 Prizes will be awarded to outstanding papers written in a 400-level graduate course in English in the previous academic year, including both summer terms.
 

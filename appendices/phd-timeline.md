@@ -1,5 +1,6 @@
 ---
 title: Normative timeline and milestones for the PhD
+author: Loyola University Chicago, Department of English
 ---
 
 This document should be read in conjunction with the sections [PhD Program Requirements](#program-requirements), especially [Post-coursework Progress](#post-coursework-progress), and the summary of [service obligations of assistantships](#assistantships).

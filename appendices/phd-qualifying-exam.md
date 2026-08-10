@@ -1,6 +1,7 @@
 ---
 title: PhD Exam Procedures
 author: Department of English, Loyola University Chicago
+date: 2017 (updated)
 ---
 
 # Initial preparations

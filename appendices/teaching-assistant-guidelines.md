@@ -1,7 +1,6 @@
 ---
 title: Guidelines for Teaching Assistants
 author: Loyola University Chicago, Department of English
-date: Last updated \today
 ---
 
 Assistantships are governed by policies maintained by the Graduate School and the Department of English.
