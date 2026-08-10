@@ -63,21 +63,21 @@ Be sure that each examiner gets a copy of all three field statements.
 
 # The written exam
 
-A month before the exam week, inform the Graduate Program Secretary of the dates, times, and fields of your written exam.
+A month before the exam week, inform the Administrative Assistant to Graduate Programs of the dates, times, and fields of your written exam.
 Which field you take on each day, and at what time, is your choice.
 However, keep in mind that you must take the written portion during regular office hours, 8:30-5:00 on Mondays through Fridays.
-The Secretary will reserve an office in which you can write your exam and prepare the computer in that office for your use.
+The Administrative Assistant to Graduate Programs will reserve an office in which you can write your exam and prepare the computer in that office for your use.
 Alternatively, you may use your own computer.
 
 The written portion of the exam is nine hours, three hours for each field.
 You may consult books during the exam (including electronic books and PDFs), but not notes.
-The Graduate Program Secretary will distribute your answers to the examiners.
+The Administrative Assistant to Graduate Programs will distribute your answers to the examiners.
 Most students turn in approximately 8-10 pages for each section of the exam.
 
 # The oral exam
 
 The oral portion of the exam is two hours long.
-Contact your committee to arrange a date and time, and then inform the Secretary so that a room can be reserved.
+Contact your committee to arrange a date and time, and then inform the Administrative Assistant to Graduate Programs so that a room can be reserved.
 This should be done a month before the exam.
 
 Before the oral exam, you should go over the questions and your answers from the written portion, preparing to develop, revise, or explain them.

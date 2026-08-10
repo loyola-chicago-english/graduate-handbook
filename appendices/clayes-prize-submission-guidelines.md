@@ -1,4 +1,4 @@
-Every year the Department of English sponsors a competition among graduate students for the Stanley Clayes Memorial Award.
+Every year the Department of English sponsors a competition among graduate students for the Stanley A. Clayes Essay Prize.
 Prizes will be awarded to outstanding papers written in a 400-level graduate course in English in the previous academic year, including both summer terms.
 
 Each student may submit only one essay to the competition.
@@ -23,8 +23,8 @@ In a separate document (the "cover page") supply the following:
 - the number, title, and semester of the course in which you first wrote the essay
 
 Essays and cover pages should be submitted via email attachment as PDF documents (not word processing files).
-Submissions should be sent to the Graduate Program Assistant or Office Manager, as specified in the annual competition announcement.
-Use the subject line "Submission for the Clayes Memorial Essay Competition".
+Submissions should be sent to the Administrative Assistant to Graduate Programs or the Office Coordinator, as specified in the annual competition announcement.
+Use the subject line "Submission for the Clayes Essay Prize".
 
 File names should be derived from the title of your essay.
 The file name of the cover page should be formatted as `cover-page-TITLE-OF-YOUR-ESSAY.pdf`.

@@ -1,17 +1,17 @@
 ---
-title: The M.A. Exam in English
+title: The MA Exam in English
 subtitle: Instructions for Students
 author: Loyola University Chicago, Department of English
 date: Approved 25 September 2024
 ---
 
-Basic policies regarding the M.A. Examination are contained within the [2025--2026 Academic Catalog](https://catalog.luc.edu/archivedcatalogs/2025-26_Academic_Catalog.pdf), at page 1604 (as paginated).
+Basic policies regarding the MA Examination are contained within the [2025--2026 Academic Catalog](https://catalog.luc.edu/archivedcatalogs/2025-26_Academic_Catalog.pdf), at page 1604 (as paginated).
 
 # General Instructions
 
-- The exam comprises two two-hour periods, 10:00am--12:00pm and 1:00pm--3:00pm. Exam dates are announced by the Graduate Programs Director, usually three months in advance.
+- The exam comprises two two-hour periods, 10:00am--12:00pm and 1:00pm--3:00pm. Exam dates are announced by the GPD, usually three months in advance.
 - In each two-hour period, students write one essay, responding to one of the prompts presented in that exam period. Essay prompts are drawn from a standard list of [Exam Questions]. Students should identify clearly the prompt to which they respond.
-- At the beginning of the exam, students are presented with a collection of passages and a list of texts. The passages and the texts are drawn from graduate courses offered during the period in which students were enrolled in the M.A. program. Essay responses to question (1) must be centered on one of the supplied passages. Essay responses to questions (2)--(6) must be centered on one or more of the texts in the supplied list of texts.
+- At the beginning of the exam, students are presented with a collection of passages and a list of texts. The passages and the texts are drawn from graduate courses offered during the period in which students were enrolled in the MA program. Essay responses to question (1) must be centered on one of the supplied passages. Essay responses to questions (2)--(6) must be centered on one or more of the texts in the supplied list of texts.
 - There are no fixed requirements regarding the length of an essay. Most are between 5 and 7 pages in length, double spaced.
 - Students are permitted to consult course readings only; outside research is not permitted.
 - Parenthetical citations are sufficient; a list of works cited is not expected.
@@ -22,7 +22,7 @@ Basic policies regarding the M.A. Examination are contained within the [2025--20
 
 # Exam Questions
 
-Questions on the M.A. Exam are drawn from the following standard set.
+Questions on the MA Exam are drawn from the following standard set.
 
 (@) **Close reading.** Choose one of the supplied passages. Make an argument or claim about the work from which the passage is taken, supported by a close reading of the passage. You may refer to other passages from the same text but your response must be centered in an analysis of details of the passage selected.
 
@@ -40,4 +40,4 @@ Questions on the M.A. Exam are drawn from the following standard set.
 
 Exams are graded by members of the MA Exam Committee using the rubric below.
 Exam results and the committee's comments are transmitted to students by the GPD.
-![Grading rubric used by the M.A. Exam Committee.](./../images/ma-exam-rubric-2013.jpg)
+![Grading rubric used by the MA Exam Committee.](./../images/ma-exam-rubric-2013.jpg)
