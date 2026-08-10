@@ -1,17 +1,40 @@
 # Overview
 
-This repository holds the source files and build scripts for the handbook for graduate students in the [Department of English at Loyola University Chicago](https://www.luc.edu/english/).
-Build and deployment is done with GitHub Actions.
-The shell script `build.sh` provides an equivalent build for local testing.
-For dependencies see the GitHub Action.
+This repository holds the source of the handbook for graduate students in the [Department of English at Loyola University Chicago](https://www.luc.edu/english/), which is released as a PDF.
+
+## Where the text lives
 
 The principal source file is `handbook.md`.
-The released PDF is built with [Pandoc](https://pandoc.org/), the behavior of which is controlled by `config/default.yaml`.
-Appendices are maintained as separate files in the directory `appendices/` and included with the Lua filter `include-files.lua`.
-The CSV file in `appendices/` is converted to a Markdown table prior to other build operations.
-The directory `images/` stores an image file.
+Appendices are separate files in `appendices/`, pulled in at build time by the Lua filter `include-files.lua`.
+The timeline table is maintained as a CSV file in `appendices/` and converted to Markdown by the build.
+`config/default.yaml` holds the Pandoc settings, and `images/` holds the one image.
 
-For versioning logic and a changelog see the file CHANGELOG.md.
+## Editing the text
+
+Write one sentence per line, so that a reworded sentence shows as a one-line change.
+
+Keep the source ASCII.
+Write `--` for an en dash and `---` for an em dash; Pandoc renders them.
+Set terminal commas and periods inside the closing quotation mark, per the American convention; colons stay outside.
+Use numerals for credit hours and page lengths, and otherwise spell out whole numbers through one hundred (CMOS18, 9.2).
+
+Prefer linking the [Academic Catalog](https://catalog.luc.edu/) to restating it.
+The catalog is authoritative, and this handbook says so in its first section.
+
+## Building
+
+`build.sh` is the build.
+The GitHub Action installs the dependencies and then calls it, so a local run and a released PDF come from the same source.
+Run it from the root of the repository.
+
+It needs Pandoc, LuaLaTeX from TeX Live 2025 or later (required by the PDF/UA-2 tagging the build requests), and `include-files.lua`, resolved from either the working directory or Pandoc's user data directory.
+For the versions the release is built against, see `.github/workflows/`.
+
+## Releasing
+
+Pushing to `main` builds the PDF.
+Pushing a tag of the form `v2027.0` also attaches it to a GitHub release.
+For versioning logic and a changelog see CHANGELOG.md.
 
 # Commit Conventions
 
@@ -36,7 +59,7 @@ The specification defines only `feat` and `fix`; the remaining types are local c
 There is no type for removal.
 Use `fix` where something is removed as wrong or outdated, and `refactor` where it is removed because it has moved or been superseded; either way the change is recorded under "Removed" in the changelog.
 
-A scope names the part of the handbook affected, e.g. `ma`, `phd`, `personnel`, `catalog`, `funding`, `changelog`, or `handbook` for the document as a whole.
+A scope names the part of the handbook affected, e.g. `ma`, `phd`, `personnel`, `catalog`, `funding`, `changelog`, or `handbook` (alternatively, `text`) for the document as a whole.
 
 Make one logical change per commit.
 Entries in CHANGELOG.md cite the commit that made the change, so a commit mixing several reader-facing changes cannot be cited precisely.
