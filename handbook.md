@@ -398,7 +398,6 @@ The examiner's decision is final.
 Students who fail the exam may take another exam in the same language at a later date.
 In such cases, the GPD will usually transmit advice from the examiner to the student, regarding the kind of study recommended.
 
-
 ### Responsible Conduct of Research
 
 See the Academic Catalog [Description of the English PhD Curriculum], under "Responsible Conduct of Research."
@@ -425,7 +424,6 @@ See [Graduate School Academic Policies], under "Probation and Dismissal."
 
 Students with registered disability accommodations are exempt from this policy.
 For such students, appropriate progress is determined on a case-by-case basis.
-
 
 ### Advancement to Candidacy
 
