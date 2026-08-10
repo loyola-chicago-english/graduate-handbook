@@ -7,7 +7,7 @@ This document should be read in conjunction with the sections [PhD Program Requi
 
 The table below shows two paths through the PhD program.
 The path labeled "MA+PhD" shows milestones for students who have no prior graduate coursework in English.
-The path labeled "PhD" shows milestones for students who hold an MA in English and apply 30 credit hours (the maximum possible) toward fulfillment of the coursework requirement for the PhD
+The path labeled "PhD" shows milestones for students who hold an MA in English and apply 30 credit hours (the maximum possible) toward fulfillment of the coursework requirement for the PhD.
 See [Advanced Standing](#transfer-credit-and-advanced-standing).
 Students with some prior graduate coursework, but fewer than 30 hours, will follow a path intermediate between the two shown here.
 
