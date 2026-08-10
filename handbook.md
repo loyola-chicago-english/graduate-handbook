@@ -501,8 +501,7 @@ The following is the normal sequence in the Department of English:
 
 All students serve as primary instructor for at least two composition courses and two literature courses during the period of their assistantship.
 The Department Chair makes all assignments in consultation with the GPD.
-The appendices to this handbook supply departmental [Guidelines for Teaching Assistants](#guidelines-teaching-assistants)
-and [Guidelines for Research Assistants](#guidelines-for-research-assistants).
+The appendices to this handbook supply departmental [Guidelines for Teaching Assistants](#guidelines-teaching-assistants) and [Guidelines for Research Assistants](#guidelines-for-research-assistants).
 
 ### Funding beyond the fifth year
 

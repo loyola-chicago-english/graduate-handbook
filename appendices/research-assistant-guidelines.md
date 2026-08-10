@@ -16,7 +16,8 @@ The simplest form of this message would read, "We have reviewed the guidelines f
 1. RAs are expected to give eighteen hours per week on average to the research project and no more than twenty hours in any one week.
 The time commitment includes all forms of work on the research project.
 
-1. RAs and the faculty members should meet to discuss the research project and research practices in general (e.g., research tools, protocols, ethics) at least three times during the semester. This can be done virtually.
+1. RAs and the faculty members should meet to discuss the research project and research practices in general (e.g., research tools, protocols, ethics) at least three times during the semester.
+   This can be done virtually.
 
 1. Faculty members should not ask RAs for assistance with their teaching.
 
