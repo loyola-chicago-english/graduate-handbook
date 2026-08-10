@@ -33,8 +33,10 @@ Submissions should be sent to the Administrative Assistant to Graduate Programs 
 Use the subject line "Submission for the Clayes Essay Prize".
 
 File names should be derived from the title of your essay.
-The file name of the cover page should be formatted as `cover-page-TITLE-OF-YOUR-ESSAY.pdf`.
+The file name of the cover page should be formatted as `cover-page-ESSAY-TITLE.pdf`.
+(Replace `ESSAY-TITLE` with the title of your essay.)
 Follow [best practices for file naming](https://records-express.blogs.archives.gov/2017/08/22/best-practices-for-file-naming/).
+Use hyphens not spaces in file names.
 
 Essay submissions should observe the following additional details in regard to presentation:
 
