@@ -292,7 +292,7 @@ Ph.D. students should see the [Ph.D. Milestones and Normative Timeline].
 
 Loyola confers degrees three times each year: May, August, and December.
 A student graduates when they have completed all degree requirements and submitted an application for the degree.
-Applications for degree are due approximately six months before degree conferral: typically December 1 for a May degree, February 1 for an August degree, and August 1 for a December degree.
+Applications for degree are due four to six months before degree conferral: typically December 1 for a May degree, February 1 for an August degree, and August 1 for a December degree.
 These dates are set by the Graduate School: see the list of [Key Dates and Deadlines].
 Applications for degree are submitted through [LOCUS].
 Late applications are not accepted: students who miss a deadline must apply for a subsequent graduation date.
