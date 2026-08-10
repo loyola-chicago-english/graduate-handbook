@@ -248,7 +248,7 @@ Students who wish to request a leave of absence should first speak with the GPD.
 
 ## Parental Leave
 
-For parental leave see the Graduate School's [Graduate Assistant Handbook], under "Parental Leave Policy".
+For parental leave see the Graduate School's [Graduate Assistant Handbook], under "Parental Leave Policy."
 
 ## Transfer Credit and Advanced Standing
 
@@ -324,7 +324,7 @@ For course requirements, including field-specific requirements, see the Academic
 #### Minimum GPA
 
 Students who fall below a grade-point average of 3.00 are placed on academic probation.
-See [Graduate School Academic Policies], under "Probation and Dismissal".
+See [Graduate School Academic Policies], under "Probation and Dismissal."
 
 The Department of English has a more stringent policy for first-year PhD students, as follows.
 First-year PhD students whose GPA for the fall and spring semesters is below 3.50 must submit a portfolio of three essays (totaling at least 30 pages) to the GPD the week after spring semester final exams.
@@ -390,7 +390,7 @@ exams are usually one hour in length, handwritten, with the aid of a bilingual d
 The skill tested is translation into English.
 Some exams consist of a single passage for translation, others of two passages, with or without choice.
 
-Grades are "Pass" and "Fail".
+Grades are "Pass" and "Fail."
 The standard is usually comprehension, not an unerring performance in the rendering of grammar and idiom.
 On account of variation in linguistic difficulty within and between languages, we make no recommendations regarding the number of errors allowed.
 The examiner's decision is final.
@@ -421,7 +421,7 @@ Dissertation directors submit grades (P/NP) for their advisees at the end of eac
 A single missed target is often excusable by extenuating circumstances.
 A second consecutive semester of missed targets may be grounds for an "NP" grade.
 A grade of "NP" places a student on academic probation, a status that is lifted when the student completes expected work.
-See [Graduate School Academic Policies], under "Probation and Dismissal".
+See [Graduate School Academic Policies], under "Probation and Dismissal."
 
 Students with registered disability accommodations are exempt from this policy.
 For such students, appropriate progress is determined on a case-by-case basis.
@@ -430,9 +430,9 @@ For such students, appropriate progress is determined on a case-by-case basis.
 ### Advancement to Candidacy
 
 Students advance to doctoral candidacy when they fulfill all course requirements and the [Research Tool Requirement](#research-tool), pass the [PhD Qualifying Examination](#phd-exam), identify a dissertation director, establish a dissertation committee, and produce an approved dissertation proposal.
-See the [Graduate School Academic Policies], under "Doctoral Candidacy".
+See the [Graduate School Academic Policies], under "Doctoral Candidacy."
 Dissertation committees comprise a director and two or three faculty readers.
-See the [Graduate School Academic Policies], under "Dissertations and Theses," subsection "Committees".
+See the [Graduate School Academic Policies], under "Dissertations and Theses," subsection "Committees."
 
 The GPD advises in the selection of a dissertation committee.
 Approval of the dissertation committee and dissertation proposal is done in [GSPS].
@@ -440,7 +440,7 @@ Approval of the dissertation committee and dissertation proposal is done in [GSP
 ### Dissertation Defense and Submission
 
 A public oral defense is required of all dissertations.
-See the [Graduate School Academic Policies], under "Text and Oral Defense".
+See the [Graduate School Academic Policies], under "Text and Oral Defense."
 Preparations for the defense begin when members of the committee have approved all chapters.
 The process is then as follows:
 
@@ -463,7 +463,7 @@ This ballot should be downloaded and printed by the candidate prior to the defen
 
 After the defense, the candidate makes any remaining corrections and revisions required by the committee.
 Candidates then submit to the Graduate School a final, approved electronic copy of the dissertation.
-See the [Graduate School Academic Policies], under "Dissertations and Theses" and "Final Copies of the Text", with additional links.
+See the [Graduate School Academic Policies], under "Dissertations and Theses" and "Final Copies of the Text," with additional links.
 Deadlines for these steps are maintained in the Graduate School's calendar of [Key Dates and Deadlines].
 
 ## Independent Study
