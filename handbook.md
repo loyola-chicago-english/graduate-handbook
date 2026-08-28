@@ -422,11 +422,12 @@ Details are posted on the [RCRS webpage](https://www.luc.edu/ors/RCRHome.shtml).
 The Graduate Programs Committee has established the following expectations for progress in [ENGL 610 and 600]:
 
 - ENGL 610, first semester: pass the PhD qualifying exam
-- ENGL 610, second semester: file an approved dissertation prospectus
+- ENGL 610, second semester: file an approved dissertation proposal
 - ENGL 600, first semester: complete one chapter; or conduct preparatory reading and research
 - ENGL 600, subsequent semesters: complete one chapter per semester
 
 For additional details see the [PhD Milestones and Normative Timeline].
+For dissertation proposals see the [Guidelines for Dissertation Proposals].
 
 Dissertation directors submit grades (P/NP) for their advisees at the end of each semester of ENGL 610 and 600.
 A single missed target is often excusable by extenuating circumstances.
@@ -568,6 +569,14 @@ appendices/ma-exam-instructions-for-students.md
 
 ``` {.include}
 appendices/phd-qualifying-exam.md
+```
+
+\newpage
+
+## Guidelines for Dissertation Proposals
+
+``` {.include}
+appendices/dissertation-proposal-guidelines.md
 ```
 
 \newpage
