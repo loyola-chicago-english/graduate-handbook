@@ -44,7 +44,7 @@ Begin working on field statements while creating the lists.
 Field statements have the following requirements:
 
 - Length: between 3,000 and 4,500 words (10--15 double-spaced pages), excluding works cited
-- Comprehensiveness: reference most of the works on the field list
+- Comprehensiveness and synthesis: reference and synthesize most of the works on the field list
 - Organization and argument: organize the statement around three or so issues or questions that (you argue) define the field
 
 You are responsible for all works on your lists, whether or not you refer to them in your field statements.
