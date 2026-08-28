@@ -360,7 +360,13 @@ Students must maintain continuous registration in ENGL 600 until they complete t
 Both 610 and 600 require a minimum of one contact hour monthly with the dissertation director.
 A student who successfully defends their dissertation before the end of the second week of the fall or spring semester is not required to register for ENGL 600 in that final semester.
 
-For expectations in ENGL 610 and 600 see [Post-coursework Progress] and the [PhD Milestones and Normative Timeline].
+For general expectations in ENGL 610 and 600 see [Post-coursework Progress] and the [PhD Milestones and Normative Timeline].
+
+At the end of each semester of enrollment in ENGL 600, a student will submit a brief written report on their progress that semester.
+The report should be no more than 300 words and should be sent to the GPD as an email attachment not later than the end of finals week, with a copy to the student's full committee.
+Before filing this report, students should consult with their committee to discuss their progress and goals.
+This end-of-semester report and the approval by the dissertation director are requirements for earning a "P" in ENGL 600.
+
 
 ### PhD Qualifying Examination {#phd-exam}
 
