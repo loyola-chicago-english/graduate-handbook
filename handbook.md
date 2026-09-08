@@ -222,6 +222,12 @@ Students should check the academic calendar for deadlines on withdrawing for ful
 For additional details and policies, see the [Graduate School Academic Policies], under "Grades."
 Students are responsible for withdrawing themselves from classes.
 
+## Residency Requirements
+
+Students funded by Graduate School assistantships are expected to be resident in Chicago to meet the duties of assistantships.
+Students funded by the Schmitt, Teaching Scholars, or Attoh Fellowship are expected to be resident in Chicago to meet the duties of these followships.
+Any student who receives any kind of funding (assistantship or fellowship) from the Graduate School must live in the US.
+
 ## Incompletes
 
 The Graduate School maintains policies on incompletes, including time limits for completion of work: see the [Graduate School Academic Policies], under "Grades."
@@ -502,6 +508,8 @@ The Department Chair makes all assignments in consultation with the GPD.
 Records of performance in assistantships are maintained by the GPD for the duration of the student's study.
 The appendices to this handbook supply departmental [Guidelines for Teaching Assistants](#guidelines-teaching-assistants) and [Guidelines for Research Assistants](#guidelines-for-research-assistants).
 
+For residency requirements of assistantships see [Residency Requirements].
+
 ### Funding beyond the fifth year
 
 Students who have completed the term of their Assistantship and advanced to candidacy are eligible to apply for three fellowships:
@@ -512,6 +520,7 @@ Students who have completed the term of their Assistantship and advanced to cand
 
 For details see the Graduate School's page on [Financial Assistance and Funding](http://www.luc.edu/gradschool/FundingGrad.Education.shtml), under "Fellowships & Scholarships."
 Students are not eligible to receive the same fellowship twice.
+For residency requirements of fellowships see [Residency Requirements].
 
 Another source of post-fifth-year funding is the Dissertation Formatting Assistantship.
 Details will be supplied when this position becomes available.
