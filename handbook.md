@@ -136,7 +136,7 @@ Ask the Administrative Assistant to Graduate Programs for the travel expense for
 
 The placement officer advises students on all aspects of the academic job search and arranges mock interviews and mock job talks.
 All students who are entering the academic job market should contact the placement officer in the semester before they begin to apply for positions.
-The current placement officer is [Dr. Jack Kerkering](https://www.luc.edu/english/people/faculty/profiles/kerkeringjohn.shtml).
+The current placement officer is [Dr. Joe Janangelo](https://www.luc.edu/english/people/faculty/profiles/janangelojoseph.shtml).
 
 The department has two collections of advice and information for students entering the job market:
 
