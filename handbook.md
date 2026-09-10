@@ -367,6 +367,8 @@ This end-of-semester report and the approval by the dissertation director are re
 Students must maintain continuous registration in ENGL 600 until they complete their degree.
 A student who successfully defends their dissertation before the end of the second week of the fall or spring semester is not required to register for ENGL 600 in that final semester.
 
+Credits accrued in ENGL 610 and ENGL 600 do not count toward credit requirements of the degree program.
+
 ### PhD Qualifying Examination {#phd-exam}
 
 For basic information about the PhD qualifying examination, see the Academic Catalog [Description of the English PhD Curriculum], under "PhD Qualifying Examination."
