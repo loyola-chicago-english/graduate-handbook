@@ -1,7 +1,7 @@
 ---
 title: PhD Exam Procedures
 author: Department of English, Loyola University Chicago
-date: 2026-08-09 draft
+date: Approved 28 August and 9 September 2026
 ---
 
 # Initial preparations

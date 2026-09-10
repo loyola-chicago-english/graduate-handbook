@@ -1,7 +1,7 @@
 ---
 title: Dissertation Proposal Guidelines
 author: Department of English, Loyola University Chicago
-date: 2026-08-28 draft
+date: Approved 28 August 2026
 ---
 
 The structure, content, and length of the dissertation proposal are set by the dissertation director.
