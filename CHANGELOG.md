@@ -13,6 +13,32 @@ Minor fixes are sometimes designated with decimals.
 [8a2d855]: https://github.com/loyola-chicago-english/graduate-handbook/commit/8a2d855479838455196b68c81a7db4e3e6d4379c
 [1a74eab]: https://github.com/loyola-chicago-english/graduate-handbook/commit/1a74eab2355c3080352aa8496fd3353f053508e5
 
+## [Unreleased]
+
+### Added
+
+- **Breaking.** ENGL 600: a progress report at the end of each semester of enrollment, of no more than 300 words, sent to the GPD by the end of finals week and copied to the full committee, after consultation with the committee. The report and the dissertation director's approval are requirements for earning a "P" (b86c340)
+- Dissertation Proposal Guidelines: a new appendix, offering advice on the title, abstract, technical description, and bibliography of the proposal. The guidelines are advisory, not binding: the structure, content, and length of the proposal are set by the dissertation director. Approved by the GPC on 9 September 2026 (76e21b2, fcd74b2)
+- Residency Requirements: a new section stating the Graduate School's requirement that students funded by assistantships or by the Schmitt, Teaching Scholars, or Attoh fellowships be resident in Chicago, and that any student funded by the Graduate School live in the United States. Linked from "Assistantships" and "Funding Beyond the Fifth Year" (e697a3f)
+- ENGL 610 and 600: credits accrued in these courses do not count toward the credit requirements of the degree program. These courses became credit-bearing in Fall 2026 (c247721, but the commit message wrongly says the courses became credit-bearing in Fall 2025)
+- Assistantships: records of performance are maintained by the GPD for the duration of a student's study (6c28a0b)
+
+### Changed
+
+- **Breaking.** PhD Qualifying Exam: anchor the procedure to the ENGL 502 sequence in place of calendar dates. Approved reading lists are due to the GPD by email no later than exam week of the 502 semester, copied to the committee and to the Administrative Assistant to Graduate Programs; field statements are 3000--4500 words, due by week 7 of the semester after 502; the written exam falls no earlier than four weeks after the statements are submitted and no later than finals week of that semester. Approved by the GPC on 28 August 2026, with the due dates and the length of field statements approved by the graduate faculty on 9 September 2026 (89a4605, fcd74b2)
+- PhD Qualifying Exam: recognize two basic kinds of field, theory/method and literature, in place of the five kinds previously listed, agreeing with the Academic Catalog (89a4605)
+- PhD Qualifying Exam: describe the exam as preparation for teaching as well as for dissertation research, and require these aims to be balanced in the choice of fields and texts. Field statements are expected to synthesize the works on the field list, not only to reference them (89a4605, bda9f45)
+- Departmental personnel: update placement officer (b55989c)
+
+### Removed
+
+- PhD Qualifying Exam: the departmental ballot for approval of field lists, and the three separate deadlines it accompanied. An email to the GPD, copied to the committee, now carries the same information (89a4605)
+
+### Fixed
+
+- PhD Milestones and Normative Timeline: state the deadlines for the qualifying exam and the dissertation proposal by semester of ENGL 610. The note had given no deadline for the proposal, saying only that it follows the exam (d11f36e)
+- Typographic and grammatical errors in the appendix on the PhD timeline (d11f36e)
+
 ## [2027.0] - 2026-08-10
 
 ### Added
