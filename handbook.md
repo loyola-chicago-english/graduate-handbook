@@ -225,7 +225,7 @@ Students are responsible for withdrawing themselves from classes.
 ## Residency Requirements
 
 Students funded by Graduate School assistantships are expected to be resident in Chicago to meet the duties of assistantships.
-Students funded by the Schmitt, Teaching Scholars, or Attoh Fellowship are expected to be resident in Chicago to meet the duties of these followships.
+Students funded by the Schmitt, Teaching Scholars, or Attoh Fellowship are expected to be resident in Chicago to meet the duties of these fellowships.
 Any student who receives any kind of funding (assistantship or fellowship) from the Graduate School must live in the US.
 
 ## Incompletes
