@@ -344,7 +344,7 @@ This course is a 'full-time equivalent'.
 Except in special circumstances, it is taken in the semester after completing the last of the 400-level course requirements.
 
 The director of ENGL 502 must be identified in the semester before a student enrolls in this course.
-This is done in consultation with the GPD, who must approve the [Departmental Form for ENGL 502](https://www.luc.edu/media/lucedu/english/docsamppdfs/gradresources/engl502.pdf).
+This is done in consultation with the GPD, who must approve the ENGL 502 form (see [Department Links and Forms]).
 Usually the faculty director of ENGL 502 will also serve as director of the student's dissertation.
 
 The student and their faculty director should meet for a minimum of seven hours, approximately one hour every two weeks.
